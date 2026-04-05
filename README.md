@@ -58,7 +58,7 @@ https://www.olimpia.sp.gov.br/portal/contas_publicas/1/30/139/0/0/0/
 * Identificada variação significativa ao longo do ano
 * Maior arrecadação em dezembro
 * Menor arrecadação em junho
-![Crescimento](images\image.png)
+![Crescimento](images/image.png)
 ### 📉 Crescimento Mensal (%)
 
 * Forte oscilação ao longo do ano
