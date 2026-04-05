@@ -1,0 +1,3007 @@
+mes_ref,codigo,descricao,valor
+janeiro,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,8979.07
+janeiro,1.6.1.1.01.0.1.018,TARIFAS DE DISPOSIÇÃO DE RESIDUOS CONSTR.CIVIL,19260.0
+janeiro,1.6.1.1.01.0.1.007,TARIFA ESGOTO REFERENTE POÇO,0.0
+janeiro,9.6.1.1.01.0.1.006,DESCONTOS SOCIAIS ESGOTO,0.0
+janeiro,1.6.1.1.01.0.1.006,TARIFS UTIL. ESGOTO SANITARIO,618.39
+janeiro,9.6.1.1.01.0.1.005,DESCONTOS SOCIAIS - ÁGUA,0.0
+janeiro,1.6.1.1.01.0.1.005,TARIFAS DE CONSUMO DE AGUA,577.03
+janeiro,1.6.1.1.01.0.1.004,VISTORIA DE SUPRESSÃO DE ARVORE EM CALÇADA,149.36
+janeiro,1.6.1.1.01.0.1.001,TARIFA DE MANIFESTAÇÃO DE ORGÃO AMBIENTAL,0.0
+janeiro,1.3.3.9.99.0.1.002,OUTORGA VARIÁVEL,27847.09
+janeiro,1.3.2.2.01.0.1.001,DIVIDENDOS,6.29
+janeiro,1.3.2.1.04.0.1.000,Remuneração dos Recursos do Regime Próprio de Prev,191102.65
+janeiro,1.3.2.1.01.0.1.025,REC REM ASS SOCIAL - FEDERAL,3377.26
+janeiro,1.6.1.1.01.0.1.020,CERTIFICADO DE DISPENSA DE LICENÇA CDL,0.0
+janeiro,1.3.2.1.01.0.1.024,REC REM ASS SOCIAL - ESTADUAL,2766.84
+janeiro,1.3.2.1.01.0.1.022,REC REM EDUCAÇÃO - ESTADUAL,0.0
+janeiro,1.3.2.1.01.0.1.021,REC REND DUODECIMO CAMARA,0.0
+janeiro,1.3.2.1.01.0.1.020,REC REND SAUDE FEDERAL,27188.41
+janeiro,1.3.2.1.01.0.1.019,REC REND SAUDE ESTADO,21603.41
+janeiro,1.3.2.1.01.0.1.018,RENDIMENTOS ESCOLA PROFISSIONAL,224.67
+janeiro,1.3.2.1.01.0.1.014,REC REND DE BANC FUNDEB,37197.91
+janeiro,1.3.2.1.01.0.1.010,REC REM DEP BANC CIDE,289.82
+janeiro,1.3.2.1.01.0.1.008,REC REM OUT DEP REC VINCULADOS,5077.49
+janeiro,1.3.2.1.01.0.1.007,REC REM DEP BANC FNAS,6283.39
+janeiro,1.3.2.1.01.0.1.005,REC REM SERVIÇOS AÇÕES DE SAUDE,14260.71
+janeiro,1.3.2.1.01.0.1.004,REC REM DEP BANC MDE,37146.23
+janeiro,1.3.2.1.01.0.1.002,REC REM DEP BANC ROYALTIES,294.93
+janeiro,1.3.2.1.01.0.1.023,REC REM EDUCAÇÃO - FEDERAL,0.0
+janeiro,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,1010119.58
+janeiro,1.6.1.1.01.0.1.021,AUTORIZAÇÃO DE CORTE DE ARVORE ISOLADA,0.0
+janeiro,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,0.9
+janeiro,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,0.0
+janeiro,1.6.9.9.99.0.3.001,DIV ATIVA PATRULHA AGRICOLA,0.0
+janeiro,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,336.58
+janeiro,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,0.0
+janeiro,1.6.9.9.99.0.2.001,M/J PATRULHA AGRICOLA,0.0
+janeiro,1.6.9.9.99.0.1.017,OUTRAS RECEITAS,1199.23
+janeiro,1.6.9.9.99.0.1.016,OUTROS SERVIÇOS,16.24
+janeiro,1.6.9.9.99.0.1.015,POSTAGEM,0.0
+janeiro,1.6.9.9.99.0.1.013,AVISO CONTA VENCIDA,0.3
+janeiro,1.6.9.9.99.0.1.011,AGUA POTAVEL PIPA,0.0
+janeiro,1.6.9.9.99.0.1.010,LIMPA FOSA,0.0
+janeiro,1.6.9.9.99.0.1.007,MUDANÇA DE CAVALETE,278.48
+janeiro,1.6.1.1.01.0.1.022,PARECER TECNICO AMBIENTAL,247.52
+janeiro,1.6.9.9.99.0.1.005,SERVIÇOS DE RELIGAÇÃO DE AGUA,0.0
+janeiro,1.6.9.9.99.0.1.003,SERVIÇOS DE LIGAÇÃO DE AGUA,0.0
+janeiro,1.6.9.9.99.0.1.002,OUTROS SERVIÇOS,1002.54
+janeiro,1.6.9.9.99.0.1.001,PRESTAÇÃO DE SERVIÇO PATRULHA AGRICOLA,1380.0
+janeiro,1.6.2.1.02.0.1.001,Serviços de Transporte de Passageiros ou Mercadori,73872.1
+janeiro,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,130.61
+janeiro,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,8.7
+janeiro,9.6.1.1.01.0.3.002,DESCONTOS SOCIAIS DIV ATIVA ESGOTO,0.0
+janeiro,1.6.1.1.01.0.3.002,TARIFA AMPLIAÇÃO DIVIDA RECONHECIDA,12751.69
+janeiro,9.6.1.1.01.0.3.001,DESCONTOS SOCIAIS DIV ATIVA AGUA,0.0
+janeiro,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,7734.65
+janeiro,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,217.53
+janeiro,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,98.53
+janeiro,1.6.9.9.99.0.1.004,SERVIÇOS DE LIGAÇÃO DE ESGOTOS,0.0
+janeiro,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,3568.19
+janeiro,1.3.1.1.02.0.4.001,M/J D A CONCESSÃO DE ESPAÇO,0.0
+janeiro,1.3.1.1.02.0.2.001,M/J CONCESSÃO DE ESPAÇO,0.0
+janeiro,1.1.2.2.01.0.1.001,TAXA DE LIMPEZA IMOVEL URBANO,423.39
+janeiro,1.1.2.1.50.0.4.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,936.14
+janeiro,1.1.2.1.50.0.3.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,8280.57
+janeiro,1.1.2.1.50.0.2.000,Taxa de Fiscalização de Vigilância Sanitária - Mu,44.99
+janeiro,1.1.2.1.50.0.1.000,Taxa de Fiscalização de Vigilância Sanitária - Pri,7101.58
+janeiro,1.1.2.1.04.0.1.000,Taxa de Controle e Fiscalização Ambiental - Princi,1191.3
+janeiro,1.1.2.1.01.0.4.000,M/J DIV ATIVA TX DE FISCALIZAÇÃO,6945.65
+janeiro,1.1.2.1.01.0.3.000,DIV ATIVA TX FISCALIZAÇÃO,45756.89
+janeiro,1.1.2.1.01.0.2.000,M/J TX FISCALIZAÇÃO,242.67
+janeiro,1.1.2.1.01.0.1.006,TX DE UTIL AREA DOM PUBLICO,367.71
+janeiro,1.1.2.1.01.0.1.005,TX DE LICENÇA PARA EXECUÇÃO DE OBRAS,33422.53
+janeiro,1.1.2.1.01.0.1.004,TX AUTORIZAÇÃO,0.0
+janeiro,1.1.2.2.01.0.1.002,REMOÇÃO LIXO DOMICILIAR,36883.8
+janeiro,1.1.2.1.01.0.1.003,TX DE FUNC DE ESTAB EM HOR ESPECIAL,315.42
+janeiro,1.1.2.1.01.0.1.001,TX DE LIC FUNC E ESTAB COMERCIAL,7484.5
+janeiro,1.1.1.4.51.1.4.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,21999.95
+janeiro,1.1.1.4.51.1.3.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,118750.25
+janeiro,1.1.1.4.51.1.2.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,24947.61
+janeiro,1.1.1.4.51.1.1.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,3931659.42
+janeiro,1.1.1.3.03.4.1.000,Imposto sobre a Renda - Retido na Fonte - Outros R,152839.97
+janeiro,1.1.1.3.03.1.1.001,Imposto sobre a Renda - Retido na Fonte - Trabalho,630374.91
+janeiro,1.1.1.2.50.0.4.001,M/J DIV ATIVA IPTU,70176.85
+janeiro,1.1.1.2.50.0.3.001,IPTU DIV ATIVA,323935.72
+janeiro,1.1.1.2.50.0.2.001,IPTU M/J,972.96
+janeiro,1.1.1.2.50.0.1.002,IMP. S/PROP. TERRITORIAL URBANA,43037.06
+janeiro,1.1.1.2.50.0.1.001,IMPOSTOS S/PREDIAL URBANO,41089.58
+janeiro,1.1.2.1.01.0.1.002,TX DE PUBLICIDADE COMERCIAL,495.54
+janeiro,1.3.1.1.02.0.3.001,D A CONCESSÃO DE ESPAÇO,0.0
+janeiro,1.1.2.2.01.0.1.003,TAXA PROTEÇÃO DE ACIDENTES,2470.26
+janeiro,1.1.2.2.01.0.2.001,M/J TX PREST SERVIÇOS,44.65
+janeiro,1.3.1.1.01.1.4.001,M/J DIV ATIVA ALUGUEIS,92.21
+janeiro,1.3.1.1.01.1.3.001,DIV ATIVA ALUGUEIS,122.71
+janeiro,1.3.1.1.01.1.2.001,M/J ALUGUEIS,0.0
+janeiro,1.3.1.1.01.1.1.001,ALUGUEIS,8303.27
+janeiro,1.2.4.1.50.0.4.000,Contribuição para o Custeio do Serviço de Iluminaç,5277.72
+janeiro,1.2.4.1.50.0.3.000,Contribuição para o Custeio do Serviço de Iluminaç,23872.61
+janeiro,1.2.4.1.50.0.2.000,Contribuição para o Custeio do Serviço de Iluminaç,107.06
+janeiro,1.2.4.1.50.0.1.000,Contribuição para o Custeio do Serviço de Iluminaç,440891.82
+janeiro,1.2.1.5.01.3.1.003,CONTRIB.SERVIDOR CIVIL-PENSIONISTAS-INSTITUTO,974.36
+janeiro,1.2.1.5.01.2.1.003,CONTRIB.SERVIDOR CIVIL INATIVO-INSTITUTO,10121.6
+janeiro,1.2.1.5.01.1.1.004,Contribuição do Servidor Civil Ativo - Instituto,964.7
+janeiro,1.2.1.5.01.1.1.002,Contribuição do Servidor Civil Ativo - Prefeitura,804990.26
+janeiro,1.1.2.2.01.0.1.005,OUTRAS TAXAS PREST SERVIÇOS,0.0
+janeiro,1.2.1.5.01.1.1.001,Contribuição do Servidor Civil Ativo - Câmara,14730.85
+janeiro,1.1.2.2.01.0.4.004,M/J DIV ATIVA REMOÇÃO LIXO,21537.34
+janeiro,1.1.2.2.01.0.4.003,M/J DIV ATIVA TX PROT ACIDENTES,2701.45
+janeiro,1.1.2.2.01.0.4.002,M/J DIV ATIVA TX INCENDIO,232.86
+janeiro,1.1.2.2.01.0.4.001,M/J DIV ATIVA TX PREST SERVIÇOS,9795.58
+janeiro,1.1.2.2.01.0.3.005,DA OUT. TAXAS PREST SERVIÇOS,0.0
+janeiro,1.1.2.2.01.0.3.004,DIV ATIVA REMOÇÃO LIXO,136097.94
+janeiro,1.1.2.2.01.0.3.003,DIV ATIVA TX PROT ACIDENTES,14896.79
+janeiro,1.1.2.2.01.0.3.002,DIV ATIVA TX INCENDIO,587.44
+janeiro,1.1.2.2.01.0.3.001,DIV ATIVA TX PREST SERVIÇOS,4890.66
+janeiro,1.1.2.2.01.0.2.005,M/J OUT. TAXAS PREST SERVIÇOS,0.0
+janeiro,1.1.2.2.01.0.2.004,M/J REMOÇÃO LIXO,591.28
+janeiro,1.1.2.2.01.0.2.003,M/J TX PROTEÇÃO DE ACIDENTES,51.83
+janeiro,1.1.2.2.01.0.4.005,M/J DA OUT. TAXAS PREST SERVIÇOS,0.0
+janeiro,1.6.9.9.99.0.4.001,M/J DIV ATIVA PATRULHA AGRICOLA,0.0
+janeiro,1.6.1.1.01.0.1.023,CERTIDÃO NEGATIVA DE DEBITOS AMBIENTAIS,0.0
+janeiro,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,1067.79
+janeiro,1.9.1.1.01.0.3.002,MULTA VIOLAÇÃO DE LACRE E OUTROS - DIVIDA ATIVA,0.0
+janeiro,1.9.1.1.01.0.3.001,MULTAS DIV ATIVA INFRAÇÃO,0.0
+janeiro,1.9.1.1.01.0.2.004,MULTA/ JUROS VIOLAÇÃO DE LACRE,0.0
+janeiro,1.9.1.1.01.0.2.003,MULTA POR VIOLAÇÃO DE LACRE E OUTROS,22.02
+janeiro,1.9.1.1.01.0.2.002,M/J MULTAS,28.46
+janeiro,1.9.1.1.01.0.2.001,MULTA POR ATO DE INFRAÇÃO,0.0
+janeiro,1.9.1.1.01.0.1.002,SOM ALTO - MULTA AUTO DE INFRAÇÃO,0.0
+janeiro,1.9.1.1.01.0.1.001,MULTA POR AUTO DE INFRAÇÃO,392.13
+janeiro,1.7.5.1.50.0.1.000,TRANSF FUNDO DE MANUTENÇÃO - FUNDEB,4940082.79
+janeiro,1.7.4.1.99.0.1.002,DOAÇÕES FUNDO DO IDOSO,0.0
+janeiro,1.7.4.1.99.0.1.001,DOAÇÕES FUNDO CRIANÇA E ADOLESCENTE,0.0
+janeiro,1.7.3.9.99.0.1.002,CASA ABRIGO NOSSO LAR,3000.0
+janeiro,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,0.0
+janeiro,1.7.3.9.99.0.1.001,CASA ABRIGO ADOLESCENTE,4333.0
+janeiro,1.7.2.9.99.0.1.001,OUTRAS TRANSF ESTADO EDUCAÇÃO,0.0
+janeiro,1.7.2.9.51.0.1.019,CUST SERV VIG SOCIOASSIST,19560.0
+janeiro,1.7.2.9.51.0.1.018,VIG SOCIOASSISTENCIAL ESTADO,34720.0
+janeiro,1.7.2.9.51.0.1.015,Serv. complementação alimentar à famílias em vul,0.0
+janeiro,1.7.2.9.51.0.1.014,Serv. funerais destinados à famílias em vulnerabil,0.0
+janeiro,1.7.2.9.51.0.1.013,Serv. dest. nascimento/gestação de famílias em vul,0.0
+janeiro,1.7.2.9.51.0.1.011,AÇÕES DE ENFRENTAMENTO À VIOLÊNCIA CONTRA MULHER,0.0
+janeiro,1.7.2.9.51.0.1.010,FRENTE FRIA,0.0
+janeiro,1.7.2.9.51.0.1.009,Alta Complexidade - Abrigo São José,0.0
+janeiro,1.7.2.9.51.0.1.008,Migrante,0.0
+janeiro,1.7.2.9.51.0.1.007,L.A. Serv Prot Social Adoles Liberdade Assist,0.0
+janeiro,1.7.2.9.51.0.1.006,Centro Dia,0.0
+janeiro,1.7.2.9.99.0.1.005,OUTRAS TRANSFERENCIAS ESTADO - ASS SOCIAL,0.0
+janeiro,1.9.1.1.01.0.4.005,M/J DIV ATIVA VIOLAÇÃO DE LACRE,28.49
+janeiro,1.9.1.1.06.1.2.001,MULTAS ADMINISTRATIVAS POR DANOS AMBIENTAIS,0.0
+janeiro,1.9.1.1.09.0.1.001,MULTA PREVISTA EM CONTRATOS,0.0
+janeiro,7.9.9.9.01.0.1.002,AMORT. DEFICIT DIV ATIVA/MULTA JUROS INTRA,210.48
+janeiro,7.9.9.9.01.0.1.001,APORTES PARA COBERTURA DE DEFICIT,40476.2
+janeiro,7.9.2.3.99.0.1.001,Outros Ressarcimentos - Daemo,12630.53
+janeiro,7.2.1.5.02.1.1.004,Contribuição Patronal-Serv. Civil Ativo-Instituto,1515.97
+janeiro,7.2.1.5.02.1.1.002,Contribuição Patronal - Serv. Civil Ativo - Câmara,23148.47
+janeiro,7.2.1.5.02.1.1.001,Contribuição Patronal-Serv. Civil Ativo-Prefeitura,556825.66
+janeiro,2.4.2.2.99.0.1.034,AMPLIAÇÃO CRECHE DONA BENTA,0.0
+janeiro,2.4.2.2.99.0.1.030,OUTRAS TRANSF. ESTADO - OBRAS,0.0
+janeiro,2.4.2.2.99.0.1.009,CASA DA JUVENTUDE,0.0
+janeiro,2.4.2.2.50.0.1.003,UBS Qualivida,0.0
+janeiro,2.4.1.9.99.0.1.012,OUTRAS TRANS. FEDERAL - OBRAS,0.0
+janeiro,2.2.2.1.01.0.1.001,ALIENAÇÃO DE BENS IMOVEIS,65082.53
+janeiro,2.2.1.3.01.0.1.001,ALIENAÇÃO DE BENS MOVEIS,194790.0
+janeiro,1.9.9.9.12.2.1.001,Ônus de Sucumbência - Principal,396.45
+janeiro,1.9.2.3.99.0.1.001,CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,24687.52
+janeiro,1.9.2.2.99.0.4.001,M/J DIV ATIVA OUTRAS RESTITUIÇÕES,9.64
+janeiro,1.9.2.2.99.0.3.001,DIV ATIVA OUTRA RESTITUIÇÕES,12.83
+janeiro,1.9.2.2.99.0.2.001,M/J OUTRAS RESTITUIÇÕES,0.0
+janeiro,1.9.2.2.99.0.1.004,Restituições,471.12
+janeiro,1.9.2.2.99.0.1.003,Restituições,0.0
+janeiro,1.9.2.2.99.0.1.001,Outras Restituições - Principal,9525.8
+janeiro,1.9.2.2.99.0.1.001,Outras Restituições - Principal,54452.26
+janeiro,1.9.2.1.99.0.1.001,Outras Indenizações - Principal,0.0
+janeiro,1.9.1.1.14.0.1.001,OLIMPIA MULTAS DE TRANSITO,33368.97
+janeiro,1.9.1.1.09.0.4.001,Multas e Juros Previstos em Contratos - Dívida Ati,0.0
+janeiro,1.9.1.1.09.0.3.001,D A MULTA PREV. EM CONTRATOS,0.0
+janeiro,1.9.1.1.09.0.2.001,MULTA PREVISTA EM CONTRATOS,0.0
+janeiro,1.7.2.9.51.0.1.005,PAEFI-Serv Prot Especializado a Fam e Individuo,0.0
+janeiro,1.7.2.9.51.0.1.004,Media Complexidade - APAE,0.0
+janeiro,1.9.1.1.01.0.4.001,M/J DIV ATIVA MULTAS,3693.67
+janeiro,1.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,5267321.63
+janeiro,1.7.1.3.50.3.1.003,AÇÕES DE VIGILANCIA SANITARIA,256.51
+janeiro,1.7.1.3.50.3.1.002,COMBATE A ENDEMIAS,81972.0
+janeiro,1.7.1.3.50.3.1.001,VIGILANCIA EM SAUDE,8939.48
+janeiro,1.7.1.3.50.2.1.026,FAEC - NEFROLOGIA,0.0
+janeiro,1.7.1.3.50.2.1.025,FAEC - PRÉ-CIRÚRGICO EM CIRURGIAS PRIORITÁRIAS,0.0
+janeiro,1.7.1.3.50.2.1.005,MAC SAMU,28494.7
+janeiro,1.7.1.3.50.2.1.004,MAC MELHOR EM CASA,72800.0
+janeiro,1.7.1.3.50.2.1.003,MAC MANUTENÇÃO,102717.02
+janeiro,1.7.1.3.50.2.1.002,MAC SANTA CASA,415375.09
+janeiro,1.7.1.3.50.2.1.001,MAC UPA,300000.0
+janeiro,1.7.1.3.50.1.1.045,PAB - IMPLEM. POLITICAS REDE ALYNE,11462.97
+janeiro,1.7.1.3.50.1.1.042,AGENTES COMUNITARIOS DE SAUDE,81972.0
+janeiro,1.7.1.3.50.1.1.025,APS - INCENT. FINANC. EQUIPES MULTIPROFISSIONAIS,4500.0
+janeiro,1.7.1.3.50.1.1.024,APS - INCENT. FINANC. MANUT PAG VALOR NOMINAL,0.0
+janeiro,1.7.1.3.50.1.1.023,APS - INCENT. FINANC. ESF/EAP,307425.0
+janeiro,1.7.1.3.50.1.1.022,APS -INCENTIVO COMPENSATORIO DE TRANSIÇÃO,32356.72
+janeiro,1.7.1.3.50.1.1.009,MANUTENÇÃO ACADEMIA DA SAUDE,6000.0
+janeiro,1.7.1.3.50.1.1.006,PAB SAUDE BUCAL,77909.41
+janeiro,1.7.1.3.50.1.1.004,PAB AG COMUNITARIO SAUDE,0.0
+janeiro,1.7.1.2.52.1.1.000,Cota-parte da Compensação Financeira pela Produção,10731.52
+janeiro,1.7.1.2.51.0.1.000,Cota-parte da Compensação Financeira pela Exploraç,1897.47
+janeiro,9.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,-30131.65
+janeiro,1.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,150658.36
+janeiro,9.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,-1053464.29
+janeiro,1.7.2.9.51.0.1.003,SCFV-Serv Convivência e Fortalecimento de Vínculo,0.0
+janeiro,1.7.1.3.50.3.1.004,FNS AIDS,0.0
+janeiro,1.7.1.3.50.4.1.001,ASS FARMACEUTICA,24094.87
+janeiro,9.7.1.3.50.2.1.000,TRANSFERENCIAS MAC,-123706.13
+janeiro,1.7.1.3.99.0.1.001,OUTRAS TRANSFERÊNCIAS UNIÃO - SAÚDE,0.0
+janeiro,1.7.2.9.51.0.1.001,SADS Proteção Básica - Humanizar,0.0
+janeiro,1.7.1.3.50.5.1.004,FMS PISO ENFERMAGEM,157345.97
+janeiro,1.7.2.4.51.0.1.001,TRANSP ALUNOS ESTADUAL,0.0
+janeiro,1.7.2.4.50.0.1.022,SUS PAULISTA EXT DENGUE,277385.0
+janeiro,1.7.2.4.50.0.1.019,IGM - SUS,0.0
+janeiro,1.7.2.4.50.0.1.013,PAB TAB SUS PAULISTA,100065.28
+janeiro,1.7.2.4.50.0.1.011,CIRURGIA ELETIVAS,0.0
+janeiro,1.7.2.4.50.0.1.002,MEDICAMENTOS FURP,0.0
+janeiro,1.7.2.4.50.0.1.001,GLICEMIA,6846.5
+janeiro,1.7.2.1.53.0.1.000,Cota-Parte da Contribuição de Intervenção no Domín,16013.94
+janeiro,9.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,-7452.63
+janeiro,1.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,37263.15
+janeiro,9.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,-1437260.7
+janeiro,1.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,7121220.64
+janeiro,1.7.2.4.99.0.1.014,OUTRAS TRANSFERENCIAS ESTADO - SAÚDE,0.0
+janeiro,1.7.1.4.99.0.1.001,OUTRAS TRANSF UNIAO EDUCAÇÃO,0.0
+janeiro,1.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,5896036.43
+janeiro,1.7.1.7.99.0.1.001,OUTRAS TRASNF UNIAO ASS SOCIAL,0.0
+janeiro,1.7.1.7.52.0.1.019,Bloco Proteção Social Especial,8811.51
+janeiro,1.7.1.7.52.0.1.018,Bloco Proteção Social Básica,0.0
+janeiro,1.7.1.7.52.0.1.005,PROGRAMA PRIMEIRA INFANCIA NO SUAS- CRIANÇA FELIZ,0.0
+janeiro,1.7.1.7.52.0.1.004,IGD-SUAS IND GEST DESC MUN SIST UNICO ASS SOCIAL,0.0
+janeiro,1.7.1.7.52.0.1.003,IGD-BF IND GESTÃO DESC MUN PROG BOLSA FAMILIA,9588.59
+janeiro,9.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,-1179207.26
+janeiro,1.7.1.4.53.0.1.000,FNDE PNATE,0.0
+janeiro,1.7.1.4.52.0.1.000,FNDE PNAE,0.0
+janeiro,1.7.1.4.50.0.1.000,SALARIO EDUCAÇÃO-QESE,435922.18
+fevereiro,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,979579.4
+fevereiro,1.3.2.1.01.0.1.014,REC REND DE BANC FUNDEB,47390.46
+fevereiro,1.3.1.1.02.0.3.001,D A CONCESSÃO DE ESPAÇO,0.0
+fevereiro,1.3.1.1.02.0.4.001,M/J D A CONCESSÃO DE ESPAÇO,0.0
+fevereiro,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,9923.01
+fevereiro,1.3.2.1.01.0.1.010,REC REM DEP BANC CIDE,329.53
+fevereiro,1.3.2.1.01.0.1.004,REC REM DEP BANC MDE,31848.1
+fevereiro,1.3.2.1.01.0.1.005,REC REM SERVIÇOS AÇÕES DE SAUDE,6421.39
+fevereiro,1.3.2.1.01.0.1.007,REC REM DEP BANC FNAS,6382.41
+fevereiro,1.3.2.1.01.0.1.008,REC REM OUT DEP REC VINCULADOS,8607.84
+fevereiro,1.3.1.1.02.0.2.001,M/J CONCESSÃO DE ESPAÇO,566.71
+fevereiro,1.3.2.1.01.0.1.002,REC REM DEP BANC ROYALTIES,353.3
+fevereiro,1.3.1.1.01.1.4.001,M/J DIV ATIVA ALUGUEIS,92.21
+fevereiro,1.2.4.1.50.0.1.000,Contribuição para o Custeio do Serviço de Iluminaç,502860.84
+fevereiro,1.3.1.1.01.1.2.001,M/J ALUGUEIS,0.0
+fevereiro,1.3.1.1.01.1.1.001,ALUGUEIS,8095.42
+fevereiro,1.2.4.1.50.0.4.000,Contribuição para o Custeio do Serviço de Iluminaç,7598.7
+fevereiro,1.2.4.1.50.0.3.000,Contribuição para o Custeio do Serviço de Iluminaç,35821.29
+fevereiro,1.2.4.1.50.0.2.000,Contribuição para o Custeio do Serviço de Iluminaç,0.0
+fevereiro,1.2.1.5.01.3.1.003,CONTRIB.SERVIDOR CIVIL-PENSIONISTAS-INSTITUTO,974.36
+fevereiro,1.2.1.5.01.2.1.003,CONTRIB.SERVIDOR CIVIL INATIVO-INSTITUTO,10121.6
+fevereiro,1.2.1.5.01.1.1.004,Contribuição do Servidor Civil Ativo - Instituto,964.7
+fevereiro,1.2.1.5.01.1.1.002,Contribuição do Servidor Civil Ativo - Prefeitura,811218.12
+fevereiro,1.2.1.5.01.1.1.001,Contribuição do Servidor Civil Ativo - Câmara,15113.46
+fevereiro,1.1.2.2.01.0.4.005,M/J DA OUT. TAXAS PREST SERVIÇOS,0.0
+fevereiro,1.1.2.2.01.0.4.004,M/J DIV ATIVA REMOÇÃO LIXO,22800.68
+fevereiro,1.3.1.1.01.1.3.001,DIV ATIVA ALUGUEIS,122.71
+fevereiro,1.3.2.1.01.0.1.018,RENDIMENTOS ESCOLA PROFISSIONAL,226.66
+fevereiro,1.9.2.2.99.0.1.003,Restituições,0.0
+fevereiro,1.3.2.1.01.0.1.020,REC REND SAUDE FEDERAL,28477.48
+fevereiro,1.1.2.2.01.0.4.003,M/J DIV ATIVA TX PROT ACIDENTES,2993.82
+fevereiro,1.6.1.1.01.0.3.002,TARIFA AMPLIAÇÃO DIVIDA RECONHECIDA,9671.74
+fevereiro,9.6.1.1.01.0.3.001,DESCONTOS SOCIAIS DIV ATIVA AGUA,0.0
+fevereiro,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,7877.03
+fevereiro,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,649.05
+fevereiro,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,38.7
+fevereiro,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,98.7
+fevereiro,1.6.1.1.01.0.1.023,CERTIDÃO NEGATIVA DE DEBITOS AMBIENTAIS,0.0
+fevereiro,1.6.1.1.01.0.1.022,PARECER TECNICO AMBIENTAL,0.0
+fevereiro,1.6.1.1.01.0.1.021,AUTORIZAÇÃO DE CORTE DE ARVORE ISOLADA,0.0
+fevereiro,1.6.1.1.01.0.1.020,CERTIFICADO DE DISPENSA DE LICENÇA CDL,0.0
+fevereiro,1.6.1.1.01.0.1.018,TARIFAS DE DISPOSIÇÃO DE RESIDUOS CONSTR.CIVIL,18630.0
+fevereiro,1.6.1.1.01.0.1.007,TARIFA ESGOTO REFERENTE POÇO,0.0
+fevereiro,9.6.1.1.01.0.1.006,DESCONTOS SOCIAIS ESGOTO,0.0
+fevereiro,1.6.1.1.01.0.1.006,TARIFS UTIL. ESGOTO SANITARIO,309.69
+fevereiro,9.6.1.1.01.0.1.005,DESCONTOS SOCIAIS - ÁGUA,0.0
+fevereiro,1.6.1.1.01.0.1.005,TARIFAS DE CONSUMO DE AGUA,254.94
+fevereiro,1.6.1.1.01.0.1.004,VISTORIA DE SUPRESSÃO DE ARVORE EM CALÇADA,74.68
+fevereiro,1.6.1.1.01.0.1.001,TARIFA DE MANIFESTAÇÃO DE ORGÃO AMBIENTAL,0.0
+fevereiro,1.3.3.9.99.0.1.002,OUTORGA VARIÁVEL,28647.09
+fevereiro,1.3.2.2.01.0.1.001,DIVIDENDOS,6.29
+fevereiro,1.3.2.1.04.0.1.000,Remuneração dos Recursos do Regime Próprio de Prev,18152.92
+fevereiro,1.3.2.1.01.0.1.025,REC REM ASS SOCIAL - FEDERAL,3142.81
+fevereiro,1.3.2.1.01.0.1.024,REC REM ASS SOCIAL - ESTADUAL,2526.55
+fevereiro,1.3.2.1.01.0.1.023,REC REM EDUCAÇÃO - FEDERAL,0.0
+fevereiro,1.3.2.1.01.0.1.022,REC REM EDUCAÇÃO - ESTADUAL,1514.67
+fevereiro,1.3.2.1.01.0.1.021,REC REND DUODECIMO CAMARA,0.0
+fevereiro,1.3.2.1.01.0.1.019,REC REND SAUDE ESTADO,18272.46
+fevereiro,1.1.2.2.01.0.4.002,M/J DIV ATIVA TX INCENDIO,488.66
+fevereiro,1.9.2.2.99.0.1.004,Restituições,471.12
+fevereiro,1.1.2.2.01.0.3.005,DA OUT. TAXAS PREST SERVIÇOS,0.0
+fevereiro,1.1.1.3.03.1.1.001,Imposto sobre a Renda - Retido na Fonte - Trabalho,666547.66
+fevereiro,1.1.1.2.50.0.4.001,M/J DIV ATIVA IPTU,86730.11
+fevereiro,1.1.1.2.50.0.3.001,IPTU DIV ATIVA,379726.08
+fevereiro,1.1.1.2.50.0.2.001,IPTU M/J,0.0
+fevereiro,1.1.1.2.50.0.1.002,IMP. S/PROP. TERRITORIAL URBANA,358164.89
+fevereiro,1.1.1.2.50.0.1.001,IMPOSTOS S/PREDIAL URBANO,672391.02
+fevereiro,1.9.2.2.99.0.2.001,M/J OUTRAS RESTITUIÇÕES,6.06
+fevereiro,1.9.2.2.99.0.3.001,DIV ATIVA OUTRA RESTITUIÇÕES,12.83
+fevereiro,1.9.2.2.99.0.4.001,M/J DIV ATIVA OUTRAS RESTITUIÇÕES,9.64
+fevereiro,1.9.2.3.99.0.1.001,CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,25836.05
+fevereiro,1.9.2.3.99.0.2.001,M/J CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,988.4
+fevereiro,1.9.9.9.12.2.1.001,Ônus de Sucumbência - Principal,321.19
+fevereiro,1.1.1.3.03.4.1.000,Imposto sobre a Renda - Retido na Fonte - Outros R,350824.42
+fevereiro,2.2.1.3.01.0.1.001,ALIENAÇÃO DE BENS MOVEIS,0.0
+fevereiro,2.4.1.9.99.0.1.012,OUTRAS TRANS. FEDERAL - OBRAS,0.0
+fevereiro,2.4.2.2.50.0.1.003,UBS Qualivida,0.0
+fevereiro,2.4.2.2.99.0.1.009,CASA DA JUVENTUDE,0.0
+fevereiro,2.4.2.2.99.0.1.030,OUTRAS TRANSF. ESTADO - OBRAS,0.0
+fevereiro,2.4.2.2.99.0.1.034,AMPLIAÇÃO CRECHE DONA BENTA,0.0
+fevereiro,2.4.2.2.99.0.1.037,DADETUR - CENTRO CULTURAL,0.0
+fevereiro,7.2.1.5.02.1.1.001,Contribuição Patronal-Serv. Civil Ativo-Prefeitura,1379243.93
+fevereiro,7.2.1.5.02.1.1.002,Contribuição Patronal - Serv. Civil Ativo - Câmara,23749.7
+fevereiro,7.2.1.5.02.1.1.004,Contribuição Patronal-Serv. Civil Ativo-Instituto,1515.97
+fevereiro,7.9.2.3.99.0.1.001,Outros Ressarcimentos - Daemo,0.0
+fevereiro,7.9.2.3.99.0.1.003,Outros Ressarcimentos - Câmara,4321.29
+fevereiro,9.6.1.1.01.0.3.002,DESCONTOS SOCIAIS DIV ATIVA ESGOTO,0.0
+fevereiro,2.2.2.1.01.0.1.001,ALIENAÇÃO DE BENS IMOVEIS,-65082.53
+fevereiro,1.1.1.4.51.1.1.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,7212547.92
+fevereiro,1.1.1.4.51.1.2.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,23114.58
+fevereiro,1.1.1.4.51.1.3.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,53736.99
+fevereiro,1.1.2.2.01.0.3.004,DIV ATIVA REMOÇÃO LIXO,126896.96
+fevereiro,1.1.2.2.01.0.3.003,DIV ATIVA TX PROT ACIDENTES,14158.61
+fevereiro,1.1.2.2.01.0.3.002,DIV ATIVA TX INCENDIO,987.83
+fevereiro,1.1.2.2.01.0.3.001,DIV ATIVA TX PREST SERVIÇOS,4882.57
+fevereiro,1.1.2.2.01.0.2.005,M/J OUT. TAXAS PREST SERVIÇOS,0.0
+fevereiro,1.1.2.2.01.0.2.004,M/J REMOÇÃO LIXO,0.0
+fevereiro,1.1.2.2.01.0.2.003,M/J TX PROTEÇÃO DE ACIDENTES,0.0
+fevereiro,1.1.2.2.01.0.2.001,M/J TX PREST SERVIÇOS,10.94
+fevereiro,1.1.2.2.01.0.1.005,OUTRAS TAXAS PREST SERVIÇOS,0.13
+fevereiro,1.1.2.2.01.0.1.003,TAXA PROTEÇÃO DE ACIDENTES,39673.73
+fevereiro,1.1.2.2.01.0.1.002,REMOÇÃO LIXO DOMICILIAR,478065.14
+fevereiro,1.1.2.2.01.0.1.001,TAXA DE LIMPEZA IMOVEL URBANO,634.45
+fevereiro,1.1.2.1.50.0.4.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,1395.46
+fevereiro,1.1.2.1.50.0.3.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,6165.71
+fevereiro,1.1.2.1.50.0.2.000,Taxa de Fiscalização de Vigilância Sanitária - Mu,83.06
+fevereiro,1.1.2.1.50.0.1.000,Taxa de Fiscalização de Vigilância Sanitária - Pri,11649.97
+fevereiro,1.1.2.1.04.0.1.000,Taxa de Controle e Fiscalização Ambiental - Princi,0.0
+fevereiro,1.1.2.1.01.0.4.000,M/J DIV ATIVA TX DE FISCALIZAÇÃO,4136.59
+fevereiro,1.1.2.1.01.0.3.000,DIV ATIVA TX FISCALIZAÇÃO,20071.33
+fevereiro,1.1.2.1.01.0.2.000,M/J TX FISCALIZAÇÃO,52.15
+fevereiro,1.1.2.1.01.0.1.006,TX DE UTIL AREA DOM PUBLICO,642.26
+fevereiro,1.1.2.1.01.0.1.005,TX DE LICENÇA PARA EXECUÇÃO DE OBRAS,88392.4
+fevereiro,1.1.2.1.01.0.1.004,TX AUTORIZAÇÃO,188.12
+fevereiro,1.1.2.1.01.0.1.003,TX DE FUNC DE ESTAB EM HOR ESPECIAL,7166.4
+fevereiro,1.1.2.1.01.0.1.002,TX DE PUBLICIDADE COMERCIAL,12641.01
+fevereiro,1.1.2.1.01.0.1.001,TX DE LIC FUNC E ESTAB COMERCIAL,71893.63
+fevereiro,1.1.1.4.51.1.4.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,10777.43
+fevereiro,1.1.2.2.01.0.4.001,M/J DIV ATIVA TX PREST SERVIÇOS,11845.01
+fevereiro,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,32.45
+fevereiro,1.9.2.2.99.0.1.001,Outras Restituições - Principal,426293.71
+fevereiro,1.6.2.1.02.0.1.001,Serviços de Transporte de Passageiros ou Mercadori,68428.1
+fevereiro,1.7.2.9.51.0.1.013,Serv. dest. nascimento/gestação de famílias em vul,0.0
+fevereiro,1.7.2.9.51.0.1.011,AÇÕES DE ENFRENTAMENTO À VIOLÊNCIA CONTRA MULHER,0.0
+fevereiro,1.7.2.9.51.0.1.010,FRENTE FRIA,0.0
+fevereiro,1.7.2.9.51.0.1.009,Alta Complexidade - Abrigo São José,0.0
+fevereiro,1.7.2.9.51.0.1.008,Migrante,0.0
+fevereiro,1.7.2.9.51.0.1.007,L.A. Serv Prot Social Adoles Liberdade Assist,0.0
+fevereiro,1.7.2.9.51.0.1.006,Centro Dia,0.0
+fevereiro,1.7.2.9.51.0.1.005,PAEFI-Serv Prot Especializado a Fam e Individuo,0.0
+fevereiro,1.7.2.9.51.0.1.004,Media Complexidade - APAE,0.0
+fevereiro,1.7.2.9.51.0.1.003,SCFV-Serv Convivência e Fortalecimento de Vínculo,10856.88
+fevereiro,1.7.2.9.51.0.1.001,SADS Proteção Básica - Humanizar,0.0
+fevereiro,1.7.2.4.99.0.1.014,OUTRAS TRANSFERENCIAS ESTADO - SAÚDE,0.0
+fevereiro,1.7.2.9.51.0.1.014,Serv. funerais destinados à famílias em vulnerabil,0.0
+fevereiro,1.7.2.4.51.0.1.001,TRANSP ALUNOS ESTADUAL,315288.2
+fevereiro,1.7.2.4.50.0.1.019,IGM - SUS,0.0
+fevereiro,1.7.2.4.50.0.1.013,PAB TAB SUS PAULISTA,546481.9
+fevereiro,1.7.2.4.50.0.1.011,CIRURGIA ELETIVAS,0.0
+fevereiro,1.7.2.4.50.0.1.002,MEDICAMENTOS FURP,26838.0
+fevereiro,1.7.2.4.50.0.1.001,GLICEMIA,0.0
+fevereiro,1.7.2.1.53.0.1.000,Cota-Parte da Contribuição de Intervenção no Domín,0.0
+fevereiro,9.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,-8652.87
+fevereiro,1.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,43264.36
+fevereiro,9.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,-552253.05
+fevereiro,1.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,2826347.54
+fevereiro,9.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,-1256820.79
+fevereiro,1.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,6284103.99
+fevereiro,1.7.2.4.50.0.1.022,SUS PAULISTA EXT DENGUE,0.0
+fevereiro,1.7.1.7.99.0.1.001,OUTRAS TRASNF UNIAO ASS SOCIAL,0.0
+fevereiro,1.7.2.9.51.0.1.015,Serv. complementação alimentar à famílias em vul,0.0
+fevereiro,1.7.2.9.51.0.1.019,CUST SERV VIG SOCIOASSIST,0.0
+fevereiro,7.9.9.9.01.0.1.001,APORTES PARA COBERTURA DE DEFICIT,40476.2
+fevereiro,1.9.2.2.99.0.1.001,Outras Restituições - Principal,54869.53
+fevereiro,1.9.2.1.99.0.1.001,Outras Indenizações - Principal,0.0
+fevereiro,1.9.1.1.14.0.1.001,OLIMPIA MULTAS DE TRANSITO,21815.11
+fevereiro,1.9.1.1.09.0.4.001,Multas e Juros Previstos em Contratos - Dívida Ati,0.0
+fevereiro,1.9.1.1.09.0.3.001,D A MULTA PREV. EM CONTRATOS,0.0
+fevereiro,1.9.1.1.09.0.2.001,MULTA PREVISTA EM CONTRATOS,0.0
+fevereiro,1.9.1.1.09.0.1.001,MULTA PREVISTA EM CONTRATOS,0.0
+fevereiro,1.9.1.1.06.1.2.001,MULTAS ADMINISTRATIVAS POR DANOS AMBIENTAIS,0.0
+fevereiro,1.9.1.1.01.0.4.005,M/J DIV ATIVA VIOLAÇÃO DE LACRE,5.87
+fevereiro,1.9.1.1.01.0.4.001,M/J DIV ATIVA MULTAS,3299.16
+fevereiro,1.9.1.1.01.0.3.002,MULTA VIOLAÇÃO DE LACRE E OUTROS - DIVIDA ATIVA,0.0
+fevereiro,1.7.2.9.51.0.1.018,VIG SOCIOASSISTENCIAL ESTADO,0.0
+fevereiro,1.9.1.1.01.0.3.001,MULTAS DIV ATIVA INFRAÇÃO,0.0
+fevereiro,1.9.1.1.01.0.2.003,MULTA POR VIOLAÇÃO DE LACRE E OUTROS,22.02
+fevereiro,1.9.1.1.01.0.2.002,M/J MULTAS,3.45
+fevereiro,1.9.1.1.01.0.2.001,MULTA POR ATO DE INFRAÇÃO,0.0
+fevereiro,1.9.1.1.01.0.1.002,SOM ALTO - MULTA AUTO DE INFRAÇÃO,0.0
+fevereiro,1.9.1.1.01.0.1.001,MULTA POR AUTO DE INFRAÇÃO,802.83
+fevereiro,1.7.5.1.50.0.1.000,TRANSF FUNDO DE MANUTENÇÃO - FUNDEB,4244200.44
+fevereiro,1.7.4.1.99.0.1.002,DOAÇÕES FUNDO DO IDOSO,0.0
+fevereiro,1.7.4.1.99.0.1.001,DOAÇÕES FUNDO CRIANÇA E ADOLESCENTE,0.0
+fevereiro,1.7.3.9.99.0.1.002,CASA ABRIGO NOSSO LAR,0.0
+fevereiro,1.7.3.9.99.0.1.001,CASA ABRIGO ADOLESCENTE,4333.0
+fevereiro,1.7.2.9.99.0.1.005,OUTRAS TRANSFERENCIAS ESTADO - ASS SOCIAL,0.0
+fevereiro,1.7.2.9.99.0.1.001,OUTRAS TRANSF ESTADO EDUCAÇÃO,0.0
+fevereiro,1.9.1.1.01.0.2.004,MULTA/ JUROS VIOLAÇÃO DE LACRE,0.0
+fevereiro,1.7.1.7.52.0.1.019,Bloco Proteção Social Especial,17725.97
+fevereiro,1.7.1.7.52.0.1.018,Bloco Proteção Social Básica,8985.0
+fevereiro,1.7.1.7.52.0.1.005,PROGRAMA PRIMEIRA INFANCIA NO SUAS- CRIANÇA FELIZ,0.0
+fevereiro,1.7.1.2.51.0.1.000,Cota-parte da Compensação Financeira pela Exploraç,3035.47
+fevereiro,9.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,-1051.61
+fevereiro,1.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,5258.15
+fevereiro,9.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,-1413627.45
+fevereiro,1.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,7068137.42
+fevereiro,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,946.45
+fevereiro,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,0.0
+fevereiro,1.6.9.9.99.0.4.001,M/J DIV ATIVA PATRULHA AGRICOLA,0.0
+fevereiro,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,2181.64
+fevereiro,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,0.0
+fevereiro,1.6.9.9.99.0.3.001,DIV ATIVA PATRULHA AGRICOLA,0.0
+fevereiro,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,309.41
+fevereiro,1.7.1.2.52.1.1.000,Cota-parte da Compensação Financeira pela Produção,11532.36
+fevereiro,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,0.0
+fevereiro,1.6.9.9.99.0.1.017,OUTRAS RECEITAS,1112.06
+fevereiro,1.6.9.9.99.0.1.016,OUTROS SERVIÇOS,8.9
+fevereiro,1.6.9.9.99.0.1.015,POSTAGEM,0.0
+fevereiro,1.6.9.9.99.0.1.013,AVISO CONTA VENCIDA,0.3
+fevereiro,1.6.9.9.99.0.1.011,AGUA POTAVEL PIPA,0.0
+fevereiro,1.6.9.9.99.0.1.010,LIMPA FOSA,0.0
+fevereiro,1.6.9.9.99.0.1.007,MUDANÇA DE CAVALETE,25.84
+fevereiro,1.6.9.9.99.0.1.005,SERVIÇOS DE RELIGAÇÃO DE AGUA,0.0
+fevereiro,1.6.9.9.99.0.1.004,SERVIÇOS DE LIGAÇÃO DE ESGOTOS,0.0
+fevereiro,1.6.9.9.99.0.1.003,SERVIÇOS DE LIGAÇÃO DE AGUA,17.76
+fevereiro,1.6.9.9.99.0.1.002,OUTROS SERVIÇOS,882.64
+fevereiro,1.6.9.9.99.0.1.001,PRESTAÇÃO DE SERVIÇO PATRULHA AGRICOLA,200.0
+fevereiro,1.6.9.9.99.0.2.001,M/J PATRULHA AGRICOLA,0.0
+fevereiro,1.7.1.3.50.1.1.004,PAB AG COMUNITARIO SAUDE,0.0
+fevereiro,1.7.1.3.50.1.1.006,PAB SAUDE BUCAL,152896.23
+fevereiro,1.7.1.3.50.1.1.009,MANUTENÇÃO ACADEMIA DA SAUDE,0.0
+fevereiro,1.7.1.7.52.0.1.004,IGD-SUAS IND GEST DESC MUN SIST UNICO ASS SOCIAL,0.0
+fevereiro,1.7.1.7.52.0.1.003,IGD-BF IND GESTÃO DESC MUN PROG BOLSA FAMILIA,6608.33
+fevereiro,1.7.1.4.99.0.1.001,OUTRAS TRANSF UNIAO EDUCAÇÃO,0.0
+fevereiro,1.7.1.4.53.0.1.000,FNDE PNATE,0.0
+fevereiro,1.7.1.4.52.0.1.000,FNDE PNAE,144564.0
+fevereiro,1.7.1.4.50.0.1.000,SALARIO EDUCAÇÃO-QESE,261179.17
+fevereiro,1.7.1.3.99.0.1.001,OUTRAS TRANSFERÊNCIAS UNIÃO - SAÚDE,0.0
+fevereiro,1.7.1.3.50.5.1.004,FMS PISO ENFERMAGEM,134026.43
+fevereiro,1.7.1.3.50.4.1.001,ASS FARMACEUTICA,24094.87
+fevereiro,1.7.1.3.50.3.1.004,FNS AIDS,9414.91
+fevereiro,1.7.1.3.50.3.1.003,AÇÕES DE VIGILANCIA SANITARIA,0.0
+fevereiro,1.7.1.3.50.3.1.002,COMBATE A ENDEMIAS,81972.0
+fevereiro,1.7.1.3.50.3.1.001,VIGILANCIA EM SAUDE,8939.48
+fevereiro,1.7.1.3.50.2.1.026,FAEC - NEFROLOGIA,303372.37
+fevereiro,1.7.1.3.50.2.1.025,FAEC - PRÉ-CIRÚRGICO EM CIRURGIAS PRIORITÁRIAS,0.0
+fevereiro,1.7.1.3.50.2.1.005,MAC SAMU,28494.7
+fevereiro,1.7.1.3.50.2.1.004,MAC MELHOR EM CASA,72800.0
+fevereiro,1.7.1.3.50.2.1.003,MAC MANUTENÇÃO,108105.82
+fevereiro,1.7.1.3.50.2.1.002,MAC SANTA CASA,416475.09
+fevereiro,1.7.1.3.50.2.1.001,MAC UPA,300000.0
+fevereiro,9.7.1.3.50.2.1.000,TRANSFERENCIAS MAC,-124806.13
+fevereiro,1.7.1.3.50.1.1.045,PAB - IMPLEM. POLITICAS REDE ALYNE,0.0
+fevereiro,1.7.1.3.50.1.1.042,AGENTES COMUNITARIOS DE SAUDE,81972.0
+fevereiro,1.7.1.3.50.1.1.025,APS - INCENT. FINANC. EQUIPES MULTIPROFISSIONAIS,28500.0
+fevereiro,1.7.1.3.50.1.1.024,APS - INCENT. FINANC. MANUT PAG VALOR NOMINAL,0.0
+fevereiro,1.7.1.3.50.1.1.023,APS - INCENT. FINANC. ESF/EAP,242400.0
+fevereiro,1.7.1.3.50.1.1.022,APS -INCENTIVO COMPENSATORIO DE TRANSIÇÃO,32356.72
+fevereiro,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,58.01
+fevereiro,7.9.9.9.01.0.1.002,AMORT. DEFICIT DIV ATIVA/MULTA JUROS INTRA,470.17
+março,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,10.32
+março,1.1.1.2.50.0.1.002,IMP. S/PROP. TERRITORIAL URBANA,2772946.79
+março,1.7.1.7.52.0.1.003,IGD-BF IND GESTÃO DESC MUN PROG BOLSA FAMILIA,6629.99
+março,1.7.1.7.52.0.1.004,IGD-SUAS IND GEST DESC MUN SIST UNICO ASS SOCIAL,0.0
+março,1.7.1.7.52.0.1.005,PROGRAMA PRIMEIRA INFANCIA NO SUAS- CRIANÇA FELIZ,0.0
+março,1.7.1.7.52.0.1.018,Bloco Proteção Social Básica,8985.02
+março,1.7.1.7.52.0.1.019,Bloco Proteção Social Especial,17721.64
+março,1.7.1.7.99.0.1.001,OUTRAS TRASNF UNIAO ASS SOCIAL,0.0
+março,1.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,6420685.86
+março,9.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,-1284137.16
+março,1.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,2278671.87
+março,9.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,-455734.43
+março,1.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,49907.56
+março,9.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,-9981.51
+março,1.7.1.4.99.0.1.001,OUTRAS TRANSF UNIAO EDUCAÇÃO,0.0
+março,1.7.2.1.53.0.1.000,Cota-Parte da Contribuição de Intervenção no Domín,0.0
+março,1.7.2.4.50.0.1.002,MEDICAMENTOS FURP,0.0
+março,1.7.2.4.50.0.1.011,CIRURGIA ELETIVAS,0.0
+março,1.7.2.4.50.0.1.013,PAB TAB SUS PAULISTA,920217.77
+março,1.7.2.4.50.0.1.019,IGM - SUS,0.0
+março,1.7.2.4.50.0.1.022,SUS PAULISTA EXT DENGUE,0.0
+março,1.7.2.4.51.0.1.001,TRANSP ALUNOS ESTADUAL,315288.2
+março,1.7.2.4.99.0.1.014,OUTRAS TRANSFERENCIAS ESTADO - SAÚDE,0.0
+março,1.7.2.9.51.0.1.001,SADS Proteção Básica - Humanizar,9000.0
+março,1.7.2.9.51.0.1.003,SCFV-Serv Convivência e Fortalecimento de Vínculo,22585.65
+março,1.7.2.9.51.0.1.004,Media Complexidade - APAE,25500.0
+março,1.7.2.9.51.0.1.005,PAEFI-Serv Prot Especializado a Fam e Individuo,4500.0
+março,1.7.2.9.51.0.1.006,Centro Dia,12000.0
+março,1.7.2.4.50.0.1.001,GLICEMIA,0.0
+março,1.7.2.9.51.0.1.007,L.A. Serv Prot Social Adoles Liberdade Assist,3000.0
+março,1.7.1.4.53.0.1.000,FNDE PNATE,0.0
+março,1.7.1.4.50.0.1.000,SALARIO EDUCAÇÃO-QESE,260679.7
+março,1.7.1.2.51.0.1.000,Cota-parte da Compensação Financeira pela Exploraç,1801.5
+março,1.7.1.2.52.1.1.000,Cota-parte da Compensação Financeira pela Produção,262.73
+março,1.7.1.3.50.1.1.004,PAB AG COMUNITARIO SAUDE,0.0
+março,1.7.1.3.50.1.1.006,PAB SAUDE BUCAL,96925.74
+março,1.7.1.3.50.1.1.009,MANUTENÇÃO ACADEMIA DA SAUDE,3000.0
+março,1.7.1.3.50.1.1.022,APS -INCENTIVO COMPENSATORIO DE TRANSIÇÃO,32356.72
+março,1.7.1.3.50.1.1.023,APS - INCENT. FINANC. ESF/EAP,242400.0
+março,1.7.1.3.50.1.1.024,APS - INCENT. FINANC. MANUT PAG VALOR NOMINAL,0.0
+março,1.7.1.3.50.1.1.025,APS - INCENT. FINANC. EQUIPES MULTIPROFISSIONAIS,14250.0
+março,1.7.1.3.50.1.1.042,AGENTES COMUNITARIOS DE SAUDE,81972.0
+março,1.7.1.3.50.1.1.045,PAB - IMPLEM. POLITICAS REDE ALYNE,0.0
+março,9.7.1.3.50.2.1.000,TRANSFERENCIAS MAC,-165301.74
+março,1.7.1.4.52.0.1.000,FNDE PNAE,144564.0
+março,1.7.1.3.50.2.1.001,MAC UPA,300000.0
+março,1.7.1.3.50.2.1.003,MAC MANUTENÇÃO,108105.82
+março,1.7.1.3.50.2.1.004,MAC MELHOR EM CASA,72800.0
+março,1.7.1.3.50.2.1.005,MAC SAMU,28494.7
+março,1.7.1.3.50.2.1.025,FAEC - PRÉ-CIRÚRGICO EM CIRURGIAS PRIORITÁRIAS,848.4
+março,1.7.1.3.50.2.1.026,FAEC - NEFROLOGIA,129243.86
+março,1.7.1.3.50.3.1.001,VIGILANCIA EM SAUDE,8939.48
+março,1.7.1.3.50.3.1.002,COMBATE A ENDEMIAS,81972.0
+março,1.7.1.3.50.3.1.003,AÇÕES DE VIGILANCIA SANITARIA,0.0
+março,1.7.1.3.50.3.1.004,FNS AIDS,9414.91
+março,1.7.1.3.50.4.1.001,ASS FARMACEUTICA,24094.87
+março,1.7.1.3.50.5.1.004,FMS PISO ENFERMAGEM,0.0
+março,1.7.1.3.99.0.1.001,OUTRAS TRANSFERÊNCIAS UNIÃO - SAÚDE,0.0
+março,1.7.1.3.50.2.1.002,MAC SANTA CASA,416475.09
+março,1.7.2.9.51.0.1.008,Migrante,18921.0
+março,1.7.2.9.51.0.1.009,Alta Complexidade - Abrigo São José,26250.0
+março,1.7.2.9.51.0.1.010,FRENTE FRIA,0.0
+março,1.9.2.2.99.0.1.001,Outras Restituições - Principal,14087.92
+março,1.9.2.2.99.0.1.001,Outras Restituições - Principal,-435819.51
+março,1.9.2.2.99.0.1.003,Restituições,0.0
+março,1.9.2.2.99.0.1.004,Restituições,471.12
+março,1.9.2.2.99.0.2.001,M/J OUTRAS RESTITUIÇÕES,0.0
+março,1.9.2.2.99.0.3.001,DIV ATIVA OUTRA RESTITUIÇÕES,12.83
+março,1.9.2.2.99.0.4.001,M/J DIV ATIVA OUTRAS RESTITUIÇÕES,9.64
+março,1.9.2.3.99.0.1.001,CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,51672.1
+março,1.9.2.3.99.0.2.001,M/J CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,0.0
+março,1.9.9.9.03.0.1.000,Compensações Financeiras entre o Regime Geral e os,898735.62
+março,1.9.9.9.12.2.1.001,Ônus de Sucumbência - Principal,843.88
+março,2.2.1.3.01.0.1.001,ALIENAÇÃO DE BENS MOVEIS,0.0
+março,1.9.2.1.99.0.1.001,Outras Indenizações - Principal,0.0
+março,2.2.2.1.01.0.1.001,ALIENAÇÃO DE BENS IMOVEIS,0.0
+março,2.4.2.2.50.0.1.003,UBS Qualivida,0.0
+março,2.4.2.2.99.0.1.009,CASA DA JUVENTUDE,0.0
+março,2.4.2.2.99.0.1.034,AMPLIAÇÃO CRECHE DONA BENTA,0.0
+março,2.4.2.2.99.0.1.037,DADETUR - CENTRO CULTURAL,0.0
+março,7.2.1.5.02.1.1.001,Contribuição Patronal-Serv. Civil Ativo-Prefeitura,1427011.79
+março,7.2.1.5.02.1.1.002,Contribuição Patronal - Serv. Civil Ativo - Câmara,23382.85
+março,7.2.1.5.02.1.1.004,Contribuição Patronal-Serv. Civil Ativo-Instituto,1527.55
+março,7.9.2.3.99.0.1.001,Outros Ressarcimentos - Daemo,18516.44
+março,7.9.2.3.99.0.1.002,Outros Ressarcimentos - Instituto,5164.89
+março,7.9.2.3.99.0.1.003,Outros Ressarcimentos - Câmara,12669.96
+março,7.9.9.9.01.0.1.001,APORTES PARA COBERTURA DE DEFICIT,40476.2
+março,7.9.9.9.01.0.1.002,AMORT. DEFICIT DIV ATIVA/MULTA JUROS INTRA,940.3
+março,2.4.1.9.99.0.1.012,OUTRAS TRANS. FEDERAL - OBRAS,0.0
+março,1.9.1.1.14.0.1.001,OLIMPIA MULTAS DE TRANSITO,24063.04
+março,1.9.1.1.09.0.4.001,Multas e Juros Previstos em Contratos - Dívida Ati,0.0
+março,1.9.1.1.09.0.3.001,D A MULTA PREV. EM CONTRATOS,0.0
+março,1.7.2.9.51.0.1.011,AÇÕES DE ENFRENTAMENTO À VIOLÊNCIA CONTRA MULHER,0.0
+março,1.7.2.9.51.0.1.013,Serv. dest. nascimento/gestação de famílias em vul,0.0
+março,1.7.2.9.51.0.1.014,Serv. funerais destinados à famílias em vulnerabil,0.0
+março,1.7.2.9.51.0.1.015,Serv. complementação alimentar à famílias em vul,0.0
+março,1.7.2.9.51.0.1.018,VIG SOCIOASSISTENCIAL ESTADO,0.0
+março,1.7.2.9.51.0.1.019,CUST SERV VIG SOCIOASSIST,0.0
+março,1.7.2.9.51.0.1.020,INSTITUTO O AMOR,29250.0
+março,1.7.2.9.99.0.1.001,OUTRAS TRANSF ESTADO EDUCAÇÃO,0.0
+março,1.7.2.9.99.0.1.005,OUTRAS TRANSFERENCIAS ESTADO - ASS SOCIAL,0.0
+março,1.7.3.9.99.0.1.001,CASA ABRIGO ADOLESCENTE,4333.0
+março,1.7.3.9.99.0.1.002,CASA ABRIGO NOSSO LAR,9000.0
+março,1.7.4.1.99.0.1.001,DOAÇÕES FUNDO CRIANÇA E ADOLESCENTE,39337.38
+março,1.7.4.1.99.0.1.002,DOAÇÕES FUNDO DO IDOSO,46837.38
+março,1.7.5.1.50.0.1.000,TRANSF FUNDO DE MANUTENÇÃO - FUNDEB,4050314.1
+março,1.9.1.1.01.0.1.001,MULTA POR AUTO DE INFRAÇÃO,1157.58
+março,1.9.1.1.01.0.1.002,SOM ALTO - MULTA AUTO DE INFRAÇÃO,0.0
+março,1.9.1.1.01.0.2.001,MULTA POR ATO DE INFRAÇÃO,0.0
+março,1.9.1.1.01.0.2.002,M/J MULTAS,2.51
+março,1.9.1.1.01.0.2.003,MULTA POR VIOLAÇÃO DE LACRE E OUTROS,0.0
+março,1.9.1.1.01.0.2.004,MULTA/ JUROS VIOLAÇÃO DE LACRE,0.0
+março,1.9.1.1.01.0.3.001,MULTAS DIV ATIVA INFRAÇÃO,2481.05
+março,1.9.1.1.01.0.3.002,MULTA VIOLAÇÃO DE LACRE E OUTROS - DIVIDA ATIVA,0.0
+março,1.9.1.1.01.0.4.001,M/J DIV ATIVA MULTAS,1735.34
+março,1.9.1.1.01.0.4.005,M/J DIV ATIVA VIOLAÇÃO DE LACRE,0.0
+março,1.9.1.1.06.1.2.001,MULTAS ADMINISTRATIVAS POR DANOS AMBIENTAIS,0.0
+março,1.9.1.1.09.0.1.001,MULTA PREVISTA EM CONTRATOS,0.0
+março,1.9.1.1.09.0.2.001,MULTA PREVISTA EM CONTRATOS,0.0
+março,9.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,-857.86
+março,1.1.1.2.50.0.1.001,IMPOSTOS S/PREDIAL URBANO,4239942.92
+março,1.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,4289.38
+março,1.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,4654693.66
+março,1.1.2.2.01.0.2.005,M/J OUT. TAXAS PREST SERVIÇOS,0.0
+março,1.1.2.2.01.0.3.001,DIV ATIVA TX PREST SERVIÇOS,5439.35
+março,1.1.2.2.01.0.3.002,DIV ATIVA TX INCENDIO,4776.72
+março,1.1.2.2.01.0.3.003,DIV ATIVA TX PROT ACIDENTES,9322.29
+março,1.1.2.2.01.0.3.004,DIV ATIVA REMOÇÃO LIXO,122201.32
+março,1.1.2.2.01.0.3.005,DA OUT. TAXAS PREST SERVIÇOS,0.0
+março,1.1.2.2.01.0.4.001,M/J DIV ATIVA TX PREST SERVIÇOS,10952.94
+março,1.1.2.2.01.0.4.002,M/J DIV ATIVA TX INCENDIO,4148.27
+março,1.1.2.2.01.0.4.003,M/J DIV ATIVA TX PROT ACIDENTES,1546.79
+março,1.1.2.2.01.0.4.004,M/J DIV ATIVA REMOÇÃO LIXO,32060.89
+março,1.1.2.2.01.0.4.005,M/J DA OUT. TAXAS PREST SERVIÇOS,0.0
+março,1.2.1.5.01.1.1.001,Contribuição do Servidor Civil Ativo - Câmara,14880.01
+março,1.1.2.2.01.0.2.004,M/J REMOÇÃO LIXO,1352.92
+março,1.2.1.5.01.1.1.002,Contribuição do Servidor Civil Ativo - Prefeitura,834270.25
+março,1.2.1.5.01.2.1.003,CONTRIB.SERVIDOR CIVIL INATIVO-INSTITUTO,10121.6
+março,1.2.1.5.01.3.1.003,CONTRIB.SERVIDOR CIVIL-PENSIONISTAS-INSTITUTO,1375.43
+março,1.2.4.1.50.0.1.000,Contribuição para o Custeio do Serviço de Iluminaç,736218.78
+março,1.2.4.1.50.0.2.000,Contribuição para o Custeio do Serviço de Iluminaç,179.24
+março,1.2.4.1.50.0.3.000,Contribuição para o Custeio do Serviço de Iluminaç,20283.07
+março,1.2.4.1.50.0.4.000,Contribuição para o Custeio do Serviço de Iluminaç,4091.11
+março,1.3.1.1.01.1.1.001,ALUGUEIS,8095.42
+março,1.3.1.1.01.1.3.001,DIV ATIVA ALUGUEIS,122.71
+março,1.3.1.1.01.1.4.001,M/J DIV ATIVA ALUGUEIS,92.21
+março,1.3.1.1.02.0.2.001,M/J CONCESSÃO DE ESPAÇO,0.0
+março,1.3.1.1.02.0.3.001,D A CONCESSÃO DE ESPAÇO,0.0
+março,1.3.1.1.02.0.4.001,M/J D A CONCESSÃO DE ESPAÇO,0.0
+março,1.2.1.5.01.1.1.004,Contribuição do Servidor Civil Ativo - Instituto,972.07
+março,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,961398.84
+março,1.1.2.2.01.0.2.003,M/J TX PROTEÇÃO DE ACIDENTES,119.46
+março,1.1.2.2.01.0.1.005,OUTRAS TAXAS PREST SERVIÇOS,0.0
+março,1.1.1.2.50.0.2.001,IPTU M/J,3724.49
+março,1.1.1.2.50.0.3.001,IPTU DIV ATIVA,257575.87
+março,1.1.1.2.50.0.4.001,M/J DIV ATIVA IPTU,69333.54
+março,1.1.1.3.03.1.1.001,Imposto sobre a Renda - Retido na Fonte - Trabalho,687425.9
+março,1.1.1.3.03.4.1.000,Imposto sobre a Renda - Retido na Fonte - Outros R,284605.27
+março,1.1.1.4.51.1.1.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,3627019.42
+março,1.1.1.4.51.1.2.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,18997.27
+março,1.1.1.4.51.1.3.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,82906.43
+março,1.1.1.4.51.1.4.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,19584.72
+março,1.1.2.1.01.0.1.001,TX DE LIC FUNC E ESTAB COMERCIAL,1242698.67
+março,1.1.2.1.01.0.1.002,TX DE PUBLICIDADE COMERCIAL,68233.95
+março,1.1.2.1.01.0.1.003,TX DE FUNC DE ESTAB EM HOR ESPECIAL,413666.09
+março,1.1.2.2.01.0.2.001,M/J TX PREST SERVIÇOS,8.36
+março,1.1.2.1.01.0.1.004,TX AUTORIZAÇÃO,0.0
+março,1.1.2.1.01.0.1.006,TX DE UTIL AREA DOM PUBLICO,334.07
+março,1.1.2.1.01.0.2.000,M/J TX FISCALIZAÇÃO,738.71
+março,1.1.2.1.01.0.3.000,DIV ATIVA TX FISCALIZAÇÃO,26174.08
+março,1.1.2.1.01.0.4.000,M/J DIV ATIVA TX DE FISCALIZAÇÃO,4383.16
+março,1.1.2.1.04.0.1.000,Taxa de Controle e Fiscalização Ambiental - Princi,1201.3
+março,1.1.2.1.50.0.1.000,Taxa de Fiscalização de Vigilância Sanitária - Pri,14615.07
+março,1.1.2.1.50.0.2.000,Taxa de Fiscalização de Vigilância Sanitária - Mu,155.43
+março,1.1.2.1.50.0.3.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,11921.69
+março,1.1.2.1.50.0.4.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,8937.44
+março,1.1.2.2.01.0.1.001,TAXA DE LIMPEZA IMOVEL URBANO,7553.64
+março,1.1.2.2.01.0.1.002,REMOÇÃO LIXO DOMICILIAR,2479779.59
+março,1.1.2.2.01.0.1.003,TAXA PROTEÇÃO DE ACIDENTES,242711.58
+março,1.1.2.1.01.0.1.005,TX DE LICENÇA PARA EXECUÇÃO DE OBRAS,29614.19
+março,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,7717.28
+março,1.3.2.1.01.0.1.002,REC REM DEP BANC ROYALTIES,437.66
+março,1.3.2.1.01.0.1.004,REC REM DEP BANC MDE,30224.89
+março,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,17555.34
+março,9.6.1.1.01.0.3.001,DESCONTOS SOCIAIS DIV ATIVA AGUA,-972.98
+março,1.6.1.1.01.0.3.002,TARIFA AMPLIAÇÃO DIVIDA RECONHECIDA,8205.88
+março,9.6.1.1.01.0.3.002,DESCONTOS SOCIAIS DIV ATIVA ESGOTO,-166.34
+março,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,13.57
+março,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,670.89
+março,1.6.2.1.02.0.1.001,Serviços de Transporte de Passageiros ou Mercadori,70468.75
+março,1.6.9.9.99.0.1.001,PRESTAÇÃO DE SERVIÇO PATRULHA AGRICOLA,2146.49
+março,1.6.9.9.99.0.1.002,OUTROS SERVIÇOS,1053.18
+março,1.6.9.9.99.0.1.003,SERVIÇOS DE LIGAÇÃO DE AGUA,0.0
+março,1.6.9.9.99.0.1.004,SERVIÇOS DE LIGAÇÃO DE ESGOTOS,0.0
+março,1.6.9.9.99.0.1.005,SERVIÇOS DE RELIGAÇÃO DE AGUA,0.0
+março,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,226.2
+março,1.6.9.9.99.0.1.007,MUDANÇA DE CAVALETE,47.76
+março,1.6.9.9.99.0.1.011,AGUA POTAVEL PIPA,0.0
+março,1.6.9.9.99.0.1.013,AVISO CONTA VENCIDA,1.69
+março,1.6.9.9.99.0.1.015,POSTAGEM,0.0
+março,1.6.9.9.99.0.1.016,OUTROS SERVIÇOS,18.41
+março,1.6.9.9.99.0.1.017,OUTRAS RECEITAS,1131.59
+março,1.6.9.9.99.0.2.001,M/J PATRULHA AGRICOLA,0.0
+março,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,0.0
+março,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,95.75
+março,1.6.9.9.99.0.3.001,DIV ATIVA PATRULHA AGRICOLA,0.0
+março,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,5831.33
+março,1.6.9.9.99.0.4.001,M/J DIV ATIVA PATRULHA AGRICOLA,0.0
+março,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,0.43
+março,1.6.9.9.99.0.1.010,LIMPA FOSA,0.0
+março,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,80.1
+março,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,139.15
+março,1.6.1.1.01.0.1.023,CERTIDÃO NEGATIVA DE DEBITOS AMBIENTAIS,0.0
+março,1.3.2.1.01.0.1.005,REC REM SERVIÇOS AÇÕES DE SAUDE,4791.18
+março,1.3.2.1.01.0.1.007,REC REM DEP BANC FNAS,6335.54
+março,1.3.2.1.01.0.1.008,REC REM OUT DEP REC VINCULADOS,6488.54
+março,1.3.2.1.01.0.1.010,REC REM DEP BANC CIDE,317.42
+março,1.3.2.1.01.0.1.014,REC REND DE BANC FUNDEB,55580.43
+março,1.3.2.1.01.0.1.018,RENDIMENTOS ESCOLA PROFISSIONAL,223.86
+março,1.3.2.1.01.0.1.019,REC REND SAUDE ESTADO,20353.19
+março,1.3.2.1.01.0.1.020,REC REND SAUDE FEDERAL,161268.74
+março,1.3.2.1.01.0.1.021,REC REND DUODECIMO CAMARA,0.0
+março,1.3.2.1.01.0.1.022,REC REM EDUCAÇÃO - ESTADUAL,3217.12
+março,1.3.2.1.01.0.1.023,REC REM EDUCAÇÃO - FEDERAL,0.0
+março,1.3.2.1.01.0.1.024,REC REM ASS SOCIAL - ESTADUAL,3243.57
+março,1.3.2.1.01.0.1.025,REC REM ASS SOCIAL - FEDERAL,2822.73
+março,1.3.2.1.04.0.1.000,Remuneração dos Recursos do Regime Próprio de Prev,370602.58
+março,1.3.2.2.01.0.1.001,DIVIDENDOS,6.29
+março,1.3.3.9.99.0.1.002,OUTORGA VARIÁVEL,31526.85
+março,1.6.1.1.01.0.1.001,TARIFA DE MANIFESTAÇÃO DE ORGÃO AMBIENTAL,72.96
+março,1.6.1.1.01.0.1.004,VISTORIA DE SUPRESSÃO DE ARVORE EM CALÇADA,448.08
+março,1.6.1.1.01.0.1.005,TARIFAS DE CONSUMO DE AGUA,1769.02
+março,9.6.1.1.01.0.1.005,DESCONTOS SOCIAIS - ÁGUA,0.0
+março,1.6.1.1.01.0.1.006,TARIFS UTIL. ESGOTO SANITARIO,1573.95
+março,9.6.1.1.01.0.1.006,DESCONTOS SOCIAIS ESGOTO,0.0
+março,1.6.1.1.01.0.1.007,TARIFA ESGOTO REFERENTE POÇO,0.0
+março,1.6.1.1.01.0.1.018,TARIFAS DE DISPOSIÇÃO DE RESIDUOS CONSTR.CIVIL,28134.96
+março,1.6.1.1.01.0.1.020,CERTIFICADO DE DISPENSA DE LICENÇA CDL,259.14
+março,1.6.1.1.01.0.1.021,AUTORIZAÇÃO DE CORTE DE ARVORE ISOLADA,0.0
+março,1.6.1.1.01.0.1.022,PARECER TECNICO AMBIENTAL,0.0
+março,9.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,-930938.71
+março,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,1153.89
+março,1.3.1.1.01.1.2.001,M/J ALUGUEIS,0.0
+abril,7.9.9.9.01.0.1.001,APORTES PARA COBERTURA DE DEFICIT,40476.2
+abril,1.6.1.1.01.0.1.022,PARECER TECNICO AMBIENTAL,259.14
+abril,1.6.1.1.01.0.1.021,AUTORIZAÇÃO DE CORTE DE ARVORE ISOLADA,740.4
+abril,1.6.1.1.01.0.1.020,CERTIFICADO DE DISPENSA DE LICENÇA CDL,259.14
+abril,1.6.1.1.01.0.1.018,TARIFAS DE DISPOSIÇÃO DE RESIDUOS CONSTR.CIVIL,19890.17
+abril,1.6.1.1.01.0.1.007,TARIFA ESGOTO REFERENTE POÇO,0.0
+abril,9.6.1.1.01.0.1.006,DESCONTOS SOCIAIS ESGOTO,0.0
+abril,1.6.1.1.01.0.1.006,TARIFS UTIL. ESGOTO SANITARIO,296.74
+abril,9.6.1.1.01.0.1.005,DESCONTOS SOCIAIS - ÁGUA,0.0
+abril,1.6.1.1.01.0.1.005,TARIFAS DE CONSUMO DE AGUA,231.12
+abril,1.6.1.1.01.0.1.004,VISTORIA DE SUPRESSÃO DE ARVORE EM CALÇADA,112.02
+abril,1.6.1.1.01.0.1.001,TARIFA DE MANIFESTAÇÃO DE ORGÃO AMBIENTAL,0.0
+abril,1.3.3.9.99.0.1.002,OUTORGA VARIÁVEL,31936.83
+abril,1.3.2.2.01.0.1.001,DIVIDENDOS,0.0
+abril,1.3.2.1.04.0.1.000,Remuneração dos Recursos do Regime Próprio de Prev,22396.82
+abril,1.3.2.1.01.0.1.025,REC REM ASS SOCIAL - FEDERAL,3054.1
+abril,1.3.2.1.01.0.1.024,REC REM ASS SOCIAL - ESTADUAL,3967.5
+abril,1.3.2.1.01.0.1.023,REC REM EDUCAÇÃO - FEDERAL,115851.08
+abril,1.3.2.1.01.0.1.022,REC REM EDUCAÇÃO - ESTADUAL,3283.04
+abril,1.3.2.1.01.0.1.021,REC REND DUODECIMO CAMARA,0.0
+abril,1.3.2.1.01.0.1.020,REC REND SAUDE FEDERAL,45386.5
+abril,1.3.2.1.01.0.1.019,REC REND SAUDE ESTADO,20778.63
+abril,1.3.2.1.01.0.1.018,RENDIMENTOS ESCOLA PROFISSIONAL,251.26
+abril,1.3.2.1.01.0.1.014,REC REND DE BANC FUNDEB,56543.46
+abril,1.3.2.1.01.0.1.010,REC REM DEP BANC CIDE,365.32
+abril,1.3.2.1.01.0.1.008,REC REM OUT DEP REC VINCULADOS,5655.74
+abril,1.3.2.1.01.0.1.007,REC REM DEP BANC FNAS,7935.35
+abril,1.3.2.1.01.0.1.004,REC REM DEP BANC MDE,-83629.5
+abril,1.6.1.1.01.0.1.023,CERTIDÃO NEGATIVA DE DEBITOS AMBIENTAIS,0.0
+abril,1.3.2.1.01.0.1.002,REC REM DEP BANC ROYALTIES,411.25
+abril,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,73.8
+abril,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,0.0
+abril,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,0.0
+abril,1.6.9.9.99.0.4.001,M/J DIV ATIVA PATRULHA AGRICOLA,0.0
+abril,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,2774.94
+abril,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,3.44
+abril,1.6.9.9.99.0.3.001,DIV ATIVA PATRULHA AGRICOLA,0.0
+abril,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,91.62
+abril,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,0.0
+abril,1.6.9.9.99.0.2.001,M/J PATRULHA AGRICOLA,0.0
+abril,1.6.9.9.99.0.1.017,OUTRAS RECEITAS,1448.84
+abril,1.6.9.9.99.0.1.016,OUTROS SERVIÇOS,11.44
+abril,1.6.9.9.99.0.1.015,POSTAGEM,0.0
+abril,1.6.9.9.99.0.1.013,AVISO CONTA VENCIDA,0.3
+abril,1.6.9.9.99.0.1.011,AGUA POTAVEL PIPA,0.0
+abril,1.6.9.9.99.0.1.010,LIMPA FOSA,0.0
+abril,1.6.9.9.99.0.1.007,MUDANÇA DE CAVALETE,29.76
+abril,1.6.9.9.99.0.1.005,SERVIÇOS DE RELIGAÇÃO DE AGUA,0.0
+abril,1.6.9.9.99.0.1.004,SERVIÇOS DE LIGAÇÃO DE ESGOTOS,0.0
+abril,1.6.9.9.99.0.1.003,SERVIÇOS DE LIGAÇÃO DE AGUA,0.0
+abril,1.6.9.9.99.0.1.002,OUTROS SERVIÇOS,1780.93
+abril,1.6.9.9.99.0.1.001,PRESTAÇÃO DE SERVIÇO PATRULHA AGRICOLA,0.0
+abril,1.6.2.1.02.0.1.001,Serviços de Transporte de Passageiros ou Mercadori,60774.73
+abril,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,363.03
+abril,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,0.0
+abril,9.6.1.1.01.0.3.002,DESCONTOS SOCIAIS DIV ATIVA ESGOTO,-12.28
+abril,1.6.1.1.01.0.3.002,TARIFA AMPLIAÇÃO DIVIDA RECONHECIDA,5106.27
+abril,9.6.1.1.01.0.3.001,DESCONTOS SOCIAIS DIV ATIVA AGUA,-15.35
+abril,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,7557.0
+abril,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,93.46
+abril,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,4036.95
+abril,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,939906.75
+abril,1.3.1.1.02.0.4.001,M/J D A CONCESSÃO DE ESPAÇO,0.0
+abril,1.1.2.2.01.0.1.001,TAXA DE LIMPEZA IMOVEL URBANO,22641.71
+abril,1.1.2.1.50.0.4.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,1121.12
+abril,1.1.2.1.50.0.3.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,13572.08
+abril,1.1.2.1.50.0.2.000,Taxa de Fiscalização de Vigilância Sanitária - Mu,82.45
+abril,1.1.2.1.50.0.1.000,Taxa de Fiscalização de Vigilância Sanitária - Pri,25185.45
+abril,1.1.2.1.04.0.1.000,Taxa de Controle e Fiscalização Ambiental - Princi,740.4
+abril,1.1.2.1.01.0.4.000,M/J DIV ATIVA TX DE FISCALIZAÇÃO,4224.29
+abril,1.1.2.1.01.0.3.000,DIV ATIVA TX FISCALIZAÇÃO,22411.46
+abril,1.1.2.1.01.0.2.000,M/J TX FISCALIZAÇÃO,702.91
+abril,1.1.2.1.01.0.1.006,TX DE UTIL AREA DOM PUBLICO,260.82
+abril,1.1.2.1.01.0.1.005,TX DE LICENÇA PARA EXECUÇÃO DE OBRAS,63218.92
+abril,1.1.2.1.01.0.1.004,TX AUTORIZAÇÃO,0.0
+abril,1.1.2.1.01.0.1.003,TX DE FUNC DE ESTAB EM HOR ESPECIAL,41410.53
+abril,1.1.2.1.01.0.1.002,TX DE PUBLICIDADE COMERCIAL,14940.11
+abril,1.1.2.1.01.0.1.001,TX DE LIC FUNC E ESTAB COMERCIAL,199131.83
+abril,1.1.1.4.51.1.4.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,12725.51
+abril,1.1.1.4.51.1.3.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,78442.37
+abril,1.1.1.4.51.1.2.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,17101.48
+abril,1.1.1.4.51.1.1.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,8970455.01
+abril,1.1.1.3.03.4.1.000,Imposto sobre a Renda - Retido na Fonte - Outros R,300740.85
+abril,1.1.1.3.03.1.1.001,Imposto sobre a Renda - Retido na Fonte - Trabalho,1127731.49
+abril,1.1.1.2.50.0.4.001,M/J DIV ATIVA IPTU,180319.27
+abril,1.1.1.2.50.0.3.001,IPTU DIV ATIVA,934987.14
+abril,1.1.1.2.50.0.2.001,IPTU M/J,3372.69
+abril,1.1.1.2.50.0.1.002,IMP. S/PROP. TERRITORIAL URBANA,513310.56
+abril,1.1.1.2.50.0.1.001,IMPOSTOS S/PREDIAL URBANO,935271.42
+abril,7.9.9.9.01.0.1.002,AMORT. DEFICIT DIV ATIVA/MULTA JUROS INTRA,632.8
+abril,1.1.2.2.01.0.1.002,REMOÇÃO LIXO DOMICILIAR,611387.1
+abril,1.1.2.2.01.0.1.003,TAXA PROTEÇÃO DE ACIDENTES,60481.15
+abril,1.1.2.2.01.0.1.005,OUTRAS TAXAS PREST SERVIÇOS,0.03
+abril,1.1.2.2.01.0.2.001,M/J TX PREST SERVIÇOS,112.93
+abril,1.3.1.1.02.0.3.001,D A CONCESSÃO DE ESPAÇO,0.0
+abril,1.3.1.1.02.0.2.001,M/J CONCESSÃO DE ESPAÇO,91728.48
+abril,1.3.1.1.01.1.4.001,M/J DIV ATIVA ALUGUEIS,92.21
+abril,1.3.1.1.01.1.3.001,DIV ATIVA ALUGUEIS,122.71
+abril,1.3.1.1.01.1.2.001,M/J ALUGUEIS,0.0
+abril,1.3.1.1.01.1.1.001,ALUGUEIS,8095.42
+abril,1.2.4.1.50.0.4.000,Contribuição para o Custeio do Serviço de Iluminaç,2473.86
+abril,1.2.4.1.50.0.3.000,Contribuição para o Custeio do Serviço de Iluminaç,16719.16
+abril,1.2.4.1.50.0.2.000,Contribuição para o Custeio do Serviço de Iluminaç,207.14
+abril,1.2.4.1.50.0.1.000,Contribuição para o Custeio do Serviço de Iluminaç,518068.64
+abril,1.2.1.5.01.3.1.003,CONTRIB.SERVIDOR CIVIL-PENSIONISTAS-INSTITUTO,2467.68
+abril,1.2.1.5.01.2.1.003,CONTRIB.SERVIDOR CIVIL INATIVO-INSTITUTO,19413.23
+abril,1.2.1.5.01.1.1.004,Contribuição do Servidor Civil Ativo - Instituto,1271.97
+abril,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,954.33
+abril,1.2.1.5.01.1.1.002,Contribuição do Servidor Civil Ativo - Prefeitura,1007357.15
+abril,1.1.2.2.01.0.4.005,M/J DA OUT. TAXAS PREST SERVIÇOS,0.0
+abril,1.1.2.2.01.0.4.004,M/J DIV ATIVA REMOÇÃO LIXO,7302.13
+abril,1.1.2.2.01.0.4.003,M/J DIV ATIVA TX PROT ACIDENTES,1657.62
+abril,1.1.2.2.01.0.4.002,M/J DIV ATIVA TX INCENDIO,1913.61
+abril,1.1.2.2.01.0.4.001,M/J DIV ATIVA TX PREST SERVIÇOS,13458.06
+abril,1.1.2.2.01.0.3.005,DA OUT. TAXAS PREST SERVIÇOS,0.0
+abril,1.1.2.2.01.0.3.004,DIV ATIVA REMOÇÃO LIXO,152437.54
+abril,1.1.2.2.01.0.3.003,DIV ATIVA TX PROT ACIDENTES,14038.41
+abril,1.1.2.2.01.0.3.002,DIV ATIVA TX INCENDIO,4691.1
+abril,1.1.2.2.01.0.3.001,DIV ATIVA TX PREST SERVIÇOS,8811.58
+abril,1.1.2.2.01.0.2.005,M/J OUT. TAXAS PREST SERVIÇOS,0.0
+abril,1.1.2.2.01.0.2.004,M/J REMOÇÃO LIXO,1474.34
+abril,1.1.2.2.01.0.2.003,M/J TX PROTEÇÃO DE ACIDENTES,125.59
+abril,1.2.1.5.01.1.1.001,Contribuição do Servidor Civil Ativo - Câmara,19092.99
+abril,1.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,4729963.03
+abril,1.3.2.1.01.0.1.005,REC REM SERVIÇOS AÇÕES DE SAUDE,6038.16
+abril,1.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,4049.13
+abril,1.9.1.1.06.1.2.001,MULTAS ADMINISTRATIVAS POR DANOS AMBIENTAIS,0.0
+abril,1.9.1.1.01.0.4.005,M/J DIV ATIVA VIOLAÇÃO DE LACRE,45.91
+abril,1.9.1.1.01.0.4.001,M/J DIV ATIVA MULTAS,799.45
+abril,1.9.1.1.01.0.3.002,MULTA VIOLAÇÃO DE LACRE E OUTROS - DIVIDA ATIVA,0.0
+abril,1.9.1.1.01.0.3.001,MULTAS DIV ATIVA INFRAÇÃO,4349.71
+abril,1.9.1.1.01.0.2.004,MULTA/ JUROS VIOLAÇÃO DE LACRE,0.0
+abril,1.9.1.1.01.0.2.003,MULTA POR VIOLAÇÃO DE LACRE E OUTROS,0.0
+abril,1.9.1.1.01.0.2.002,M/J MULTAS,2.51
+abril,1.9.1.1.01.0.2.001,MULTA POR ATO DE INFRAÇÃO,0.0
+abril,1.9.1.1.01.0.1.002,SOM ALTO - MULTA AUTO DE INFRAÇÃO,0.0
+abril,1.9.1.1.01.0.1.001,MULTA POR AUTO DE INFRAÇÃO,8931.78
+abril,1.7.5.1.50.0.1.000,TRANSF FUNDO DE MANUTENÇÃO - FUNDEB,4306390.78
+abril,1.7.4.1.99.0.1.002,DOAÇÕES FUNDO DO IDOSO,456.95
+abril,1.9.1.1.09.0.1.001,MULTA PREVISTA EM CONTRATOS,0.0
+abril,1.7.4.1.99.0.1.001,DOAÇÕES FUNDO CRIANÇA E ADOLESCENTE,0.0
+abril,1.7.3.9.99.0.1.001,CASA ABRIGO ADOLESCENTE,4333.0
+abril,1.7.2.9.99.0.1.005,OUTRAS TRANSFERENCIAS ESTADO - ASS SOCIAL,0.0
+abril,1.7.2.9.99.0.1.001,OUTRAS TRANSF ESTADO EDUCAÇÃO,0.0
+abril,1.7.2.9.51.0.1.020,INSTITUTO O AMOR,8750.0
+abril,1.7.2.9.51.0.1.019,CUST SERV VIG SOCIOASSIST,0.0
+abril,1.7.2.9.51.0.1.018,VIG SOCIOASSISTENCIAL ESTADO,0.0
+abril,1.7.2.9.51.0.1.016,PSE ALTA EXPANSÃO,1000.0
+abril,1.7.2.9.51.0.1.015,Serv. complementação alimentar à famílias em vul,0.0
+abril,1.7.2.9.51.0.1.014,Serv. funerais destinados à famílias em vulnerabil,0.0
+abril,1.7.2.9.51.0.1.013,Serv. dest. nascimento/gestação de famílias em vul,0.0
+abril,1.7.2.9.51.0.1.011,AÇÕES DE ENFRENTAMENTO À VIOLÊNCIA CONTRA MULHER,0.0
+abril,1.7.2.9.51.0.1.010,FRENTE FRIA,0.0
+abril,1.7.2.9.51.0.1.009,Alta Complexidade - Abrigo São José,8750.0
+abril,1.7.3.9.99.0.1.002,CASA ABRIGO NOSSO LAR,3000.0
+abril,1.7.2.9.51.0.1.008,Migrante,6307.0
+abril,1.9.1.1.09.0.2.001,MULTA PREVISTA EM CONTRATOS,0.0
+abril,1.9.1.1.09.0.4.001,Multas e Juros Previstos em Contratos - Dívida Ati,0.0
+abril,7.9.2.3.99.0.1.003,Outros Ressarcimentos - Câmara,6334.98
+abril,9.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,-945992.58
+abril,7.9.2.3.99.0.1.001,Outros Ressarcimentos - Daemo,37032.88
+abril,7.2.1.5.02.1.1.004,Contribuição Patronal-Serv. Civil Ativo-Instituto,1998.82
+abril,7.2.1.5.02.1.1.002,Contribuição Patronal - Serv. Civil Ativo - Câmara,30003.29
+abril,7.2.1.5.02.1.1.001,Contribuição Patronal-Serv. Civil Ativo-Prefeitura,2587723.85
+abril,2.4.2.2.99.0.1.037,DADETUR - CENTRO CULTURAL,0.0
+abril,2.4.2.2.99.0.1.034,AMPLIAÇÃO CRECHE DONA BENTA,0.0
+abril,2.4.2.2.99.0.1.030,OUTRAS TRANSF. ESTADO - OBRAS,0.0
+abril,2.4.2.2.99.0.1.017,Centro de Convivência,382500.0
+abril,2.4.2.2.99.0.1.009,CASA DA JUVENTUDE,0.0
+abril,2.4.2.2.50.0.1.003,UBS Qualivida,0.0
+abril,2.4.1.9.99.0.1.012,OUTRAS TRANS. FEDERAL - OBRAS,0.0
+abril,1.9.1.1.09.0.3.001,D A MULTA PREV. EM CONTRATOS,0.0
+abril,2.2.2.1.01.0.1.001,ALIENAÇÃO DE BENS IMOVEIS,0.0
+abril,1.9.9.9.12.2.1.001,Ônus de Sucumbência - Principal,2029.88
+abril,1.9.9.9.03.0.1.000,Compensações Financeiras entre o Regime Geral e os,161502.5
+abril,1.9.2.3.99.0.2.001,M/J CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,0.0
+abril,1.9.2.3.99.0.1.001,CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,25836.05
+abril,1.9.2.2.99.0.4.001,M/J DIV ATIVA OUTRAS RESTITUIÇÕES,9.64
+abril,1.9.2.2.99.0.3.001,DIV ATIVA OUTRA RESTITUIÇÕES,12.83
+abril,1.9.2.2.99.0.2.001,M/J OUTRAS RESTITUIÇÕES,48.04
+abril,1.9.2.2.99.0.1.004,Restituições,471.12
+abril,1.9.2.2.99.0.1.003,Restituições,0.0
+abril,1.9.2.2.99.0.1.001,Outras Restituições - Principal,0.0
+abril,1.9.2.2.99.0.1.001,Outras Restituições - Principal,174214.82
+abril,1.9.2.1.99.0.1.001,Outras Indenizações - Principal,0.0
+abril,1.9.1.1.14.0.1.001,OLIMPIA MULTAS DE TRANSITO,29615.24
+abril,2.2.1.3.01.0.1.001,ALIENAÇÃO DE BENS MOVEIS,0.0
+abril,1.7.2.9.51.0.1.007,L.A. Serv Prot Social Adoles Liberdade Assist,1000.0
+abril,7.9.2.3.99.0.1.002,Outros Ressarcimentos - Instituto,13852.89
+abril,1.7.2.9.51.0.1.005,PAEFI-Serv Prot Especializado a Fam e Individuo,1500.0
+abril,1.7.1.3.99.0.1.001,OUTRAS TRANSFERÊNCIAS UNIÃO - SAÚDE,0.0
+abril,1.7.1.3.50.5.1.004,FMS PISO ENFERMAGEM,126238.25
+abril,1.7.1.3.50.4.1.001,ASS FARMACEUTICA,24094.87
+abril,1.7.1.3.50.3.1.004,FNS AIDS,9414.91
+abril,1.7.1.3.50.3.1.003,AÇÕES DE VIGILANCIA SANITARIA,0.0
+abril,1.7.1.3.50.3.1.002,COMBATE A ENDEMIAS,81972.0
+abril,1.7.1.3.50.3.1.001,VIGILANCIA EM SAUDE,36351.35
+abril,1.7.1.3.50.2.1.026,FAEC - NEFROLOGIA,133398.87
+abril,1.7.1.3.50.2.1.025,FAEC - PRÉ-CIRÚRGICO EM CIRURGIAS PRIORITÁRIAS,961.52
+abril,1.7.1.3.50.2.1.005,MAC SAMU,28494.7
+abril,1.7.1.3.50.2.1.004,MAC MELHOR EM CASA,72800.0
+abril,1.7.1.3.50.2.1.003,MAC MANUTENÇÃO,108105.82
+abril,1.7.1.3.50.2.1.002,MAC SANTA CASA,416475.09
+abril,1.7.1.3.50.2.1.001,MAC UPA,300000.0
+abril,9.7.1.3.50.2.1.000,TRANSFERENCIAS MAC,-165301.74
+abril,1.7.1.3.50.1.1.045,PAB - IMPLEM. POLITICAS REDE ALYNE,0.0
+abril,1.7.1.3.50.1.1.042,AGENTES COMUNITARIOS DE SAUDE,81972.0
+abril,1.7.1.3.50.1.1.027,APS -INCENT FINANC COMP PER CAPITA BASE POPULACION,56228.5
+abril,1.7.1.3.50.1.1.025,APS - INCENT. FINANC. EQUIPES MULTIPROFISSIONAIS,14250.0
+abril,1.7.1.3.50.1.1.024,APS - INCENT. FINANC. MANUT PAG VALOR NOMINAL,0.0
+abril,1.7.1.3.50.1.1.023,APS - INCENT. FINANC. ESF/EAP,242400.0
+abril,1.7.1.3.50.1.1.022,APS -INCENTIVO COMPENSATORIO DE TRANSIÇÃO,32356.72
+abril,1.7.1.3.50.1.1.009,MANUTENÇÃO ACADEMIA DA SAUDE,6000.0
+abril,1.7.1.3.50.1.1.006,PAB SAUDE BUCAL,96925.74
+abril,1.7.1.3.50.1.1.004,PAB AG COMUNITARIO SAUDE,0.0
+abril,1.7.1.2.52.1.1.000,Cota-parte da Compensação Financeira pela Produção,15124.5
+abril,1.7.2.9.51.0.1.006,Centro Dia,4000.0
+abril,1.7.1.4.50.0.1.000,SALARIO EDUCAÇÃO-QESE,258210.01
+abril,1.7.1.4.52.0.1.000,FNDE PNAE,144564.0
+abril,1.7.1.2.51.0.1.000,Cota-parte da Compensação Financeira pela Exploraç,3436.88
+abril,1.7.1.4.99.0.1.001,OUTRAS TRANSF UNIAO EDUCAÇÃO,0.0
+abril,1.7.1.4.53.0.1.000,FNDE PNATE,27196.17
+abril,1.7.2.9.51.0.1.004,Media Complexidade - APAE,8500.0
+abril,1.7.2.9.51.0.1.003,SCFV-Serv Convivência e Fortalecimento de Vínculo,14766.47
+abril,1.7.2.9.51.0.1.001,SADS Proteção Básica - Humanizar,3000.0
+abril,1.7.2.4.99.0.1.014,OUTRAS TRANSFERENCIAS ESTADO - SAÚDE,0.0
+abril,1.7.2.4.99.0.1.013,FMAS BENEFICIOS EVENTUAIS,32220.94
+abril,1.7.2.4.51.0.1.001,TRANSP ALUNOS ESTADUAL,315288.2
+abril,1.7.2.4.50.0.1.022,SUS PAULISTA EXT DENGUE,0.0
+abril,1.7.2.4.50.0.1.019,IGM - SUS,0.0
+abril,1.7.2.4.50.0.1.013,PAB TAB SUS PAULISTA,510561.26
+abril,1.7.2.4.50.0.1.011,CIRURGIA ELETIVAS,0.0
+abril,1.7.2.4.50.0.1.002,MEDICAMENTOS FURP,0.0
+abril,1.7.2.4.50.0.1.001,GLICEMIA,0.0
+abril,9.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,-809.81
+abril,9.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,-10632.34
+abril,1.7.1.7.52.0.1.003,IGD-BF IND GESTÃO DESC MUN PROG BOLSA FAMILIA,10626.33
+abril,1.7.2.1.53.0.1.000,Cota-Parte da Contribuição de Intervenção no Domín,14743.9
+abril,1.7.1.7.52.0.1.005,PROGRAMA PRIMEIRA INFANCIA NO SUAS- CRIANÇA FELIZ,0.0
+abril,1.7.1.7.52.0.1.018,Bloco Proteção Social Básica,7906.67
+abril,1.7.1.7.52.0.1.019,Bloco Proteção Social Especial,16831.5
+abril,1.7.1.7.99.0.1.001,OUTRAS TRASNF UNIAO ASS SOCIAL,0.0
+abril,1.7.1.7.52.0.1.004,IGD-SUAS IND GEST DESC MUN SIST UNICO ASS SOCIAL,0.0
+abril,9.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,-1383051.54
+abril,1.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,1937485.61
+abril,1.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,53161.68
+abril,9.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,-387497.18
+abril,1.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,6915257.77
+maio,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,69.52
+maio,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,14.35
+maio,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,0.0
+maio,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,10684.53
+maio,1.6.1.1.01.0.3.002,TARIFA AMPLIAÇÃO DIVIDA RECONHECIDA,5106.27
+maio,9.6.1.1.01.0.3.002,DESCONTOS SOCIAIS DIV ATIVA ESGOTO,0.0
+maio,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,0.0
+maio,1.6.1.1.01.0.1.023,CERTIDÃO NEGATIVA DE DEBITOS AMBIENTAIS,0.0
+maio,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,86.97
+maio,1.7.1.3.50.1.1.023,APS - INCENT. FINANC. ESF/EAP,246300.0
+maio,9.6.1.1.01.0.3.001,DESCONTOS SOCIAIS DIV ATIVA AGUA,0.0
+maio,1.6.1.1.01.0.1.022,PARECER TECNICO AMBIENTAL,0.0
+maio,1.6.1.1.01.0.1.006,TARIFS UTIL. ESGOTO SANITARIO,425.19
+maio,1.6.1.1.01.0.1.020,CERTIFICADO DE DISPENSA DE LICENÇA CDL,0.0
+maio,1.6.1.1.01.0.1.018,TARIFAS DE DISPOSIÇÃO DE RESIDUOS CONSTR.CIVIL,22320.0
+maio,1.6.1.1.01.0.1.007,TARIFA ESGOTO REFERENTE POÇO,0.0
+maio,9.6.1.1.01.0.1.006,DESCONTOS SOCIAIS ESGOTO,0.0
+maio,1.6.2.1.02.0.1.001,Serviços de Transporte de Passageiros ou Mercadori,70853.23
+maio,9.6.1.1.01.0.1.005,DESCONTOS SOCIAIS - ÁGUA,0.0
+maio,1.6.1.1.01.0.1.005,TARIFAS DE CONSUMO DE AGUA,273.87
+maio,1.6.1.1.01.0.1.004,VISTORIA DE SUPRESSÃO DE ARVORE EM CALÇADA,597.44
+maio,1.6.1.1.01.0.1.001,TARIFA DE MANIFESTAÇÃO DE ORGÃO AMBIENTAL,36.48
+maio,1.3.3.9.99.0.1.002,OUTORGA VARIÁVEL,27005.7
+maio,1.3.2.2.01.0.1.001,DIVIDENDOS,0.51
+maio,1.3.2.1.04.0.1.000,Remuneração dos Recursos do Regime Próprio de Prev,46302.49
+maio,1.3.2.1.01.0.1.025,REC REM ASS SOCIAL - FEDERAL,1414.65
+maio,1.3.2.1.01.0.1.024,REC REM ASS SOCIAL - ESTADUAL,6273.5
+maio,1.6.1.1.01.0.1.021,AUTORIZAÇÃO DE CORTE DE ARVORE ISOLADA,1480.8
+maio,1.6.9.9.99.0.1.001,PRESTAÇÃO DE SERVIÇO PATRULHA AGRICOLA,2858.28
+maio,1.6.9.9.99.0.1.010,LIMPA FOSA,0.0
+maio,1.6.9.9.99.0.1.003,SERVIÇOS DE LIGAÇÃO DE AGUA,0.0
+maio,1.7.1.3.50.1.1.009,MANUTENÇÃO ACADEMIA DA SAUDE,3000.0
+maio,1.7.1.3.50.1.1.022,APS -INCENTIVO COMPENSATORIO DE TRANSIÇÃO,32356.72
+maio,1.3.2.1.01.0.1.023,REC REM EDUCAÇÃO - FEDERAL,34248.15
+maio,1.7.1.3.50.1.1.006,PAB SAUDE BUCAL,96925.74
+maio,1.7.1.3.50.1.1.004,PAB AG COMUNITARIO SAUDE,0.0
+maio,1.7.1.2.52.1.1.000,Cota-parte da Compensação Financeira pela Produção,25033.51
+maio,1.7.1.2.51.0.1.000,Cota-parte da Compensação Financeira pela Exploraç,1923.69
+maio,9.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,-1746.93
+maio,1.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,8734.66
+maio,9.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,-1206747.67
+maio,1.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,6033738.49
+maio,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,1061.72
+maio,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,0.11
+maio,1.6.9.9.99.0.4.001,M/J DIV ATIVA PATRULHA AGRICOLA,0.0
+maio,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,4514.46
+maio,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,3.44
+maio,1.6.9.9.99.0.3.001,DIV ATIVA PATRULHA AGRICOLA,0.0
+maio,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,0.0
+maio,1.6.9.9.99.0.2.001,M/J PATRULHA AGRICOLA,0.0
+maio,1.6.9.9.99.0.1.017,OUTRAS RECEITAS,1897.77
+maio,1.6.9.9.99.0.1.016,OUTROS SERVIÇOS,14.53
+maio,1.6.9.9.99.0.1.015,POSTAGEM,0.0
+maio,1.6.9.9.99.0.1.013,AVISO CONTA VENCIDA,0.3
+maio,1.6.9.9.99.0.1.011,AGUA POTAVEL PIPA,0.0
+maio,1.6.9.9.99.0.1.007,MUDANÇA DE CAVALETE,29.76
+maio,1.6.9.9.99.0.1.005,SERVIÇOS DE RELIGAÇÃO DE AGUA,0.0
+maio,1.6.9.9.99.0.1.004,SERVIÇOS DE LIGAÇÃO DE ESGOTOS,0.0
+maio,1.6.9.9.99.0.1.002,OUTROS SERVIÇOS,2788.06
+maio,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,64.44
+maio,1.2.1.5.01.1.1.002,Contribuição do Servidor Civil Ativo - Prefeitura,878053.18
+maio,1.3.2.1.01.0.1.021,REC REND DUODECIMO CAMARA,5813.58
+maio,1.1.2.2.01.0.3.005,DA OUT. TAXAS PREST SERVIÇOS,0.0
+maio,1.1.2.2.01.0.3.004,DIV ATIVA REMOÇÃO LIXO,115677.29
+maio,1.1.2.2.01.0.3.003,DIV ATIVA TX PROT ACIDENTES,9832.19
+maio,1.1.2.2.01.0.3.002,DIV ATIVA TX INCENDIO,4933.95
+maio,1.1.2.2.01.0.3.001,DIV ATIVA TX PREST SERVIÇOS,5806.0
+maio,1.1.2.2.01.0.2.005,M/J OUT. TAXAS PREST SERVIÇOS,0.0
+maio,1.1.2.2.01.0.2.004,M/J REMOÇÃO LIXO,1596.78
+maio,1.1.2.2.01.0.2.003,M/J TX PROTEÇÃO DE ACIDENTES,153.58
+maio,1.1.2.2.01.0.2.001,M/J TX PREST SERVIÇOS,156.07
+maio,1.1.2.2.01.0.1.005,OUTRAS TAXAS PREST SERVIÇOS,0.0
+maio,1.1.2.2.01.0.1.003,TAXA PROTEÇÃO DE ACIDENTES,58081.56
+maio,1.1.2.2.01.0.1.002,REMOÇÃO LIXO DOMICILIAR,569941.83
+maio,1.1.2.2.01.0.1.001,TAXA DE LIMPEZA IMOVEL URBANO,10251.39
+maio,1.1.2.2.01.0.4.001,M/J DIV ATIVA TX PREST SERVIÇOS,4687.47
+maio,1.1.2.1.50.0.4.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,1115.88
+maio,1.1.2.1.50.0.2.000,Taxa de Fiscalização de Vigilância Sanitária - Mu,128.63
+maio,1.1.2.1.50.0.1.000,Taxa de Fiscalização de Vigilância Sanitária - Pri,11988.67
+maio,1.1.2.1.04.0.1.000,Taxa de Controle e Fiscalização Ambiental - Princi,11512.1
+maio,1.1.2.1.01.0.4.000,M/J DIV ATIVA TX DE FISCALIZAÇÃO,5595.14
+maio,1.1.2.1.01.0.3.000,DIV ATIVA TX FISCALIZAÇÃO,19765.3
+maio,1.1.2.1.01.0.2.000,M/J TX FISCALIZAÇÃO,598.92
+maio,1.1.2.1.01.0.1.006,TX DE UTIL AREA DOM PUBLICO,1002.94
+maio,1.1.2.1.01.0.1.005,TX DE LICENÇA PARA EXECUÇÃO DE OBRAS,50164.42
+maio,1.1.2.1.01.0.1.004,TX AUTORIZAÇÃO,0.0
+maio,1.1.2.1.01.0.1.003,TX DE FUNC DE ESTAB EM HOR ESPECIAL,45875.83
+maio,1.1.2.1.01.0.1.002,TX DE PUBLICIDADE COMERCIAL,13147.8
+maio,1.1.2.1.01.0.1.001,TX DE LIC FUNC E ESTAB COMERCIAL,206511.97
+maio,1.7.1.3.50.1.1.024,APS - INCENT. FINANC. MANUT PAG VALOR NOMINAL,0.0
+maio,1.1.2.1.50.0.3.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,6128.84
+maio,1.3.2.1.01.0.1.022,REC REM EDUCAÇÃO - ESTADUAL,3408.5
+maio,1.1.2.2.01.0.4.002,M/J DIV ATIVA TX INCENDIO,3150.86
+maio,1.1.2.2.01.0.4.004,M/J DIV ATIVA REMOÇÃO LIXO,31092.14
+maio,1.3.2.1.01.0.1.020,REC REND SAUDE FEDERAL,39140.29
+maio,1.3.2.1.01.0.1.019,REC REND SAUDE ESTADO,22285.8
+maio,1.3.2.1.01.0.1.018,RENDIMENTOS ESCOLA PROFISSIONAL,275.22
+maio,1.3.2.1.01.0.1.014,REC REND DE BANC FUNDEB,57332.57
+maio,1.3.2.1.01.0.1.010,REC REM DEP BANC CIDE,177.27
+maio,1.3.2.1.01.0.1.008,REC REM OUT DEP REC VINCULADOS,7742.21
+maio,1.3.2.1.01.0.1.007,REC REM DEP BANC FNAS,8802.03
+maio,1.3.2.1.01.0.1.005,REC REM SERVIÇOS AÇÕES DE SAUDE,6346.81
+maio,1.3.2.1.01.0.1.004,REC REM DEP BANC MDE,1390.16
+maio,1.3.2.1.01.0.1.002,REC REM DEP BANC ROYALTIES,396.65
+maio,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,3624.96
+maio,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,1225107.87
+maio,1.3.1.1.02.0.4.001,M/J D A CONCESSÃO DE ESPAÇO,0.0
+maio,1.1.2.2.01.0.4.003,M/J DIV ATIVA TX PROT ACIDENTES,1339.24
+maio,1.3.1.1.02.0.3.001,D A CONCESSÃO DE ESPAÇO,0.0
+maio,1.3.1.1.01.1.4.001,M/J DIV ATIVA ALUGUEIS,92.21
+maio,1.3.1.1.01.1.3.001,DIV ATIVA ALUGUEIS,122.71
+maio,1.3.1.1.01.1.2.001,M/J ALUGUEIS,0.0
+maio,1.3.1.1.01.1.1.001,ALUGUEIS,6540.1
+maio,1.2.4.1.50.0.4.000,Contribuição para o Custeio do Serviço de Iluminaç,3097.88
+maio,1.2.4.1.50.0.3.000,Contribuição para o Custeio do Serviço de Iluminaç,20560.93
+maio,1.2.4.1.50.0.2.000,Contribuição para o Custeio do Serviço de Iluminaç,432.75
+maio,1.2.4.1.50.0.1.000,Contribuição para o Custeio do Serviço de Iluminaç,517547.51
+maio,1.2.1.5.01.3.1.003,CONTRIB.SERVIDOR CIVIL-PENSIONISTAS-INSTITUTO,1675.66
+maio,1.2.1.5.01.2.1.003,CONTRIB.SERVIDOR CIVIL INATIVO-INSTITUTO,11987.92
+maio,1.2.1.5.01.1.1.004,Contribuição do Servidor Civil Ativo - Instituto,1025.54
+maio,1.2.1.5.01.1.1.001,Contribuição do Servidor Civil Ativo - Câmara,16615.84
+maio,1.1.2.2.01.0.4.005,M/J DA OUT. TAXAS PREST SERVIÇOS,0.0
+maio,1.3.1.1.02.0.2.001,M/J CONCESSÃO DE ESPAÇO,-91728.48
+maio,1.7.1.3.50.1.1.025,APS - INCENT. FINANC. EQUIPES MULTIPROFISSIONAIS,14250.0
+maio,7.9.2.3.99.0.1.002,Outros Ressarcimentos - Instituto,0.0
+maio,1.7.1.3.50.1.1.042,AGENTES COMUNITARIOS DE SAUDE,81972.0
+maio,1.9.2.2.99.0.3.001,DIV ATIVA OUTRA RESTITUIÇÕES,12.83
+maio,1.9.2.2.99.0.2.001,M/J OUTRAS RESTITUIÇÕES,0.0
+maio,1.9.2.2.99.0.1.004,Restituições,471.12
+maio,1.9.2.2.99.0.1.003,Restituições,0.0
+maio,1.9.2.2.99.0.1.001,Outras Restituições - Principal,0.0
+maio,1.9.2.2.99.0.1.001,Outras Restituições - Principal,3249.38
+maio,1.9.2.1.99.0.1.001,Outras Indenizações - Principal,0.0
+maio,1.9.1.1.14.0.1.001,OLIMPIA MULTAS DE TRANSITO,33457.54
+maio,1.9.1.1.09.0.4.001,Multas e Juros Previstos em Contratos - Dívida Ati,0.0
+maio,1.9.1.1.09.0.3.001,D A MULTA PREV. EM CONTRATOS,0.0
+maio,1.9.1.1.09.0.2.001,MULTA PREVISTA EM CONTRATOS,0.0
+maio,1.9.1.1.09.0.1.001,MULTA PREVISTA EM CONTRATOS,0.0
+maio,1.9.1.1.06.1.2.001,MULTAS ADMINISTRATIVAS POR DANOS AMBIENTAIS,0.0
+maio,1.9.1.1.01.0.4.005,M/J DIV ATIVA VIOLAÇÃO DE LACRE,46.26
+maio,1.9.1.1.01.0.4.001,M/J DIV ATIVA MULTAS,962.5
+maio,1.9.1.1.01.0.3.002,MULTA VIOLAÇÃO DE LACRE E OUTROS - DIVIDA ATIVA,0.0
+maio,1.9.1.1.01.0.3.001,MULTAS DIV ATIVA INFRAÇÃO,10410.47
+maio,1.9.1.1.01.0.2.004,MULTA/ JUROS VIOLAÇÃO DE LACRE,0.0
+maio,1.9.1.1.01.0.2.003,MULTA POR VIOLAÇÃO DE LACRE E OUTROS,0.0
+maio,1.9.1.1.01.0.2.002,M/J MULTAS,3.7
+maio,1.9.1.1.01.0.2.001,MULTA POR ATO DE INFRAÇÃO,0.0
+maio,1.9.1.1.01.0.1.002,SOM ALTO - MULTA AUTO DE INFRAÇÃO,0.0
+maio,1.9.1.1.01.0.1.001,MULTA POR AUTO DE INFRAÇÃO,27209.7
+maio,1.7.5.1.50.0.1.000,TRANSF FUNDO DE MANUTENÇÃO - FUNDEB,3967409.18
+maio,1.7.4.1.99.0.1.002,DOAÇÕES FUNDO DO IDOSO,0.0
+maio,1.7.4.1.99.0.1.001,DOAÇÕES FUNDO CRIANÇA E ADOLESCENTE,3000.0
+maio,1.7.1.3.50.1.1.027,APS -INCENT FINANC COMP PER CAPITA BASE POPULACION,84342.75
+maio,1.9.2.2.99.0.4.001,M/J DIV ATIVA OUTRAS RESTITUIÇÕES,9.64
+maio,1.9.2.3.99.0.1.001,CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,25836.05
+maio,1.9.2.3.99.0.2.001,M/J CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,0.0
+maio,1.9.9.9.03.0.1.000,Compensações Financeiras entre o Regime Geral e os,218812.49
+maio,7.9.9.9.01.0.1.002,AMORT. DEFICIT DIV ATIVA/MULTA JUROS INTRA,580.55
+maio,7.9.9.9.01.0.1.001,APORTES PARA COBERTURA DE DEFICIT,40476.2
+maio,7.9.2.3.99.0.1.003,Outros Ressarcimentos - Câmara,6334.98
+maio,7.9.2.3.99.0.1.001,Outros Ressarcimentos - Daemo,18516.44
+maio,1.1.1.2.50.0.1.001,IMPOSTOS S/PREDIAL URBANO,836443.48
+maio,1.1.1.2.50.0.1.002,IMP. S/PROP. TERRITORIAL URBANA,610322.02
+maio,1.1.1.2.50.0.2.001,IPTU M/J,4628.32
+maio,1.1.1.2.50.0.3.001,IPTU DIV ATIVA,312974.18
+maio,1.1.1.2.50.0.4.001,M/J DIV ATIVA IPTU,70417.31
+maio,1.1.1.3.03.1.1.001,Imposto sobre a Renda - Retido na Fonte - Trabalho,876832.75
+maio,1.1.1.3.03.4.1.000,Imposto sobre a Renda - Retido na Fonte - Outros R,359414.63
+maio,1.1.1.4.51.1.1.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,4951866.28
+maio,1.1.1.4.51.1.2.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,19476.01
+maio,1.7.3.9.99.0.1.001,CASA ABRIGO ADOLESCENTE,12315.53
+maio,1.1.1.4.51.1.3.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,128173.01
+maio,7.2.1.5.02.1.1.004,Contribuição Patronal-Serv. Civil Ativo-Instituto,1611.56
+maio,7.2.1.5.02.1.1.002,Contribuição Patronal - Serv. Civil Ativo - Câmara,26110.63
+maio,7.2.1.5.02.1.1.001,Contribuição Patronal-Serv. Civil Ativo-Prefeitura,608072.56
+maio,2.4.2.2.99.0.1.037,DADETUR - CENTRO CULTURAL,0.0
+maio,2.4.2.2.99.0.1.034,AMPLIAÇÃO CRECHE DONA BENTA,0.0
+maio,2.4.2.2.99.0.1.030,OUTRAS TRANSF. ESTADO - OBRAS,0.0
+maio,2.4.2.2.99.0.1.017,Centro de Convivência,0.0
+maio,2.4.2.2.99.0.1.009,CASA DA JUVENTUDE,0.0
+maio,2.4.2.2.50.0.1.003,UBS Qualivida,0.0
+maio,2.4.1.9.99.0.1.012,OUTRAS TRANS. FEDERAL - OBRAS,0.0
+maio,2.2.2.1.01.0.1.001,ALIENAÇÃO DE BENS IMOVEIS,0.0
+maio,2.2.1.3.01.0.1.001,ALIENAÇÃO DE BENS MOVEIS,0.0
+maio,1.9.9.9.12.2.1.001,Ônus de Sucumbência - Principal,2166.17
+maio,1.1.1.4.51.1.4.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,39828.91
+maio,1.7.2.9.99.0.1.005,OUTRAS TRANSFERENCIAS ESTADO - ASS SOCIAL,0.0
+maio,1.7.3.9.99.0.1.002,CASA ABRIGO NOSSO LAR,3000.0
+maio,1.7.2.9.51.0.1.021,PSB EXPANSÃO,13659.59
+maio,1.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,6401533.83
+maio,1.7.1.7.99.0.1.001,OUTRAS TRASNF UNIAO ASS SOCIAL,0.0
+maio,1.7.1.7.52.0.1.019,Bloco Proteção Social Especial,16831.5
+maio,1.7.1.7.52.0.1.018,Bloco Proteção Social Básica,8062.71
+maio,1.7.1.7.52.0.1.005,PROGRAMA PRIMEIRA INFANCIA NO SUAS- CRIANÇA FELIZ,0.0
+maio,1.7.1.7.52.0.1.004,IGD-SUAS IND GEST DESC MUN SIST UNICO ASS SOCIAL,0.0
+maio,1.7.1.7.52.0.1.003,IGD-BF IND GESTÃO DESC MUN PROG BOLSA FAMILIA,10686.59
+maio,1.7.1.4.99.0.1.001,OUTRAS TRANSF UNIAO EDUCAÇÃO,0.0
+maio,1.7.1.4.53.0.1.000,FNDE PNATE,0.0
+maio,1.7.1.4.52.0.1.000,FNDE PNAE,144564.0
+maio,1.7.1.4.50.0.1.000,SALARIO EDUCAÇÃO-QESE,257604.62
+maio,1.7.1.3.99.0.1.001,OUTRAS TRANSFERÊNCIAS UNIÃO - SAÚDE,0.0
+maio,1.7.1.3.50.5.1.004,FMS PISO ENFERMAGEM,119333.25
+maio,1.7.1.3.50.4.1.001,ASS FARMACEUTICA,24094.87
+maio,1.7.1.3.50.3.1.004,FNS AIDS,9414.91
+maio,1.7.1.3.50.3.1.003,AÇÕES DE VIGILANCIA SANITARIA,0.0
+maio,1.7.1.3.50.3.1.002,COMBATE A ENDEMIAS,81972.0
+maio,1.7.1.3.50.3.1.001,VIGILANCIA EM SAUDE,8939.48
+maio,1.7.1.3.50.2.1.026,FAEC - NEFROLOGIA,0.0
+maio,1.7.1.3.50.2.1.025,FAEC - PRÉ-CIRÚRGICO EM CIRURGIAS PRIORITÁRIAS,0.0
+maio,1.7.1.3.50.2.1.005,MAC SAMU,28494.7
+maio,1.7.1.3.50.2.1.004,MAC MELHOR EM CASA,72800.0
+maio,1.7.1.3.50.2.1.003,MAC MANUTENÇÃO,108105.82
+maio,1.7.1.3.50.2.1.002,MAC SANTA CASA,416475.09
+maio,1.7.1.3.50.2.1.001,MAC UPA,300000.0
+maio,9.7.1.3.50.2.1.000,TRANSFERENCIAS MAC,-165301.74
+maio,1.7.1.3.50.1.1.045,PAB - IMPLEM. POLITICAS REDE ALYNE,0.0
+maio,1.7.2.9.99.0.1.001,OUTRAS TRANSF ESTADO EDUCAÇÃO,0.0
+maio,1.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,1797081.49
+maio,9.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,-1280306.75
+maio,1.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,42182.31
+maio,1.7.2.9.51.0.1.020,INSTITUTO O AMOR,0.0
+maio,1.7.2.9.51.0.1.019,CUST SERV VIG SOCIOASSIST,0.0
+maio,1.7.2.9.51.0.1.018,VIG SOCIOASSISTENCIAL ESTADO,0.0
+maio,1.7.2.9.51.0.1.016,PSE ALTA EXPANSÃO,39807.0
+maio,1.7.2.9.51.0.1.015,Serv. complementação alimentar à famílias em vul,0.0
+maio,1.7.2.9.51.0.1.014,Serv. funerais destinados à famílias em vulnerabil,0.0
+maio,1.7.2.9.51.0.1.013,Serv. dest. nascimento/gestação de famílias em vul,0.0
+maio,1.7.2.9.51.0.1.011,AÇÕES DE ENFRENTAMENTO À VIOLÊNCIA CONTRA MULHER,0.0
+maio,1.7.2.9.51.0.1.010,FRENTE FRIA,0.0
+maio,1.7.2.9.51.0.1.009,Alta Complexidade - Abrigo São José,0.0
+maio,1.7.2.9.51.0.1.008,Migrante,0.0
+maio,9.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,-359416.36
+maio,1.7.2.9.51.0.1.006,Centro Dia,0.0
+maio,1.7.2.9.51.0.1.005,PAEFI-Serv Prot Especializado a Fam e Individuo,0.0
+maio,1.7.2.9.51.0.1.007,L.A. Serv Prot Social Adoles Liberdade Assist,0.0
+maio,1.7.2.9.51.0.1.003,SCFV-Serv Convivência e Fortalecimento de Vínculo,9742.45
+maio,9.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,-8436.46
+maio,1.7.2.1.53.0.1.000,Cota-Parte da Contribuição de Intervenção no Domín,0.0
+maio,1.7.2.4.50.0.1.001,GLICEMIA,0.0
+maio,1.7.2.9.51.0.1.004,Media Complexidade - APAE,0.0
+maio,1.7.2.4.50.0.1.011,CIRURGIA ELETIVAS,0.0
+maio,1.7.2.4.50.0.1.013,PAB TAB SUS PAULISTA,593147.86
+maio,1.7.2.4.50.0.1.002,MEDICAMENTOS FURP,0.0
+maio,1.7.2.4.50.0.1.022,SUS PAULISTA EXT DENGUE,0.0
+maio,1.7.2.4.51.0.1.001,TRANSP ALUNOS ESTADUAL,315288.2
+maio,1.7.2.4.99.0.1.013,FMAS BENEFICIOS EVENTUAIS,0.0
+maio,1.7.2.4.99.0.1.014,OUTRAS TRANSFERENCIAS ESTADO - SAÚDE,0.0
+maio,1.7.2.9.51.0.1.001,SADS Proteção Básica - Humanizar,0.0
+maio,1.7.2.4.50.0.1.019,IGM - SUS,0.0
+junho,1.1.1.2.50.0.3.001,IPTU DIV ATIVA,291707.95
+junho,1.1.1.2.50.0.1.001,IMPOSTOS S/PREDIAL URBANO,822752.23
+junho,1.1.1.2.50.0.1.002,IMP. S/PROP. TERRITORIAL URBANA,537182.44
+junho,1.1.1.2.50.0.2.001,IPTU M/J,4371.63
+junho,1.1.1.2.50.0.4.001,M/J DIV ATIVA IPTU,40117.42
+junho,1.3.2.1.01.0.1.023,REC REM EDUCAÇÃO - FEDERAL,34998.41
+junho,1.1.1.3.03.4.1.000,Imposto sobre a Renda - Retido na Fonte - Outros R,265333.47
+junho,1.7.1.3.99.0.1.001,OUTRAS TRANSFERÊNCIAS UNIÃO - SAÚDE,0.0
+junho,1.7.1.4.50.0.1.000,SALARIO EDUCAÇÃO-QESE,265472.13
+junho,1.7.1.4.52.0.1.000,FNDE PNAE,144564.0
+junho,1.7.1.4.53.0.1.000,FNDE PNATE,0.0
+junho,1.7.1.4.99.0.1.001,OUTRAS TRANSF UNIAO EDUCAÇÃO,0.0
+junho,1.7.1.7.52.0.1.003,IGD-BF IND GESTÃO DESC MUN PROG BOLSA FAMILIA,9295.83
+junho,1.7.1.7.52.0.1.004,IGD-SUAS IND GEST DESC MUN SIST UNICO ASS SOCIAL,0.0
+junho,1.7.1.7.52.0.1.005,PROGRAMA PRIMEIRA INFANCIA NO SUAS- CRIANÇA FELIZ,0.0
+junho,1.7.1.7.52.0.1.018,Bloco Proteção Social Básica,0.0
+junho,1.7.1.7.52.0.1.019,Bloco Proteção Social Especial,0.0
+junho,1.7.1.7.99.0.1.001,OUTRAS TRASNF UNIAO ASS SOCIAL,0.0
+junho,1.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,4852372.42
+junho,9.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,-970474.47
+junho,1.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,613622.61
+junho,9.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,-122724.56
+junho,1.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,54303.81
+junho,1.1.1.3.03.1.1.001,Imposto sobre a Renda - Retido na Fonte - Trabalho,813982.61
+junho,1.7.2.1.53.0.1.000,Cota-Parte da Contribuição de Intervenção no Domín,0.0
+junho,1.7.2.4.50.0.1.001,GLICEMIA,14175.26
+junho,1.7.2.4.50.0.1.002,MEDICAMENTOS FURP,0.0
+junho,1.7.2.4.50.0.1.011,CIRURGIA ELETIVAS,0.0
+junho,1.7.2.4.50.0.1.013,PAB TAB SUS PAULISTA,503057.81
+junho,1.7.2.4.50.0.1.019,IGM - SUS,0.0
+junho,1.7.2.4.50.0.1.022,SUS PAULISTA EXT DENGUE,0.0
+junho,1.7.2.4.51.0.1.001,TRANSP ALUNOS ESTADUAL,339936.86
+junho,1.7.2.4.99.0.1.013,FMAS BENEFICIOS EVENTUAIS,0.0
+junho,1.7.2.4.99.0.1.014,OUTRAS TRANSFERENCIAS ESTADO - SAÚDE,0.0
+junho,1.7.2.9.51.0.1.001,SADS Proteção Básica - Humanizar,6000.0
+junho,1.7.2.9.51.0.1.003,SCFV-Serv Convivência e Fortalecimento de Vínculo,7819.18
+junho,1.7.1.3.50.5.1.004,FMS PISO ENFERMAGEM,123983.55
+junho,1.7.2.9.51.0.1.004,Media Complexidade - APAE,17000.0
+junho,1.7.1.3.50.4.1.001,ASS FARMACEUTICA,24094.87
+junho,1.7.1.3.50.3.1.003,AÇÕES DE VIGILANCIA SANITARIA,2836.0
+junho,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,0.0
+junho,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,650.74
+junho,1.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,6197478.42
+junho,9.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,-1239495.64
+junho,1.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,1109.63
+junho,9.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,-221.91
+junho,1.7.1.2.51.0.1.000,Cota-parte da Compensação Financeira pela Exploraç,2038.19
+junho,1.7.1.2.52.1.1.000,Cota-parte da Compensação Financeira pela Produção,312.9
+junho,1.7.1.3.50.1.1.004,PAB AG COMUNITARIO SAUDE,0.0
+junho,1.7.1.3.50.1.1.006,PAB SAUDE BUCAL,91074.99
+junho,1.7.1.3.50.1.1.009,MANUTENÇÃO ACADEMIA DA SAUDE,0.0
+junho,1.7.1.3.50.1.1.022,APS -INCENTIVO COMPENSATORIO DE TRANSIÇÃO,32357.0
+junho,1.7.1.3.50.1.1.023,APS - INCENT. FINANC. ESF/EAP,244200.0
+junho,1.7.1.3.50.1.1.024,APS - INCENT. FINANC. MANUT PAG VALOR NOMINAL,0.0
+junho,1.7.1.3.50.1.1.025,APS - INCENT. FINANC. EQUIPES MULTIPROFISSIONAIS,14250.0
+junho,1.7.1.3.50.1.1.027,APS -INCENT FINANC COMP PER CAPITA BASE POPULACION,28114.25
+junho,1.7.1.3.50.1.1.042,AGENTES COMUNITARIOS DE SAUDE,81972.0
+junho,1.7.1.3.50.1.1.045,PAB - IMPLEM. POLITICAS REDE ALYNE,0.0
+junho,1.7.1.3.50.1.1.046,UBS -NOVO PAC SELEÇÕES,2435976.0
+junho,9.7.1.3.50.2.1.000,TRANSFERENCIAS MAC,-165301.74
+junho,1.7.1.3.50.2.1.001,MAC UPA,300000.0
+junho,1.7.1.3.50.2.1.002,MAC SANTA CASA,416475.09
+junho,1.7.1.3.50.2.1.003,MAC MANUTENÇÃO,108105.82
+junho,1.7.1.3.50.2.1.004,MAC MELHOR EM CASA,72800.0
+junho,1.7.1.3.50.2.1.005,MAC SAMU,28494.7
+junho,1.7.1.3.50.2.1.025,FAEC - PRÉ-CIRÚRGICO EM CIRURGIAS PRIORITÁRIAS,565.6
+junho,1.7.1.3.50.2.1.026,FAEC - NEFROLOGIA,161601.76
+junho,1.7.1.3.50.3.1.001,VIGILANCIA EM SAUDE,8939.48
+junho,1.7.1.3.50.3.1.002,COMBATE A ENDEMIAS,81972.0
+junho,1.7.1.3.50.3.1.004,FNS AIDS,0.0
+junho,1.6.9.9.99.0.4.001,M/J DIV ATIVA PATRULHA AGRICOLA,0.0
+junho,1.7.2.9.51.0.1.005,PAEFI-Serv Prot Especializado a Fam e Individuo,3000.0
+junho,1.7.2.9.51.0.1.007,L.A. Serv Prot Social Adoles Liberdade Assist,2000.0
+junho,1.9.1.1.09.0.4.001,Multas e Juros Previstos em Contratos - Dívida Ati,0.0
+junho,1.9.1.1.14.0.1.001,OLIMPIA MULTAS DE TRANSITO,22960.91
+junho,1.9.2.1.99.0.1.001,Outras Indenizações - Principal,0.0
+junho,1.9.2.2.99.0.1.001,Outras Restituições - Principal,352777.24
+junho,1.9.2.2.99.0.1.001,Outras Restituições - Principal,0.0
+junho,1.9.2.2.99.0.1.003,Restituições,0.0
+junho,1.9.2.2.99.0.1.004,Restituições,471.19
+junho,1.9.2.2.99.0.2.001,M/J OUTRAS RESTITUIÇÕES,0.0
+junho,1.9.2.2.99.0.3.001,DIV ATIVA OUTRA RESTITUIÇÕES,0.0
+junho,1.9.2.2.99.0.4.001,M/J DIV ATIVA OUTRAS RESTITUIÇÕES,0.0
+junho,1.9.2.3.99.0.1.001,CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,0.0
+junho,1.9.2.3.99.0.2.001,M/J CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,0.0
+junho,1.9.9.9.03.0.1.000,Compensações Financeiras entre o Regime Geral e os,31346.41
+junho,1.9.9.9.12.2.1.001,Ônus de Sucumbência - Principal,1118.71
+junho,2.2.2.1.01.0.1.001,ALIENAÇÃO DE BENS IMOVEIS,0.0
+junho,2.4.1.9.99.0.1.012,OUTRAS TRANS. FEDERAL - OBRAS,0.0
+junho,2.4.2.2.50.0.1.003,UBS Qualivida,0.0
+junho,2.4.2.2.99.0.1.009,CASA DA JUVENTUDE,0.0
+junho,2.4.2.2.99.0.1.017,Centro de Convivência,0.0
+junho,2.4.2.2.99.0.1.034,AMPLIAÇÃO CRECHE DONA BENTA,0.0
+junho,2.4.2.2.99.0.1.037,DADETUR - CENTRO CULTURAL,0.0
+junho,7.2.1.5.02.1.1.001,Contribuição Patronal-Serv. Civil Ativo-Prefeitura,1510438.42
+junho,7.2.1.5.02.1.1.002,Contribuição Patronal - Serv. Civil Ativo - Câmara,26745.32
+junho,7.2.1.5.02.1.1.004,Contribuição Patronal-Serv. Civil Ativo-Instituto,1611.56
+junho,7.9.2.3.99.0.1.001,Outros Ressarcimentos - Daemo,18043.62
+junho,7.9.2.3.99.0.1.002,Outros Ressarcimentos - Instituto,5033.01
+junho,7.9.9.9.01.0.1.002,AMORT. DEFICIT DIV ATIVA/MULTA JUROS INTRA,511.05
+junho,7.9.9.9.01.0.1.001,APORTES PARA COBERTURA DE DEFICIT,40476.2
+junho,7.9.2.3.99.0.1.003,Outros Ressarcimentos - Câmara,6334.98
+junho,1.9.1.1.09.0.3.001,D A MULTA PREV. EM CONTRATOS,0.0
+junho,1.7.2.9.51.0.1.006,Centro Dia,8000.0
+junho,1.9.1.1.09.0.2.001,MULTA PREVISTA EM CONTRATOS,0.0
+junho,1.9.1.1.06.1.2.001,MULTAS ADMINISTRATIVAS POR DANOS AMBIENTAIS,0.0
+junho,1.7.2.9.51.0.1.008,Migrante,12614.0
+junho,1.7.2.9.51.0.1.009,Alta Complexidade - Abrigo São José,17500.0
+junho,1.7.2.9.51.0.1.010,FRENTE FRIA,0.0
+junho,1.7.2.9.51.0.1.011,AÇÕES DE ENFRENTAMENTO À VIOLÊNCIA CONTRA MULHER,0.0
+junho,1.7.2.9.51.0.1.013,Serv. dest. nascimento/gestação de famílias em vul,0.0
+junho,1.7.2.9.51.0.1.014,Serv. funerais destinados à famílias em vulnerabil,0.0
+junho,1.7.2.9.51.0.1.015,Serv. complementação alimentar à famílias em vul,0.0
+junho,1.7.2.9.51.0.1.016,PSE ALTA EXPANSÃO,-39807.0
+junho,1.7.2.9.51.0.1.018,VIG SOCIOASSISTENCIAL ESTADO,0.0
+junho,1.7.2.9.51.0.1.019,CUST SERV VIG SOCIOASSIST,0.0
+junho,1.7.2.9.51.0.1.020,INSTITUTO O AMOR,19500.0
+junho,1.7.2.9.51.0.1.021,PSB EXPANSÃO,-13659.59
+junho,1.7.2.9.99.0.1.001,OUTRAS TRANSF ESTADO EDUCAÇÃO,0.0
+junho,1.7.2.9.99.0.1.005,OUTRAS TRANSFERENCIAS ESTADO - ASS SOCIAL,0.0
+junho,1.7.3.9.99.0.1.001,CASA ABRIGO ADOLESCENTE,27824.62
+junho,1.7.3.9.99.0.1.002,CASA ABRIGO NOSSO LAR,3000.0
+junho,1.7.4.1.99.0.1.001,DOAÇÕES FUNDO CRIANÇA E ADOLESCENTE,125390.97
+junho,1.7.4.1.99.0.1.002,DOAÇÕES FUNDO DO IDOSO,48285.0
+junho,1.7.5.1.50.0.1.000,TRANSF FUNDO DE MANUTENÇÃO - FUNDEB,2997510.25
+junho,1.9.1.1.01.0.1.001,MULTA POR AUTO DE INFRAÇÃO,18933.08
+junho,1.9.1.1.01.0.1.002,SOM ALTO - MULTA AUTO DE INFRAÇÃO,0.0
+junho,1.9.1.1.01.0.2.001,MULTA POR ATO DE INFRAÇÃO,0.0
+junho,1.9.1.1.01.0.2.002,M/J MULTAS,22.73
+junho,1.9.1.1.01.0.2.003,MULTA POR VIOLAÇÃO DE LACRE E OUTROS,0.0
+junho,1.9.1.1.01.0.2.004,MULTA/ JUROS VIOLAÇÃO DE LACRE,0.0
+junho,1.9.1.1.01.0.3.001,MULTAS DIV ATIVA INFRAÇÃO,6666.37
+junho,1.9.1.1.01.0.3.002,MULTA VIOLAÇÃO DE LACRE E OUTROS - DIVIDA ATIVA,0.0
+junho,1.9.1.1.01.0.4.001,M/J DIV ATIVA MULTAS,3569.25
+junho,1.9.1.1.01.0.4.005,M/J DIV ATIVA VIOLAÇÃO DE LACRE,46.25
+junho,1.9.1.1.09.0.1.001,MULTA PREVISTA EM CONTRATOS,0.0
+junho,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,1367.01
+junho,9.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,-10860.77
+junho,1.6.9.9.99.0.3.001,DIV ATIVA PATRULHA AGRICOLA,0.0
+junho,1.1.2.2.01.0.3.003,DIV ATIVA TX PROT ACIDENTES,11830.17
+junho,1.1.2.2.01.0.3.004,DIV ATIVA REMOÇÃO LIXO,125110.02
+junho,1.1.2.2.01.0.3.005,DA OUT. TAXAS PREST SERVIÇOS,0.0
+junho,1.1.2.2.01.0.4.001,M/J DIV ATIVA TX PREST SERVIÇOS,1305.12
+junho,1.1.2.2.01.0.4.002,M/J DIV ATIVA TX INCENDIO,1298.86
+junho,1.1.2.2.01.0.4.003,M/J DIV ATIVA TX PROT ACIDENTES,1509.06
+junho,1.1.2.2.01.0.4.004,M/J DIV ATIVA REMOÇÃO LIXO,19850.96
+junho,1.1.2.2.01.0.4.005,M/J DA OUT. TAXAS PREST SERVIÇOS,0.0
+junho,1.2.1.5.01.1.1.001,Contribuição do Servidor Civil Ativo - Câmara,17019.75
+junho,1.2.1.5.01.1.1.002,Contribuição do Servidor Civil Ativo - Prefeitura,877553.37
+junho,1.2.1.5.01.1.1.004,Contribuição do Servidor Civil Ativo - Instituto,1025.54
+junho,1.1.2.2.01.0.3.002,DIV ATIVA TX INCENDIO,4286.71
+junho,1.2.1.5.01.2.1.003,CONTRIB.SERVIDOR CIVIL INATIVO-INSTITUTO,12010.59
+junho,1.2.4.1.50.0.1.000,Contribuição para o Custeio do Serviço de Iluminaç,515023.9
+junho,1.2.4.1.50.0.2.000,Contribuição para o Custeio do Serviço de Iluminaç,335.39
+junho,1.2.4.1.50.0.3.000,Contribuição para o Custeio do Serviço de Iluminaç,16479.81
+junho,1.2.4.1.50.0.4.000,Contribuição para o Custeio do Serviço de Iluminaç,2451.32
+junho,1.3.1.1.01.1.1.001,ALUGUEIS,9822.74
+junho,1.3.1.1.01.1.2.001,M/J ALUGUEIS,0.0
+junho,1.3.1.1.01.1.3.001,DIV ATIVA ALUGUEIS,212.82
+junho,1.3.1.1.01.1.4.001,M/J DIV ATIVA ALUGUEIS,0.0
+junho,1.3.1.1.02.0.2.001,M/J CONCESSÃO DE ESPAÇO,0.0
+junho,1.3.1.1.02.0.3.001,D A CONCESSÃO DE ESPAÇO,0.0
+junho,1.3.1.1.02.0.4.001,M/J D A CONCESSÃO DE ESPAÇO,0.0
+junho,1.2.1.5.01.3.1.003,CONTRIB.SERVIDOR CIVIL-PENSIONISTAS-INSTITUTO,1614.07
+junho,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,1023154.42
+junho,1.1.2.2.01.0.3.001,DIV ATIVA TX PREST SERVIÇOS,5709.23
+junho,1.1.2.2.01.0.2.004,M/J REMOÇÃO LIXO,2331.97
+junho,1.1.1.4.51.1.1.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,3483870.52
+junho,1.1.1.4.51.1.2.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,23167.42
+junho,1.1.1.4.51.1.3.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,75510.03
+junho,1.1.1.4.51.1.4.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,11123.08
+junho,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,0.0
+junho,1.1.2.1.01.0.1.001,TX DE LIC FUNC E ESTAB COMERCIAL,188677.59
+junho,1.1.2.1.01.0.1.002,TX DE PUBLICIDADE COMERCIAL,10405.99
+junho,1.1.2.1.01.0.1.003,TX DE FUNC DE ESTAB EM HOR ESPECIAL,37797.0
+junho,1.1.2.1.01.0.1.004,TX AUTORIZAÇÃO,0.0
+junho,1.1.2.1.01.0.1.005,TX DE LICENÇA PARA EXECUÇÃO DE OBRAS,94471.97
+junho,1.1.2.1.01.0.1.006,TX DE UTIL AREA DOM PUBLICO,4284.97
+junho,1.1.2.2.01.0.2.005,M/J OUT. TAXAS PREST SERVIÇOS,0.0
+junho,1.1.2.1.01.0.2.000,M/J TX FISCALIZAÇÃO,883.92
+junho,1.1.2.1.01.0.4.000,M/J DIV ATIVA TX DE FISCALIZAÇÃO,1497.81
+junho,1.1.2.1.04.0.1.000,Taxa de Controle e Fiscalização Ambiental - Princi,742.1
+junho,1.1.2.1.50.0.1.000,Taxa de Fiscalização de Vigilância Sanitária - Pri,11405.61
+junho,1.1.2.1.50.0.2.000,Taxa de Fiscalização de Vigilância Sanitária - Mu,168.82
+junho,1.1.2.1.50.0.3.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,2104.6
+junho,1.1.2.1.50.0.4.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,258.92
+junho,1.1.2.2.01.0.1.001,TAXA DE LIMPEZA IMOVEL URBANO,5045.12
+junho,1.1.2.2.01.0.1.002,REMOÇÃO LIXO DOMICILIAR,531699.09
+junho,1.1.2.2.01.0.1.003,TAXA PROTEÇÃO DE ACIDENTES,55294.89
+junho,1.1.2.2.01.0.1.005,OUTRAS TAXAS PREST SERVIÇOS,6.95
+junho,1.1.2.2.01.0.2.001,M/J TX PREST SERVIÇOS,122.21
+junho,1.1.2.1.01.0.3.000,DIV ATIVA TX FISCALIZAÇÃO,6256.17
+junho,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,5040.37
+junho,1.1.2.2.01.0.2.003,M/J TX PROTEÇÃO DE ACIDENTES,176.63
+junho,1.3.2.1.01.0.1.004,REC REM DEP BANC MDE,1169.67
+junho,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,52.73
+junho,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,0.0
+junho,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,5290.69
+junho,9.6.1.1.01.0.3.001,DESCONTOS SOCIAIS DIV ATIVA AGUA,-13.6
+junho,1.6.1.1.01.0.3.002,TARIFA AMPLIAÇÃO DIVIDA RECONHECIDA,5106.27
+junho,9.6.1.1.01.0.3.002,DESCONTOS SOCIAIS DIV ATIVA ESGOTO,-10.88
+junho,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,0.0
+junho,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,66.82
+junho,1.6.2.1.02.0.1.001,Serviços de Transporte de Passageiros ou Mercadori,66107.13
+junho,1.6.9.9.99.0.1.001,PRESTAÇÃO DE SERVIÇO PATRULHA AGRICOLA,0.0
+junho,1.6.9.9.99.0.1.002,OUTROS SERVIÇOS,1062.54
+junho,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,67.6
+junho,1.6.9.9.99.0.1.004,SERVIÇOS DE LIGAÇÃO DE ESGOTOS,0.0
+junho,1.6.9.9.99.0.1.007,MUDANÇA DE CAVALETE,29.76
+junho,1.6.9.9.99.0.1.010,LIMPA FOSA,0.0
+junho,1.6.9.9.99.0.1.011,AGUA POTAVEL PIPA,0.0
+junho,1.6.9.9.99.0.1.013,AVISO CONTA VENCIDA,0.3
+junho,1.6.9.9.99.0.1.015,POSTAGEM,0.0
+junho,1.3.2.1.01.0.1.002,REC REM DEP BANC ROYALTIES,117.87
+junho,1.6.9.9.99.0.1.016,OUTROS SERVIÇOS,6.5
+junho,1.6.9.9.99.0.1.017,OUTRAS RECEITAS,1567.19
+junho,1.6.9.9.99.0.2.001,M/J PATRULHA AGRICOLA,0.0
+junho,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,0.0
+junho,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,55.41
+junho,1.6.9.9.99.0.1.005,SERVIÇOS DE RELIGAÇÃO DE AGUA,0.0
+junho,1.6.1.1.01.0.1.023,CERTIDÃO NEGATIVA DE DEBITOS AMBIENTAIS,0.0
+junho,1.6.9.9.99.0.1.003,SERVIÇOS DE LIGAÇÃO DE AGUA,0.0
+junho,1.6.1.1.01.0.1.021,AUTORIZAÇÃO DE CORTE DE ARVORE ISOLADA,0.0
+junho,1.3.2.1.01.0.1.014,REC REND DE BANC FUNDEB,51576.36
+junho,1.3.2.1.01.0.1.010,REC REM DEP BANC CIDE,51.72
+junho,1.3.2.1.01.0.1.008,REC REM OUT DEP REC VINCULADOS,2455.8
+junho,1.3.2.1.01.0.1.018,RENDIMENTOS ESCOLA PROFISSIONAL,268.82
+junho,1.3.2.1.01.0.1.007,REC REM DEP BANC FNAS,8990.39
+junho,1.6.1.1.01.0.1.022,PARECER TECNICO AMBIENTAL,0.0
+junho,1.3.2.1.01.0.1.005,REC REM SERVIÇOS AÇÕES DE SAUDE,3706.17
+junho,1.3.2.1.01.0.1.019,REC REND SAUDE ESTADO,31240.19
+junho,1.3.2.1.01.0.1.020,REC REND SAUDE FEDERAL,51918.0
+junho,1.3.2.1.01.0.1.022,REC REM EDUCAÇÃO - ESTADUAL,1022.03
+junho,1.3.2.1.01.0.1.024,REC REM ASS SOCIAL - ESTADUAL,5959.49
+junho,1.3.2.1.01.0.1.025,REC REM ASS SOCIAL - FEDERAL,1451.49
+junho,1.3.2.1.04.0.1.000,Remuneração dos Recursos do Regime Próprio de Prev,36978.56
+junho,1.3.2.1.01.0.1.021,REC REND DUODECIMO CAMARA,0.0
+junho,1.3.2.2.01.0.1.001,DIVIDENDOS,0.0
+junho,1.3.3.9.99.0.1.002,OUTORGA VARIÁVEL,27005.7
+junho,1.6.1.1.01.0.1.001,TARIFA DE MANIFESTAÇÃO DE ORGÃO AMBIENTAL,74.04
+junho,1.6.1.1.01.0.1.004,VISTORIA DE SUPRESSÃO DE ARVORE EM CALÇADA,485.79
+junho,1.6.1.1.01.0.1.005,TARIFAS DE CONSUMO DE AGUA,314.62
+junho,1.6.1.1.01.0.1.020,CERTIFICADO DE DISPENSA DE LICENÇA CDL,0.0
+junho,1.6.1.1.01.0.1.018,TARIFAS DE DISPOSIÇÃO DE RESIDUOS CONSTR.CIVIL,18996.71
+junho,1.6.1.1.01.0.1.007,TARIFA ESGOTO REFERENTE POÇO,0.0
+junho,9.6.1.1.01.0.1.005,DESCONTOS SOCIAIS - ÁGUA,0.0
+junho,1.6.1.1.01.0.1.006,TARIFS UTIL. ESGOTO SANITARIO,308.31
+junho,9.6.1.1.01.0.1.006,DESCONTOS SOCIAIS ESGOTO,0.0
+julho,1.7.1.3.50.2.1.025,FAEC - PRÉ-CIRÚRGICO EM CIRURGIAS PRIORITÁRIAS,339.36
+julho,1.7.1.3.50.1.1.045,PAB - IMPLEM. POLITICAS REDE ALYNE,0.0
+julho,1.7.1.3.50.2.1.005,MAC SAMU,28494.7
+julho,1.7.1.3.50.2.1.004,MAC MELHOR EM CASA,72800.0
+julho,1.7.1.3.50.2.1.003,MAC MANUTENÇÃO,108105.82
+julho,1.7.1.3.50.2.1.002,MAC SANTA CASA,416475.09
+julho,1.7.1.3.50.2.1.001,MAC UPA,300000.0
+julho,9.7.1.3.50.2.1.000,TRANSFERENCIAS MAC,-165301.74
+julho,1.7.1.3.50.2.1.026,FAEC - NEFROLOGIA,0.0
+julho,1.7.1.3.50.1.1.046,UBS -NOVO PAC SELEÇÕES,0.0
+julho,1.7.1.3.50.3.1.001,VIGILANCIA EM SAUDE,8939.48
+julho,1.7.1.4.53.0.1.000,FNDE PNATE,0.0
+julho,1.7.1.3.50.3.1.003,AÇÕES DE VIGILANCIA SANITARIA,14180.0
+julho,1.7.1.7.52.0.1.021,PROCAD SUAS,11545.18
+julho,1.7.1.3.50.1.1.042,AGENTES COMUNITARIOS DE SAUDE,81972.0
+julho,1.7.1.7.52.0.1.019,Bloco Proteção Social Especial,33661.96
+julho,1.7.1.7.52.0.1.018,Bloco Proteção Social Básica,14710.12
+julho,1.7.1.7.52.0.1.005,PROGRAMA PRIMEIRA INFANCIA NO SUAS- CRIANÇA FELIZ,0.0
+julho,1.7.1.7.52.0.1.004,IGD-SUAS IND GEST DESC MUN SIST UNICO ASS SOCIAL,0.0
+julho,1.7.1.3.50.3.1.002,COMBATE A ENDEMIAS,81972.0
+julho,1.7.1.7.52.0.1.003,IGD-BF IND GESTÃO DESC MUN PROG BOLSA FAMILIA,9172.11
+julho,1.7.1.4.52.0.1.000,FNDE PNAE,144564.0
+julho,1.7.1.4.50.0.1.000,SALARIO EDUCAÇÃO-QESE,274404.04
+julho,1.7.1.3.99.0.1.001,OUTRAS TRANSFERÊNCIAS UNIÃO - SAÚDE,0.0
+julho,1.7.1.3.50.5.1.004,FMS PISO ENFERMAGEM,249971.06
+julho,1.7.1.3.50.4.1.001,ASS FARMACEUTICA,24462.1
+julho,1.7.1.3.50.3.1.004,FNS AIDS,18829.82
+julho,1.7.1.4.99.0.1.001,OUTRAS TRANSF UNIAO EDUCAÇÃO,0.0
+julho,1.7.1.3.50.1.1.027,APS -INCENT FINANC COMP PER CAPITA BASE POPULACION,28114.25
+julho,1.6.9.9.99.0.2.001,M/J PATRULHA AGRICOLA,0.0
+julho,1.7.1.3.50.1.1.024,APS - INCENT. FINANC. MANUT PAG VALOR NOMINAL,0.0
+julho,1.7.1.7.99.0.1.001,OUTRAS TRASNF UNIAO ASS SOCIAL,0.0
+julho,1.6.9.9.99.0.1.005,SERVIÇOS DE RELIGAÇÃO DE AGUA,0.0
+julho,1.6.9.9.99.0.1.007,MUDANÇA DE CAVALETE,29.76
+julho,1.6.9.9.99.0.1.010,LIMPA FOSA,0.0
+julho,1.6.9.9.99.0.1.011,AGUA POTAVEL PIPA,0.0
+julho,1.6.9.9.99.0.1.013,AVISO CONTA VENCIDA,0.3
+julho,1.6.9.9.99.0.1.015,POSTAGEM,0.0
+julho,1.6.9.9.99.0.1.016,OUTROS SERVIÇOS,8.3
+julho,1.6.9.9.99.0.1.017,OUTRAS RECEITAS,1635.37
+julho,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,0.0
+julho,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,66.79
+julho,1.6.9.9.99.0.3.001,DIV ATIVA PATRULHA AGRICOLA,0.0
+julho,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,0.0
+julho,1.7.1.3.50.1.1.025,APS - INCENT. FINANC. EQUIPES MULTIPROFISSIONAIS,14250.0
+julho,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,6144.09
+julho,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,0.0
+julho,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,874.35
+julho,1.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,3804412.81
+julho,9.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,-760882.52
+julho,1.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,103735.96
+julho,9.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,-20747.18
+julho,1.7.1.2.51.0.1.000,Cota-parte da Compensação Financeira pela Exploraç,2010.34
+julho,1.7.1.2.52.1.1.000,Cota-parte da Compensação Financeira pela Produção,22299.82
+julho,1.7.1.3.50.1.1.004,PAB AG COMUNITARIO SAUDE,0.0
+julho,1.7.1.3.50.1.1.006,PAB SAUDE BUCAL,91074.99
+julho,1.7.1.3.50.1.1.009,MANUTENÇÃO ACADEMIA DA SAUDE,9000.0
+julho,1.7.1.3.50.1.1.022,APS -INCENTIVO COMPENSATORIO DE TRANSIÇÃO,32357.0
+julho,1.7.1.3.50.1.1.023,APS - INCENT. FINANC. ESF/EAP,238200.0
+julho,1.6.9.9.99.0.4.001,M/J DIV ATIVA PATRULHA AGRICOLA,0.0
+julho,1.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,8785827.27
+julho,1.9.1.1.09.0.1.001,MULTA PREVISTA EM CONTRATOS,0.0
+julho,1.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,613352.67
+julho,1.7.2.9.99.0.1.001,OUTRAS TRANSF ESTADO EDUCAÇÃO,0.0
+julho,1.7.2.9.99.0.1.005,OUTRAS TRANSFERENCIAS ESTADO - ASS SOCIAL,0.0
+julho,1.7.3.9.99.0.1.001,CASA ABRIGO ADOLESCENTE,4333.0
+julho,1.7.3.9.99.0.1.002,CASA ABRIGO NOSSO LAR,3000.0
+julho,1.7.4.1.99.0.1.001,DOAÇÕES FUNDO CRIANÇA E ADOLESCENTE,0.0
+julho,1.7.4.1.99.0.1.002,DOAÇÕES FUNDO DO IDOSO,539.79
+julho,1.6.9.9.99.0.1.004,SERVIÇOS DE LIGAÇÃO DE ESGOTOS,0.0
+julho,1.9.2.2.99.0.1.004,Restituições,0.0
+julho,1.9.2.2.99.0.1.003,Restituições,0.0
+julho,1.9.2.2.99.0.1.001,Outras Restituições - Principal,0.0
+julho,1.9.2.2.99.0.1.001,Outras Restituições - Principal,34327.24
+julho,1.9.2.1.99.0.1.001,Outras Indenizações - Principal,0.0
+julho,1.9.1.1.14.0.1.001,OLIMPIA MULTAS DE TRANSITO,21626.57
+julho,1.7.2.9.51.0.1.023,SERV DE ACOLHIMENTO PARA IDOSOS,5000.0
+julho,1.9.1.1.09.0.4.001,Multas e Juros Previstos em Contratos - Dívida Ati,0.0
+julho,1.9.1.1.09.0.2.001,MULTA PREVISTA EM CONTRATOS,0.0
+julho,1.9.1.1.06.1.2.001,MULTAS ADMINISTRATIVAS POR DANOS AMBIENTAIS,0.0
+julho,1.9.1.1.01.0.4.005,M/J DIV ATIVA VIOLAÇÃO DE LACRE,0.0
+julho,1.9.1.1.01.0.4.001,M/J DIV ATIVA MULTAS,625.12
+julho,1.9.1.1.01.0.3.002,MULTA VIOLAÇÃO DE LACRE E OUTROS - DIVIDA ATIVA,0.0
+julho,1.9.1.1.01.0.3.001,MULTAS DIV ATIVA INFRAÇÃO,3589.85
+julho,1.9.1.1.01.0.2.004,MULTA/ JUROS VIOLAÇÃO DE LACRE,0.0
+julho,1.9.1.1.01.0.2.003,MULTA POR VIOLAÇÃO DE LACRE E OUTROS,0.0
+julho,1.9.1.1.01.0.2.002,M/J MULTAS,221.48
+julho,1.9.1.1.01.0.2.001,MULTA POR ATO DE INFRAÇÃO,0.0
+julho,1.9.1.1.01.0.1.002,SOM ALTO - MULTA AUTO DE INFRAÇÃO,0.0
+julho,1.9.1.1.01.0.1.001,MULTA POR AUTO DE INFRAÇÃO,16224.52
+julho,1.7.5.1.50.0.1.000,TRANSF FUNDO DE MANUTENÇÃO - FUNDEB,4686769.2
+julho,1.9.1.1.09.0.3.001,D A MULTA PREV. EM CONTRATOS,0.0
+julho,9.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,-1757165.44
+julho,1.7.2.9.51.0.1.022,SERV ACOLHIMENTO CASA LAR,10000.0
+julho,1.7.2.9.51.0.1.019,CUST SERV VIG SOCIOASSIST,0.0
+julho,9.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,-122670.6
+julho,1.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,50168.3
+julho,9.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,-10033.66
+julho,1.7.2.1.53.0.1.000,Cota-Parte da Contribuição de Intervenção no Domín,16218.07
+julho,1.7.2.4.50.0.1.001,GLICEMIA,0.0
+julho,1.7.2.4.50.0.1.002,MEDICAMENTOS FURP,8908.61
+julho,1.7.2.4.50.0.1.011,CIRURGIA ELETIVAS,0.0
+julho,1.7.2.4.50.0.1.013,PAB TAB SUS PAULISTA,807810.2
+julho,1.7.2.4.50.0.1.019,IGM - SUS,0.0
+julho,1.7.2.4.50.0.1.022,SUS PAULISTA EXT DENGUE,0.0
+julho,1.7.2.4.51.0.1.001,TRANSP ALUNOS ESTADUAL,0.0
+julho,1.7.2.4.99.0.1.013,FMAS BENEFICIOS EVENTUAIS,20916.72
+julho,1.7.2.4.99.0.1.014,OUTRAS TRANSFERENCIAS ESTADO - SAÚDE,0.0
+julho,1.7.2.9.51.0.1.020,INSTITUTO O AMOR,9750.0
+julho,1.7.2.9.51.0.1.001,SADS Proteção Básica - Humanizar,3000.0
+julho,1.7.2.9.51.0.1.004,Media Complexidade - APAE,8500.0
+julho,1.7.2.9.51.0.1.005,PAEFI-Serv Prot Especializado a Fam e Individuo,6500.0
+julho,1.7.2.9.51.0.1.006,Centro Dia,12333.33
+julho,1.7.2.9.51.0.1.007,L.A. Serv Prot Social Adoles Liberdade Assist,8649.04
+julho,1.7.2.9.51.0.1.008,Migrante,14640.33
+julho,1.7.2.9.51.0.1.009,Alta Complexidade - Abrigo São José,13750.0
+julho,1.7.2.9.51.0.1.010,FRENTE FRIA,0.0
+julho,1.7.2.9.51.0.1.011,AÇÕES DE ENFRENTAMENTO À VIOLÊNCIA CONTRA MULHER,0.0
+julho,1.7.2.9.51.0.1.013,Serv. dest. nascimento/gestação de famílias em vul,0.0
+julho,1.7.2.9.51.0.1.014,Serv. funerais destinados à famílias em vulnerabil,0.0
+julho,1.7.2.9.51.0.1.015,Serv. complementação alimentar à famílias em vul,0.0
+julho,1.7.2.9.51.0.1.016,PSE ALTA EXPANSÃO,0.0
+julho,1.7.2.9.51.0.1.018,VIG SOCIOASSISTENCIAL ESTADO,0.0
+julho,1.7.2.9.51.0.1.003,SCFV-Serv Convivência e Fortalecimento de Vínculo,29843.02
+julho,1.6.9.9.99.0.1.003,SERVIÇOS DE LIGAÇÃO DE AGUA,0.0
+julho,1.1.2.1.01.0.1.003,TX DE FUNC DE ESTAB EM HOR ESPECIAL,37168.15
+julho,1.6.9.9.99.0.1.001,PRESTAÇÃO DE SERVIÇO PATRULHA AGRICOLA,1291.04
+julho,1.1.1.4.51.1.4.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,13815.18
+julho,1.1.2.1.01.0.1.001,TX DE LIC FUNC E ESTAB COMERCIAL,185395.67
+julho,1.1.2.1.01.0.1.002,TX DE PUBLICIDADE COMERCIAL,9363.13
+julho,1.9.2.2.99.0.4.001,M/J DIV ATIVA OUTRAS RESTITUIÇÕES,0.0
+julho,1.1.2.1.01.0.1.004,TX AUTORIZAÇÃO,0.0
+julho,1.1.2.1.01.0.1.005,TX DE LICENÇA PARA EXECUÇÃO DE OBRAS,79783.94
+julho,1.1.2.1.01.0.1.006,TX DE UTIL AREA DOM PUBLICO,1515.63
+julho,1.1.2.1.01.0.2.000,M/J TX FISCALIZAÇÃO,731.01
+julho,1.1.2.1.01.0.3.000,DIV ATIVA TX FISCALIZAÇÃO,6985.82
+julho,1.1.2.1.01.0.4.000,M/J DIV ATIVA TX DE FISCALIZAÇÃO,1347.35
+julho,1.1.2.1.04.0.1.000,Taxa de Controle e Fiscalização Ambiental - Princi,4181.86
+julho,1.1.2.1.50.0.1.000,Taxa de Fiscalização de Vigilância Sanitária - Pri,21729.24
+julho,1.1.2.1.50.0.2.000,Taxa de Fiscalização de Vigilância Sanitária - Mu,342.24
+julho,1.1.2.1.50.0.3.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,3098.87
+julho,1.1.2.1.50.0.4.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,1005.31
+julho,1.1.2.2.01.0.1.001,TAXA DE LIMPEZA IMOVEL URBANO,8959.26
+julho,1.1.2.2.01.0.1.002,REMOÇÃO LIXO DOMICILIAR,513937.65
+julho,1.1.2.2.01.0.1.003,TAXA PROTEÇÃO DE ACIDENTES,54003.33
+julho,1.1.2.2.01.0.1.005,OUTRAS TAXAS PREST SERVIÇOS,0.0
+julho,1.1.2.2.01.0.2.001,M/J TX PREST SERVIÇOS,164.6
+julho,1.1.2.2.01.0.2.003,M/J TX PROTEÇÃO DE ACIDENTES,193.11
+julho,1.1.2.2.01.0.2.004,M/J REMOÇÃO LIXO,2261.67
+julho,1.1.2.2.01.0.2.005,M/J OUT. TAXAS PREST SERVIÇOS,0.0
+julho,1.1.2.2.01.0.3.001,DIV ATIVA TX PREST SERVIÇOS,1000.22
+julho,1.1.2.2.01.0.3.002,DIV ATIVA TX INCENDIO,2943.4
+julho,1.1.2.2.01.0.3.003,DIV ATIVA TX PROT ACIDENTES,14184.22
+julho,1.1.2.2.01.0.3.004,DIV ATIVA REMOÇÃO LIXO,143528.75
+julho,1.1.1.4.51.1.3.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,119689.66
+julho,1.1.1.4.51.1.2.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,28897.29
+julho,1.1.1.4.51.1.1.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,3628574.21
+julho,1.1.1.3.03.4.1.000,Imposto sobre a Renda - Retido na Fonte - Outros R,295491.18
+julho,1.9.2.2.99.0.2.001,M/J OUTRAS RESTITUIÇÕES,0.0
+julho,7.9.9.9.01.0.1.002,AMORT. DEFICIT DIV ATIVA/MULTA JUROS INTRA,502.88
+julho,7.9.9.9.01.0.1.001,APORTES PARA COBERTURA DE DEFICIT,40476.2
+julho,7.9.2.3.99.0.1.003,Outros Ressarcimentos - Câmara,12669.96
+julho,7.9.2.3.99.0.1.002,Outros Ressarcimentos - Instituto,10329.78
+julho,7.9.2.3.99.0.1.001,Outros Ressarcimentos - Daemo,18516.44
+julho,7.2.1.5.02.1.1.004,Contribuição Patronal-Serv. Civil Ativo-Instituto,1611.56
+julho,7.2.1.5.02.1.1.002,Contribuição Patronal - Serv. Civil Ativo - Câmara,27299.14
+julho,7.2.1.5.02.1.1.001,Contribuição Patronal-Serv. Civil Ativo-Prefeitura,2416574.74
+julho,2.4.2.2.99.0.1.037,DADETUR - CENTRO CULTURAL,0.0
+julho,2.4.2.2.99.0.1.034,AMPLIAÇÃO CRECHE DONA BENTA,0.0
+julho,2.4.2.2.99.0.1.030,OUTRAS TRANSF. ESTADO - OBRAS,0.0
+julho,2.4.2.2.99.0.1.017,Centro de Convivência,0.0
+julho,1.1.2.2.01.0.3.005,DA OUT. TAXAS PREST SERVIÇOS,0.0
+julho,2.4.2.2.99.0.1.009,CASA DA JUVENTUDE,0.0
+julho,2.4.1.9.99.0.1.012,OUTRAS TRANS. FEDERAL - OBRAS,0.0
+julho,2.2.2.1.01.0.1.001,ALIENAÇÃO DE BENS IMOVEIS,0.0
+julho,2.2.1.3.01.0.1.001,ALIENAÇÃO DE BENS MOVEIS,916368.64
+julho,1.9.9.9.12.2.1.001,Ônus de Sucumbência - Principal,790.42
+julho,1.9.9.9.03.0.1.000,Compensações Financeiras entre o Regime Geral e os,27783.06
+julho,1.9.2.3.99.0.2.001,M/J CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,0.0
+julho,1.9.2.3.99.0.1.001,CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,51672.1
+julho,1.1.1.2.50.0.1.001,IMPOSTOS S/PREDIAL URBANO,823878.77
+julho,1.1.1.2.50.0.1.002,IMP. S/PROP. TERRITORIAL URBANA,526326.67
+julho,1.1.1.2.50.0.2.001,IPTU M/J,5208.75
+julho,1.1.1.2.50.0.3.001,IPTU DIV ATIVA,617465.13
+julho,1.1.1.2.50.0.4.001,M/J DIV ATIVA IPTU,93713.22
+julho,1.1.1.3.03.1.1.001,Imposto sobre a Renda - Retido na Fonte - Trabalho,781536.35
+julho,2.4.2.2.50.0.1.003,UBS Qualivida,0.0
+julho,1.1.2.2.01.0.4.001,M/J DIV ATIVA TX PREST SERVIÇOS,18.27
+julho,1.1.2.2.01.0.4.002,M/J DIV ATIVA TX INCENDIO,923.85
+julho,1.1.2.2.01.0.4.003,M/J DIV ATIVA TX PROT ACIDENTES,1599.3
+julho,1.3.2.1.01.0.1.023,REC REM EDUCAÇÃO - FEDERAL,42835.66
+julho,1.3.2.1.01.0.1.024,REC REM ASS SOCIAL - ESTADUAL,6783.75
+julho,1.3.2.1.01.0.1.025,REC REM ASS SOCIAL - FEDERAL,1727.08
+julho,1.3.2.1.04.0.1.000,Remuneração dos Recursos do Regime Próprio de Prev,30146.04
+julho,1.3.2.2.01.0.1.001,DIVIDENDOS,3.36
+julho,1.3.3.9.99.0.1.002,OUTORGA VARIÁVEL,25727.13
+julho,1.6.1.1.01.0.1.001,TARIFA DE MANIFESTAÇÃO DE ORGÃO AMBIENTAL,36.48
+julho,1.6.1.1.01.0.1.004,VISTORIA DE SUPRESSÃO DE ARVORE EM CALÇADA,634.78
+julho,1.6.1.1.01.0.1.005,TARIFAS DE CONSUMO DE AGUA,329.4
+julho,9.6.1.1.01.0.1.005,DESCONTOS SOCIAIS - ÁGUA,0.0
+julho,1.6.1.1.01.0.1.006,TARIFS UTIL. ESGOTO SANITARIO,320.13
+julho,9.6.1.1.01.0.1.006,DESCONTOS SOCIAIS ESGOTO,0.0
+julho,1.6.1.1.01.0.1.007,TARIFA ESGOTO REFERENTE POÇO,0.0
+julho,1.3.2.1.01.0.1.022,REC REM EDUCAÇÃO - ESTADUAL,2285.33
+julho,1.6.1.1.01.0.1.018,TARIFAS DE DISPOSIÇÃO DE RESIDUOS CONSTR.CIVIL,18542.75
+julho,1.6.1.1.01.0.1.021,AUTORIZAÇÃO DE CORTE DE ARVORE ISOLADA,0.0
+julho,1.6.1.1.01.0.1.022,PARECER TECNICO AMBIENTAL,259.14
+julho,1.6.1.1.01.0.1.023,CERTIDÃO NEGATIVA DE DEBITOS AMBIENTAIS,1036.56
+julho,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,7.75
+julho,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,64.2
+julho,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,0.0
+julho,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,9789.17
+julho,9.6.1.1.01.0.3.001,DESCONTOS SOCIAIS DIV ATIVA AGUA,0.0
+julho,1.6.1.1.01.0.3.002,TARIFA AMPLIAÇÃO DIVIDA RECONHECIDA,5106.27
+julho,9.6.1.1.01.0.3.002,DESCONTOS SOCIAIS DIV ATIVA ESGOTO,0.0
+julho,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,0.0
+julho,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,141.6
+julho,1.6.2.1.02.0.1.001,Serviços de Transporte de Passageiros ou Mercadori,67386.83
+julho,1.6.1.1.01.0.1.020,CERTIFICADO DE DISPENSA DE LICENÇA CDL,259.14
+julho,1.6.9.9.99.0.1.002,OUTROS SERVIÇOS,1850.48
+julho,1.3.2.1.01.0.1.021,REC REND DUODECIMO CAMARA,6.0
+julho,1.3.2.1.01.0.1.019,REC REND SAUDE ESTADO,40019.62
+julho,1.1.2.2.01.0.4.004,M/J DIV ATIVA REMOÇÃO LIXO,19379.6
+julho,1.1.2.2.01.0.4.005,M/J DA OUT. TAXAS PREST SERVIÇOS,0.0
+julho,1.2.1.5.01.1.1.001,Contribuição do Servidor Civil Ativo - Câmara,17372.18
+julho,1.2.1.5.01.1.1.002,Contribuição do Servidor Civil Ativo - Prefeitura,876261.63
+julho,1.2.1.5.01.1.1.004,Contribuição do Servidor Civil Ativo - Instituto,1031.06
+julho,1.2.1.5.01.2.1.003,CONTRIB.SERVIDOR CIVIL INATIVO-INSTITUTO,12010.59
+julho,1.2.1.5.01.3.1.003,CONTRIB.SERVIDOR CIVIL-PENSIONISTAS-INSTITUTO,1538.79
+julho,1.2.4.1.50.0.1.000,Contribuição para o Custeio do Serviço de Iluminaç,477187.61
+julho,1.2.4.1.50.0.2.000,Contribuição para o Custeio do Serviço de Iluminaç,435.81
+julho,1.2.4.1.50.0.3.000,Contribuição para o Custeio do Serviço de Iluminaç,18960.62
+julho,1.2.4.1.50.0.4.000,Contribuição para o Custeio do Serviço de Iluminaç,2310.91
+julho,1.3.1.1.01.1.1.001,ALUGUEIS,2181.42
+julho,1.3.1.1.01.1.2.001,M/J ALUGUEIS,0.0
+julho,1.3.2.1.01.0.1.020,REC REND SAUDE FEDERAL,60976.48
+julho,1.3.1.1.01.1.3.001,DIV ATIVA ALUGUEIS,0.0
+julho,1.3.1.1.02.0.2.001,M/J CONCESSÃO DE ESPAÇO,0.0
+julho,1.3.1.1.02.0.3.001,D A CONCESSÃO DE ESPAÇO,0.0
+julho,1.3.1.1.02.0.4.001,M/J D A CONCESSÃO DE ESPAÇO,0.0
+julho,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,1125192.46
+julho,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,4952.27
+julho,1.3.2.1.01.0.1.002,REC REM DEP BANC ROYALTIES,64.84
+julho,1.3.2.1.01.0.1.004,REC REM DEP BANC MDE,1180.08
+julho,1.3.2.1.01.0.1.005,REC REM SERVIÇOS AÇÕES DE SAUDE,6191.68
+julho,1.3.2.1.01.0.1.007,REC REM DEP BANC FNAS,12478.42
+julho,1.3.2.1.01.0.1.008,REC REM OUT DEP REC VINCULADOS,3265.0
+julho,1.3.2.1.01.0.1.010,REC REM DEP BANC CIDE,164.73
+julho,1.3.2.1.01.0.1.014,REC REND DE BANC FUNDEB,50676.8
+julho,1.3.2.1.01.0.1.018,RENDIMENTOS ESCOLA PROFISSIONAL,316.71
+julho,1.3.1.1.01.1.4.001,M/J DIV ATIVA ALUGUEIS,0.0
+julho,1.9.2.2.99.0.3.001,DIV ATIVA OUTRA RESTITUIÇÕES,0.0
+agosto,1.1.1.2.50.0.1.001,IMPOSTOS S/PREDIAL URBANO,819217.92
+agosto,1.7.1.3.50.1.1.024,APS - INCENT. FINANC. MANUT PAG VALOR NOMINAL,0.0
+agosto,1.7.1.7.52.0.1.004,IGD-SUAS IND GEST DESC MUN SIST UNICO ASS SOCIAL,0.0
+agosto,1.7.1.7.52.0.1.005,PROGRAMA PRIMEIRA INFANCIA NO SUAS- CRIANÇA FELIZ,0.0
+agosto,1.7.1.7.52.0.1.018,Bloco Proteção Social Básica,8436.0
+agosto,1.7.1.7.52.0.1.019,Bloco Proteção Social Especial,16321.11
+agosto,1.7.1.7.52.0.1.021,PROCAD SUAS,0.0
+agosto,1.7.1.7.99.0.1.001,OUTRAS TRASNF UNIAO ASS SOCIAL,0.0
+agosto,1.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,6482874.15
+agosto,9.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,-1296574.81
+agosto,1.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,655813.71
+agosto,9.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,-131162.81
+agosto,1.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,44317.88
+agosto,9.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,-8863.58
+agosto,1.7.2.1.53.0.1.000,Cota-Parte da Contribuição de Intervenção no Domín,0.0
+agosto,1.7.2.4.50.0.1.001,GLICEMIA,0.0
+agosto,1.7.2.4.50.0.1.002,MEDICAMENTOS FURP,0.0
+agosto,1.7.2.4.50.0.1.011,CIRURGIA ELETIVAS,0.0
+agosto,1.7.2.4.50.0.1.013,PAB TAB SUS PAULISTA,534824.07
+agosto,1.7.2.4.50.0.1.019,IGM - SUS,0.0
+agosto,1.7.2.4.50.0.1.022,SUS PAULISTA EXT DENGUE,0.0
+agosto,1.7.2.4.51.0.1.001,TRANSP ALUNOS ESTADUAL,339936.86
+agosto,1.7.2.4.99.0.1.013,FMAS BENEFICIOS EVENTUAIS,0.0
+agosto,1.7.2.4.99.0.1.014,OUTRAS TRANSFERENCIAS ESTADO - SAÚDE,0.0
+agosto,1.7.2.9.51.0.1.001,SADS Proteção Básica - Humanizar,3000.0
+agosto,1.7.2.9.51.0.1.003,SCFV-Serv Convivência e Fortalecimento de Vínculo,19665.99
+agosto,1.7.2.9.51.0.1.004,Media Complexidade - APAE,8500.0
+agosto,1.7.2.9.51.0.1.005,PAEFI-Serv Prot Especializado a Fam e Individuo,6500.0
+agosto,1.7.2.9.51.0.1.006,Centro Dia,12333.33
+agosto,1.7.1.7.52.0.1.003,IGD-BF IND GESTÃO DESC MUN PROG BOLSA FAMILIA,8643.79
+agosto,1.7.1.4.99.0.1.001,OUTRAS TRANSF UNIAO EDUCAÇÃO,0.0
+agosto,1.7.1.4.53.0.1.000,FNDE PNATE,0.0
+agosto,1.7.1.4.52.0.1.000,FNDE PNAE,144564.0
+agosto,1.7.1.2.51.0.1.000,Cota-parte da Compensação Financeira pela Exploraç,2162.98
+agosto,1.7.1.2.52.1.1.000,Cota-parte da Compensação Financeira pela Produção,0.0
+agosto,1.7.1.3.50.1.1.004,PAB AG COMUNITARIO SAUDE,0.0
+agosto,1.7.1.3.50.1.1.006,PAB SAUDE BUCAL,96925.74
+agosto,1.7.1.3.50.1.1.009,MANUTENÇÃO ACADEMIA DA SAUDE,6000.0
+agosto,1.7.1.3.50.1.1.022,APS -INCENTIVO COMPENSATORIO DE TRANSIÇÃO,32357.0
+agosto,1.7.1.3.50.1.1.023,APS - INCENT. FINANC. ESF/EAP,246300.0
+agosto,1.7.1.3.50.1.1.025,APS - INCENT. FINANC. EQUIPES MULTIPROFISSIONAIS,16750.0
+agosto,1.7.1.3.50.1.1.027,APS -INCENT FINANC COMP PER CAPITA BASE POPULACION,28114.25
+agosto,1.7.1.3.50.1.1.042,AGENTES COMUNITARIOS DE SAUDE,81972.0
+agosto,1.7.1.3.50.1.1.045,PAB - IMPLEM. POLITICAS REDE ALYNE,0.0
+agosto,1.7.1.3.50.1.1.046,UBS -NOVO PAC SELEÇÕES,0.0
+agosto,9.7.1.3.50.2.1.000,TRANSFERENCIAS MAC,-165301.74
+agosto,1.7.2.9.51.0.1.007,L.A. Serv Prot Social Adoles Liberdade Assist,8649.04
+agosto,1.7.1.3.50.2.1.001,MAC UPA,300000.0
+agosto,1.7.1.3.50.2.1.003,MAC MANUTENÇÃO,108105.82
+agosto,1.7.1.3.50.2.1.004,MAC MELHOR EM CASA,72800.0
+agosto,1.7.1.3.50.2.1.005,MAC SAMU,28494.7
+agosto,1.7.1.3.50.2.1.025,FAEC - PRÉ-CIRÚRGICO EM CIRURGIAS PRIORITÁRIAS,565.6
+agosto,1.7.1.3.50.2.1.026,FAEC - NEFROLOGIA,0.0
+agosto,1.7.1.3.50.3.1.001,VIGILANCIA EM SAUDE,8939.48
+agosto,1.7.1.3.50.3.1.002,COMBATE A ENDEMIAS,78936.0
+agosto,1.7.1.3.50.3.1.003,AÇÕES DE VIGILANCIA SANITARIA,5672.0
+agosto,1.7.1.3.50.3.1.004,FNS AIDS,9414.91
+agosto,1.7.1.3.50.4.1.001,ASS FARMACEUTICA,26665.48
+agosto,1.7.1.3.50.5.1.004,FMS PISO ENFERMAGEM,130506.22
+agosto,1.7.1.3.99.0.1.001,OUTRAS TRANSFERÊNCIAS UNIÃO - SAÚDE,0.0
+agosto,1.7.1.4.50.0.1.000,SALARIO EDUCAÇÃO-QESE,250771.61
+agosto,1.7.1.3.50.2.1.002,MAC SANTA CASA,416475.09
+agosto,1.7.2.9.51.0.1.008,Migrante,14640.33
+agosto,1.7.2.9.51.0.1.009,Alta Complexidade - Abrigo São José,13750.0
+agosto,1.7.2.9.51.0.1.010,FRENTE FRIA,0.0
+agosto,1.9.1.1.14.0.1.001,OLIMPIA MULTAS DE TRANSITO,17112.61
+agosto,1.9.2.1.99.0.1.001,Outras Indenizações - Principal,0.0
+agosto,1.9.2.2.99.0.1.001,Outras Restituições - Principal,16112.48
+agosto,1.9.2.2.99.0.1.001,Outras Restituições - Principal,0.0
+agosto,1.9.2.2.99.0.1.003,Restituições,0.0
+agosto,1.9.2.2.99.0.1.004,Restituições,0.0
+agosto,1.9.2.2.99.0.2.001,M/J OUTRAS RESTITUIÇÕES,0.0
+agosto,1.9.2.2.99.0.3.001,DIV ATIVA OUTRA RESTITUIÇÕES,0.0
+agosto,1.9.2.2.99.0.4.001,M/J DIV ATIVA OUTRAS RESTITUIÇÕES,0.0
+agosto,1.9.2.3.99.0.1.001,CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,25836.05
+agosto,1.9.2.3.99.0.2.001,M/J CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,0.0
+agosto,1.9.9.9.03.0.1.000,Compensações Financeiras entre o Regime Geral e os,42589.06
+agosto,1.9.9.9.12.2.1.001,Ônus de Sucumbência - Principal,1686.65
+agosto,1.9.1.1.09.0.4.001,Multas e Juros Previstos em Contratos - Dívida Ati,0.0
+agosto,2.2.1.3.01.0.1.001,ALIENAÇÃO DE BENS MOVEIS,-1449615.72
+agosto,2.4.1.9.99.0.1.012,OUTRAS TRANS. FEDERAL - OBRAS,0.0
+agosto,2.4.2.2.50.0.1.003,UBS Qualivida,0.0
+agosto,2.4.2.2.99.0.1.009,CASA DA JUVENTUDE,0.0
+agosto,2.4.2.2.99.0.1.017,Centro de Convivência,0.0
+agosto,2.4.2.2.99.0.1.030,OUTRAS TRANSF. ESTADO - OBRAS,0.0
+agosto,2.4.2.2.99.0.1.034,AMPLIAÇÃO CRECHE DONA BENTA,0.0
+agosto,2.4.2.2.99.0.1.037,DADETUR - CENTRO CULTURAL,0.0
+agosto,7.2.1.5.02.1.1.001,Contribuição Patronal-Serv. Civil Ativo-Prefeitura,602477.22
+agosto,7.2.1.5.02.1.1.002,Contribuição Patronal - Serv. Civil Ativo - Câmara,36960.27
+agosto,7.2.1.5.02.1.1.004,Contribuição Patronal-Serv. Civil Ativo-Instituto,1628.92
+agosto,7.9.2.3.99.0.1.001,Outros Ressarcimentos - Daemo,0.0
+agosto,7.9.2.3.99.0.1.002,Outros Ressarcimentos - Instituto,5164.89
+agosto,7.9.2.3.99.0.1.003,Outros Ressarcimentos - Câmara,0.0
+agosto,2.2.2.1.01.0.1.001,ALIENAÇÃO DE BENS IMOVEIS,9988461.62
+agosto,9.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,-18796.68
+agosto,1.9.1.1.09.0.3.001,D A MULTA PREV. EM CONTRATOS,0.0
+agosto,1.9.1.1.09.0.1.001,MULTA PREVISTA EM CONTRATOS,0.0
+agosto,1.7.2.9.51.0.1.011,AÇÕES DE ENFRENTAMENTO À VIOLÊNCIA CONTRA MULHER,0.0
+agosto,1.7.2.9.51.0.1.013,Serv. dest. nascimento/gestação de famílias em vul,0.0
+agosto,1.7.2.9.51.0.1.014,Serv. funerais destinados à famílias em vulnerabil,0.0
+agosto,1.7.2.9.51.0.1.015,Serv. complementação alimentar à famílias em vul,0.0
+agosto,1.7.2.9.51.0.1.016,PSE ALTA EXPANSÃO,0.0
+agosto,1.7.2.9.51.0.1.018,VIG SOCIOASSISTENCIAL ESTADO,0.0
+agosto,1.7.2.9.51.0.1.019,CUST SERV VIG SOCIOASSIST,0.0
+agosto,1.7.2.9.51.0.1.020,INSTITUTO O AMOR,9750.0
+agosto,1.7.2.9.51.0.1.022,SERV ACOLHIMENTO CASA LAR,10000.0
+agosto,1.7.2.9.51.0.1.023,SERV DE ACOLHIMENTO PARA IDOSOS,5000.0
+agosto,1.7.2.9.99.0.1.001,OUTRAS TRANSF ESTADO EDUCAÇÃO,0.0
+agosto,1.7.2.9.99.0.1.005,OUTRAS TRANSFERENCIAS ESTADO - ASS SOCIAL,0.0
+agosto,1.7.3.9.99.0.1.001,CASA ABRIGO ADOLESCENTE,13636.87
+agosto,1.9.1.1.09.0.2.001,MULTA PREVISTA EM CONTRATOS,0.0
+agosto,1.7.3.9.99.0.1.002,CASA ABRIGO NOSSO LAR,3000.0
+agosto,1.7.4.1.99.0.1.002,DOAÇÕES FUNDO DO IDOSO,0.0
+agosto,1.7.5.1.50.0.1.000,TRANSF FUNDO DE MANUTENÇÃO - FUNDEB,3676098.81
+agosto,1.9.1.1.01.0.1.001,MULTA POR AUTO DE INFRAÇÃO,10467.98
+agosto,1.9.1.1.01.0.1.002,SOM ALTO - MULTA AUTO DE INFRAÇÃO,0.0
+agosto,1.9.1.1.01.0.2.001,MULTA POR ATO DE INFRAÇÃO,0.0
+agosto,1.9.1.1.01.0.2.002,M/J MULTAS,84.52
+agosto,1.9.1.1.01.0.2.003,MULTA POR VIOLAÇÃO DE LACRE E OUTROS,60.85
+agosto,1.9.1.1.01.0.2.004,MULTA/ JUROS VIOLAÇÃO DE LACRE,0.0
+agosto,1.9.1.1.01.0.3.001,MULTAS DIV ATIVA INFRAÇÃO,48903.39
+agosto,1.9.1.1.01.0.3.002,MULTA VIOLAÇÃO DE LACRE E OUTROS - DIVIDA ATIVA,0.0
+agosto,1.9.1.1.01.0.4.001,M/J DIV ATIVA MULTAS,6153.09
+agosto,1.9.1.1.01.0.4.005,M/J DIV ATIVA VIOLAÇÃO DE LACRE,33.88
+agosto,1.9.1.1.06.1.2.001,MULTAS ADMINISTRATIVAS POR DANOS AMBIENTAIS,0.0
+agosto,1.7.4.1.99.0.1.001,DOAÇÕES FUNDO CRIANÇA E ADOLESCENTE,0.0
+agosto,7.9.9.9.01.0.1.001,APORTES PARA COBERTURA DE DEFICIT,40476.2
+agosto,1.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,93983.41
+agosto,1.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,5019349.42
+agosto,1.1.2.2.01.0.3.001,DIV ATIVA TX PREST SERVIÇOS,22446.35
+agosto,1.1.2.2.01.0.3.002,DIV ATIVA TX INCENDIO,9663.52
+agosto,1.1.2.2.01.0.3.003,DIV ATIVA TX PROT ACIDENTES,10565.3
+agosto,1.1.2.2.01.0.3.004,DIV ATIVA REMOÇÃO LIXO,147642.92
+agosto,1.1.2.2.01.0.3.005,DA OUT. TAXAS PREST SERVIÇOS,0.0
+agosto,1.1.2.2.01.0.4.001,M/J DIV ATIVA TX PREST SERVIÇOS,8705.49
+agosto,1.1.2.2.01.0.4.002,M/J DIV ATIVA TX INCENDIO,1629.19
+agosto,1.1.2.2.01.0.4.003,M/J DIV ATIVA TX PROT ACIDENTES,1081.77
+agosto,1.1.2.2.01.0.4.004,M/J DIV ATIVA REMOÇÃO LIXO,30336.72
+agosto,1.1.2.2.01.0.4.005,M/J DA OUT. TAXAS PREST SERVIÇOS,0.0
+agosto,1.2.1.5.01.1.1.001,Contribuição do Servidor Civil Ativo - Câmara,23520.15
+agosto,1.2.1.5.01.1.1.002,Contribuição do Servidor Civil Ativo - Prefeitura,875287.26
+agosto,1.2.1.5.01.1.1.004,Contribuição do Servidor Civil Ativo - Instituto,1031.06
+agosto,1.2.1.5.01.2.1.003,CONTRIB.SERVIDOR CIVIL INATIVO-INSTITUTO,12148.35
+agosto,1.2.1.5.01.3.1.003,CONTRIB.SERVIDOR CIVIL-PENSIONISTAS-INSTITUTO,1538.79
+agosto,1.2.4.1.50.0.1.000,Contribuição para o Custeio do Serviço de Iluminaç,530510.18
+agosto,1.2.4.1.50.0.2.000,Contribuição para o Custeio do Serviço de Iluminaç,459.02
+agosto,1.2.4.1.50.0.3.000,Contribuição para o Custeio do Serviço de Iluminaç,19034.61
+agosto,1.2.4.1.50.0.4.000,Contribuição para o Custeio do Serviço de Iluminaç,2366.54
+agosto,1.3.1.1.01.1.1.001,ALUGUEIS,2181.42
+agosto,1.3.1.1.01.1.2.001,M/J ALUGUEIS,0.0
+agosto,1.3.1.1.01.1.3.001,DIV ATIVA ALUGUEIS,0.0
+agosto,1.3.1.1.01.1.4.001,M/J DIV ATIVA ALUGUEIS,0.0
+agosto,1.3.1.1.02.0.2.001,M/J CONCESSÃO DE ESPAÇO,0.0
+agosto,1.3.1.1.02.0.3.001,D A CONCESSÃO DE ESPAÇO,0.0
+agosto,1.3.1.1.02.0.4.001,M/J D A CONCESSÃO DE ESPAÇO,0.0
+agosto,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,1024966.06
+agosto,1.1.2.2.01.0.2.005,M/J OUT. TAXAS PREST SERVIÇOS,0.0
+agosto,1.1.2.2.01.0.2.004,M/J REMOÇÃO LIXO,2138.49
+agosto,1.1.2.2.01.0.2.003,M/J TX PROTEÇÃO DE ACIDENTES,202.0
+agosto,1.1.2.2.01.0.2.001,M/J TX PREST SERVIÇOS,290.53
+agosto,1.1.1.2.50.0.1.002,IMP. S/PROP. TERRITORIAL URBANA,508681.64
+agosto,1.1.1.2.50.0.2.001,IPTU M/J,6024.22
+agosto,1.1.1.2.50.0.3.001,IPTU DIV ATIVA,1216196.24
+agosto,1.1.1.2.50.0.4.001,M/J DIV ATIVA IPTU,572379.92
+agosto,1.1.1.3.03.1.1.001,Imposto sobre a Renda - Retido na Fonte - Trabalho,803532.66
+agosto,1.1.1.3.03.4.1.000,Imposto sobre a Renda - Retido na Fonte - Outros R,304757.81
+agosto,1.1.1.4.51.1.1.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,6170755.24
+agosto,1.1.1.4.51.1.2.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,34847.54
+agosto,1.1.1.4.51.1.3.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,180406.83
+agosto,1.1.1.4.51.1.4.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,15248.44
+agosto,1.1.2.1.01.0.1.001,TX DE LIC FUNC E ESTAB COMERCIAL,194476.11
+agosto,1.1.2.1.01.0.1.002,TX DE PUBLICIDADE COMERCIAL,9361.2
+agosto,1.1.2.1.01.0.1.003,TX DE FUNC DE ESTAB EM HOR ESPECIAL,41098.18
+agosto,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,4190.57
+agosto,1.1.2.1.01.0.1.004,TX AUTORIZAÇÃO,0.0
+agosto,1.1.2.1.01.0.1.006,TX DE UTIL AREA DOM PUBLICO,514.8
+agosto,1.1.2.1.01.0.2.000,M/J TX FISCALIZAÇÃO,1847.62
+agosto,1.1.2.1.01.0.3.000,DIV ATIVA TX FISCALIZAÇÃO,9129.53
+agosto,1.1.2.1.01.0.4.000,M/J DIV ATIVA TX DE FISCALIZAÇÃO,772.52
+agosto,1.1.2.1.04.0.1.000,Taxa de Controle e Fiscalização Ambiental - Princi,1223.88
+agosto,1.1.2.1.50.0.1.000,Taxa de Fiscalização de Vigilância Sanitária - Pri,16624.03
+agosto,1.1.2.1.50.0.2.000,Taxa de Fiscalização de Vigilância Sanitária - Mu,332.43
+agosto,1.1.2.1.50.0.3.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,2652.81
+agosto,1.1.2.1.50.0.4.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,436.84
+agosto,1.1.2.2.01.0.1.001,TAXA DE LIMPEZA IMOVEL URBANO,20213.18
+agosto,1.1.2.2.01.0.1.002,REMOÇÃO LIXO DOMICILIAR,505897.01
+agosto,1.1.2.2.01.0.1.003,TAXA PROTEÇÃO DE ACIDENTES,53187.96
+agosto,1.1.2.2.01.0.1.005,OUTRAS TAXAS PREST SERVIÇOS,2.52
+agosto,1.1.2.1.01.0.1.005,TX DE LICENÇA PARA EXECUÇÃO DE OBRAS,92576.18
+agosto,9.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,-1003869.85
+agosto,1.3.2.1.01.0.1.002,REC REM DEP BANC ROYALTIES,68.43
+agosto,1.3.2.1.01.0.1.005,REC REM SERVIÇOS AÇÕES DE SAUDE,2240.84
+agosto,1.6.1.1.01.0.3.002,TARIFA AMPLIAÇÃO DIVIDA RECONHECIDA,5106.27
+agosto,9.6.1.1.01.0.3.002,DESCONTOS SOCIAIS DIV ATIVA ESGOTO,0.0
+agosto,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,0.0
+agosto,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,123.5
+agosto,1.6.2.1.02.0.1.001,Serviços de Transporte de Passageiros ou Mercadori,69659.18
+agosto,1.6.9.9.99.0.1.001,PRESTAÇÃO DE SERVIÇO PATRULHA AGRICOLA,7016.92
+agosto,1.6.9.9.99.0.1.002,OUTROS SERVIÇOS,1081.34
+agosto,1.6.9.9.99.0.1.003,SERVIÇOS DE LIGAÇÃO DE AGUA,3.36
+agosto,1.6.9.9.99.0.1.004,SERVIÇOS DE LIGAÇÃO DE ESGOTOS,0.0
+agosto,1.6.9.9.99.0.1.005,SERVIÇOS DE RELIGAÇÃO DE AGUA,0.0
+agosto,1.6.9.9.99.0.1.007,MUDANÇA DE CAVALETE,29.76
+agosto,1.6.9.9.99.0.1.010,LIMPA FOSA,0.0
+agosto,1.6.9.9.99.0.1.011,AGUA POTAVEL PIPA,0.0
+agosto,1.6.9.9.99.0.1.012,LOCAÇÃO DE MAQUINAS E EQUIPAMENTOS,0.01
+agosto,1.6.9.9.99.0.1.013,AVISO CONTA VENCIDA,0.3
+agosto,1.6.9.9.99.0.1.015,POSTAGEM,0.0
+agosto,1.6.9.9.99.0.1.016,OUTROS SERVIÇOS,24.32
+agosto,1.6.9.9.99.0.1.017,OUTRAS RECEITAS,774.97
+agosto,1.6.9.9.99.0.2.001,M/J PATRULHA AGRICOLA,0.0
+agosto,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,0.0
+agosto,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,223.18
+agosto,1.6.9.9.99.0.3.001,DIV ATIVA PATRULHA AGRICOLA,0.0
+agosto,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,0.0
+agosto,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,5490.64
+agosto,1.6.9.9.99.0.4.001,M/J DIV ATIVA PATRULHA AGRICOLA,0.0
+agosto,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,0.0
+agosto,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,990.55
+agosto,9.6.1.1.01.0.3.001,DESCONTOS SOCIAIS DIV ATIVA AGUA,0.0
+agosto,1.3.2.1.01.0.1.004,REC REM DEP BANC MDE,760.28
+agosto,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,14855.94
+agosto,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,60.48
+agosto,1.3.2.1.01.0.1.007,REC REM DEP BANC FNAS,11247.52
+agosto,1.3.2.1.01.0.1.008,REC REM OUT DEP REC VINCULADOS,2044.38
+agosto,1.3.2.1.01.0.1.010,REC REM DEP BANC CIDE,124.88
+agosto,1.3.2.1.01.0.1.014,REC REND DE BANC FUNDEB,43236.03
+agosto,1.3.2.1.01.0.1.018,RENDIMENTOS ESCOLA PROFISSIONAL,291.82
+agosto,1.3.2.1.01.0.1.019,REC REND SAUDE ESTADO,37004.3
+agosto,1.3.2.1.01.0.1.020,REC REND SAUDE FEDERAL,52933.28
+agosto,1.3.2.1.01.0.1.021,REC REND DUODECIMO CAMARA,0.0
+agosto,1.3.2.1.01.0.1.022,REC REM EDUCAÇÃO - ESTADUAL,2376.01
+agosto,1.3.2.1.01.0.1.023,REC REM EDUCAÇÃO - FEDERAL,40580.28
+agosto,1.3.2.1.01.0.1.024,REC REM ASS SOCIAL - ESTADUAL,7095.07
+agosto,1.3.2.1.01.0.1.025,REC REM ASS SOCIAL - FEDERAL,1452.57
+agosto,1.3.2.1.04.0.1.000,Remuneração dos Recursos do Regime Próprio de Prev,28906.39
+agosto,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,0.0
+agosto,1.3.2.2.01.0.1.001,DIVIDENDOS,0.0
+agosto,1.6.1.1.01.0.1.001,TARIFA DE MANIFESTAÇÃO DE ORGÃO AMBIENTAL,37.02
+agosto,1.6.1.1.01.0.1.004,VISTORIA DE SUPRESSÃO DE ARVORE EM CALÇADA,0.0
+agosto,1.6.1.1.01.0.1.005,TARIFAS DE CONSUMO DE AGUA,993.33
+agosto,9.6.1.1.01.0.1.005,DESCONTOS SOCIAIS - ÁGUA,0.0
+agosto,1.6.1.1.01.0.1.006,TARIFS UTIL. ESGOTO SANITARIO,859.37
+agosto,9.6.1.1.01.0.1.006,DESCONTOS SOCIAIS ESGOTO,0.0
+agosto,1.6.1.1.01.0.1.007,TARIFA ESGOTO REFERENTE POÇO,0.0
+agosto,1.6.1.1.01.0.1.018,TARIFAS DE DISPOSIÇÃO DE RESIDUOS CONSTR.CIVIL,35788.27
+agosto,1.6.1.1.01.0.1.020,CERTIFICADO DE DISPENSA DE LICENÇA CDL,0.0
+agosto,1.6.1.1.01.0.1.021,AUTORIZAÇÃO DE CORTE DE ARVORE ISOLADA,740.4
+agosto,1.6.1.1.01.0.1.022,PARECER TECNICO AMBIENTAL,0.0
+agosto,1.6.1.1.01.0.1.023,CERTIDÃO NEGATIVA DE DEBITOS AMBIENTAIS,0.0
+agosto,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,263.18
+agosto,1.3.3.9.99.0.1.002,OUTORGA VARIÁVEL,24199.96
+agosto,7.9.9.9.01.0.1.002,AMORT. DEFICIT DIV ATIVA/MULTA JUROS INTRA,511.05
+setembro,7.9.9.9.01.0.1.001,APORTES PARA COBERTURA DE DEFICIT,40476.2
+setembro,7.9.9.9.01.0.1.002,AMORT. DEFICIT DIV ATIVA/MULTA JUROS INTRA,359.79
+setembro,2.4.2.2.99.0.1.034,AMPLIAÇÃO CRECHE DONA BENTA,0.0
+setembro,1.7.1.3.50.5.1.004,FMS PISO ENFERMAGEM,0.0
+setembro,1.7.1.3.99.0.1.001,OUTRAS TRANSFERÊNCIAS UNIÃO - SAÚDE,0.0
+setembro,1.7.1.4.50.0.1.000,SALARIO EDUCAÇÃO-QESE,249165.2
+setembro,1.7.1.4.52.0.1.000,FNDE PNAE,93154.75
+setembro,1.7.1.4.53.0.1.000,FNDE PNATE,27196.16
+setembro,1.7.1.4.99.0.1.001,OUTRAS TRANSF UNIAO EDUCAÇÃO,0.0
+setembro,1.7.1.7.52.0.1.003,IGD-BF IND GESTÃO DESC MUN PROG BOLSA FAMILIA,9886.3
+setembro,1.7.1.7.52.0.1.004,IGD-SUAS IND GEST DESC MUN SIST UNICO ASS SOCIAL,0.0
+setembro,1.7.1.7.52.0.1.005,PROGRAMA PRIMEIRA INFANCIA NO SUAS- CRIANÇA FELIZ,0.0
+setembro,1.7.1.7.52.0.1.018,Bloco Proteção Social Básica,8959.06
+setembro,1.7.1.7.52.0.1.019,Bloco Proteção Social Especial,16831.5
+setembro,1.7.1.7.52.0.1.021,PROCAD SUAS,11545.18
+setembro,1.7.1.7.99.0.1.001,OUTRAS TRASNF UNIAO ASS SOCIAL,0.0
+setembro,1.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,7827978.33
+setembro,9.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,-1565595.64
+setembro,1.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,677240.0
+setembro,9.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,-135448.0
+setembro,1.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,53955.46
+setembro,9.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,-10791.1
+setembro,1.7.2.1.53.0.1.000,Cota-Parte da Contribuição de Intervenção no Domín,0.0
+setembro,1.7.2.4.50.0.1.001,GLICEMIA,0.0
+setembro,1.7.2.4.50.0.1.002,MEDICAMENTOS FURP,0.0
+setembro,1.7.2.4.50.0.1.013,PAB TAB SUS PAULISTA,534824.07
+setembro,1.7.2.4.50.0.1.019,IGM - SUS,0.0
+setembro,1.7.2.4.50.0.1.022,SUS PAULISTA EXT DENGUE,0.0
+setembro,1.7.2.4.51.0.1.001,TRANSP ALUNOS ESTADUAL,339936.86
+setembro,1.7.2.4.99.0.1.013,FMAS BENEFICIOS EVENTUAIS,0.0
+setembro,1.7.2.4.99.0.1.014,OUTRAS TRANSFERENCIAS ESTADO - SAÚDE,0.0
+setembro,1.7.2.9.51.0.1.001,SADS Proteção Básica - Humanizar,3000.0
+setembro,1.7.1.3.50.4.1.001,ASS FARMACEUTICA,24462.1
+setembro,1.7.2.9.51.0.1.003,SCFV-Serv Convivência e Fortalecimento de Vínculo,19665.99
+setembro,1.7.1.3.50.3.1.004,FNS AIDS,9414.91
+setembro,1.7.1.3.50.3.1.002,COMBATE A ENDEMIAS,78936.0
+setembro,1.6.9.9.99.0.4.001,M/J DIV ATIVA PATRULHA AGRICOLA,0.0
+setembro,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,0.0
+setembro,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,696.24
+setembro,1.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,4052618.65
+setembro,9.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,-810523.69
+setembro,1.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,176266.58
+setembro,9.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,-35253.31
+setembro,1.7.1.2.51.0.1.000,Cota-parte da Compensação Financeira pela Exploraç,2099.14
+setembro,1.7.1.2.52.1.1.000,Cota-parte da Compensação Financeira pela Produção,21621.95
+setembro,1.7.1.3.50.1.1.004,PAB AG COMUNITARIO SAUDE,0.0
+setembro,1.7.1.3.50.1.1.006,PAB SAUDE BUCAL,96925.74
+setembro,1.7.1.3.50.1.1.009,MANUTENÇÃO ACADEMIA DA SAUDE,0.0
+setembro,1.7.1.3.50.1.1.022,APS -INCENTIVO COMPENSATORIO DE TRANSIÇÃO,32357.0
+setembro,1.7.1.3.50.1.1.023,APS - INCENT. FINANC. ESF/EAP,222300.0
+setembro,1.7.1.3.50.1.1.024,APS - INCENT. FINANC. MANUT PAG VALOR NOMINAL,0.0
+setembro,1.7.1.3.50.1.1.025,APS - INCENT. FINANC. EQUIPES MULTIPROFISSIONAIS,16750.0
+setembro,1.7.1.3.50.1.1.027,APS -INCENT FINANC COMP PER CAPITA BASE POPULACION,28114.25
+setembro,1.7.1.3.50.1.1.042,AGENTES COMUNITARIOS DE SAUDE,69828.0
+setembro,1.7.1.3.50.1.1.045,PAB - IMPLEM. POLITICAS REDE ALYNE,7528.35
+setembro,1.7.1.3.50.1.1.046,UBS -NOVO PAC SELEÇÕES,0.0
+setembro,9.7.1.3.50.2.1.000,TRANSFERENCIAS MAC,-165301.74
+setembro,1.7.1.3.50.2.1.001,MAC UPA,300000.0
+setembro,1.7.1.3.50.2.1.002,MAC SANTA CASA,416475.09
+setembro,1.7.1.3.50.2.1.003,MAC MANUTENÇÃO,108105.82
+setembro,1.7.1.3.50.2.1.004,MAC MELHOR EM CASA,72800.0
+setembro,1.7.1.3.50.2.1.005,MAC SAMU,17062.5
+setembro,1.7.1.3.50.2.1.025,FAEC - PRÉ-CIRÚRGICO EM CIRURGIAS PRIORITÁRIAS,452.48
+setembro,1.7.1.3.50.2.1.026,FAEC - NEFROLOGIA,300497.03
+setembro,1.7.1.3.50.3.1.001,VIGILANCIA EM SAUDE,8939.48
+setembro,1.7.1.3.50.3.1.003,AÇÕES DE VIGILANCIA SANITARIA,2836.0
+setembro,1.7.2.9.51.0.1.004,Media Complexidade - APAE,8500.0
+setembro,1.7.2.9.51.0.1.005,PAEFI-Serv Prot Especializado a Fam e Individuo,6500.0
+setembro,1.7.2.9.51.0.1.006,Centro Dia,12333.33
+setembro,1.9.1.1.09.0.3.001,D A MULTA PREV. EM CONTRATOS,0.0
+setembro,1.9.1.1.09.0.4.001,Multas e Juros Previstos em Contratos - Dívida Ati,0.0
+setembro,1.9.1.1.14.0.1.001,OLIMPIA MULTAS DE TRANSITO,23273.99
+setembro,1.9.2.1.99.0.1.001,Outras Indenizações - Principal,0.0
+setembro,1.9.2.2.99.0.1.001,Outras Restituições - Principal,17480.79
+setembro,1.9.2.2.99.0.1.001,Outras Restituições - Principal,0.0
+setembro,1.9.2.2.99.0.1.003,Restituições,0.0
+setembro,1.9.2.2.99.0.1.004,Restituições,0.0
+setembro,1.9.2.2.99.0.2.001,M/J OUTRAS RESTITUIÇÕES,0.0
+setembro,1.9.2.2.99.0.3.001,DIV ATIVA OUTRA RESTITUIÇÕES,0.0
+setembro,1.9.2.2.99.0.4.001,M/J DIV ATIVA OUTRAS RESTITUIÇÕES,0.0
+setembro,1.9.2.3.99.0.1.001,CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,819089.8
+setembro,1.9.2.3.99.0.2.001,M/J CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,0.0
+setembro,1.9.9.9.03.0.1.000,Compensações Financeiras entre o Regime Geral e os,30618.49
+setembro,1.9.9.9.12.2.1.001,Ônus de Sucumbência - Principal,1819.32
+setembro,2.2.1.3.01.0.1.001,ALIENAÇÃO DE BENS MOVEIS,0.0
+setembro,2.2.2.1.01.0.1.001,ALIENAÇÃO DE BENS IMOVEIS,1430508.41
+setembro,2.4.1.9.99.0.1.012,OUTRAS TRANS. FEDERAL - OBRAS,0.0
+setembro,2.4.2.2.50.0.1.003,UBS Qualivida,0.0
+setembro,2.4.2.2.99.0.1.009,CASA DA JUVENTUDE,0.0
+setembro,2.4.2.2.99.0.1.017,Centro de Convivência,0.0
+setembro,2.4.2.2.99.0.1.030,OUTRAS TRANSF. ESTADO - OBRAS,0.0
+setembro,2.4.2.2.99.0.1.037,DADETUR - CENTRO CULTURAL,0.0
+setembro,7.2.1.5.02.1.1.001,Contribuição Patronal-Serv. Civil Ativo-Prefeitura,906170.71
+setembro,7.2.1.5.02.1.1.002,Contribuição Patronal - Serv. Civil Ativo - Câmara,27633.92
+setembro,7.2.1.5.02.1.1.004,Contribuição Patronal-Serv. Civil Ativo-Instituto,1620.24
+setembro,7.9.2.3.99.0.1.001,Outros Ressarcimentos - Daemo,55549.32
+setembro,7.9.2.3.99.0.1.002,Outros Ressarcimentos - Instituto,5164.89
+setembro,7.9.2.3.99.0.1.003,Outros Ressarcimentos - Câmara,6334.98
+setembro,1.9.1.1.09.0.2.001,MULTA PREVISTA EM CONTRATOS,0.0
+setembro,1.9.1.1.09.0.1.001,MULTA PREVISTA EM CONTRATOS,0.0
+setembro,1.9.1.1.06.1.2.001,MULTAS ADMINISTRATIVAS POR DANOS AMBIENTAIS,0.0
+setembro,1.9.1.1.01.0.4.005,M/J DIV ATIVA VIOLAÇÃO DE LACRE,698.9
+setembro,1.7.2.9.51.0.1.007,L.A. Serv Prot Social Adoles Liberdade Assist,8649.04
+setembro,1.7.2.9.51.0.1.008,Migrante,14640.33
+setembro,1.7.2.9.51.0.1.009,Alta Complexidade - Abrigo São José,13750.0
+setembro,1.7.2.9.51.0.1.010,FRENTE FRIA,0.0
+setembro,1.7.2.9.51.0.1.011,AÇÕES DE ENFRENTAMENTO À VIOLÊNCIA CONTRA MULHER,0.0
+setembro,1.7.2.9.51.0.1.013,Serv. dest. nascimento/gestação de famílias em vul,0.0
+setembro,1.7.2.9.51.0.1.014,Serv. funerais destinados à famílias em vulnerabil,0.0
+setembro,1.7.2.9.51.0.1.015,Serv. complementação alimentar à famílias em vul,0.0
+setembro,1.7.2.9.51.0.1.016,PSE ALTA EXPANSÃO,0.0
+setembro,1.7.2.9.51.0.1.018,VIG SOCIOASSISTENCIAL ESTADO,0.0
+setembro,1.7.2.9.51.0.1.019,CUST SERV VIG SOCIOASSIST,0.0
+setembro,1.7.2.9.51.0.1.020,INSTITUTO O AMOR,9750.0
+setembro,1.7.2.9.51.0.1.022,SERV ACOLHIMENTO CASA LAR,10000.0
+setembro,1.7.2.9.51.0.1.023,SERV DE ACOLHIMENTO PARA IDOSOS,5000.0
+setembro,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,5567.86
+setembro,1.7.2.9.99.0.1.001,OUTRAS TRANSF ESTADO EDUCAÇÃO,0.0
+setembro,1.7.3.9.99.0.1.001,CASA ABRIGO ADOLESCENTE,4333.0
+setembro,1.7.3.9.99.0.1.002,CASA ABRIGO NOSSO LAR,3000.0
+setembro,1.7.4.1.99.0.1.001,DOAÇÕES FUNDO CRIANÇA E ADOLESCENTE,60285.0
+setembro,1.7.4.1.99.0.1.002,DOAÇÕES FUNDO DO IDOSO,66285.0
+setembro,1.7.5.1.50.0.1.000,TRANSF FUNDO DE MANUTENÇÃO - FUNDEB,4293456.85
+setembro,1.9.1.1.01.0.1.001,MULTA POR AUTO DE INFRAÇÃO,11964.0
+setembro,1.9.1.1.01.0.1.002,SOM ALTO - MULTA AUTO DE INFRAÇÃO,0.0
+setembro,1.9.1.1.01.0.2.001,MULTA POR ATO DE INFRAÇÃO,0.0
+setembro,1.9.1.1.01.0.2.002,M/J MULTAS,169.54
+setembro,1.9.1.1.01.0.2.003,MULTA POR VIOLAÇÃO DE LACRE E OUTROS,60.85
+setembro,1.9.1.1.01.0.2.004,MULTA/ JUROS VIOLAÇÃO DE LACRE,0.0
+setembro,1.9.1.1.01.0.3.001,MULTAS DIV ATIVA INFRAÇÃO,46271.76
+setembro,1.9.1.1.01.0.3.002,MULTA VIOLAÇÃO DE LACRE E OUTROS - DIVIDA ATIVA,0.0
+setembro,1.9.1.1.01.0.4.001,M/J DIV ATIVA MULTAS,1438.11
+setembro,1.7.2.9.99.0.1.005,OUTRAS TRANSFERENCIAS ESTADO - ASS SOCIAL,0.0
+setembro,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,0.0
+setembro,1.7.2.4.50.0.1.011,CIRURGIA ELETIVAS,0.0
+setembro,1.1.2.2.01.0.1.005,OUTRAS TAXAS PREST SERVIÇOS,0.0
+setembro,1.1.2.2.01.0.2.003,M/J TX PROTEÇÃO DE ACIDENTES,240.53
+setembro,1.1.2.2.01.0.2.004,M/J REMOÇÃO LIXO,2497.4
+setembro,1.1.2.2.01.0.2.005,M/J OUT. TAXAS PREST SERVIÇOS,0.0
+setembro,1.1.2.2.01.0.3.001,DIV ATIVA TX PREST SERVIÇOS,5490.3
+setembro,1.1.2.2.01.0.3.002,DIV ATIVA TX INCENDIO,2461.28
+setembro,1.1.2.2.01.0.3.003,DIV ATIVA TX PROT ACIDENTES,15856.97
+setembro,1.1.2.2.01.0.3.004,DIV ATIVA REMOÇÃO LIXO,143568.39
+setembro,1.1.2.2.01.0.3.005,DA OUT. TAXAS PREST SERVIÇOS,0.0
+setembro,1.1.2.2.01.0.4.001,M/J DIV ATIVA TX PREST SERVIÇOS,738.71
+setembro,1.1.2.2.01.0.4.002,M/J DIV ATIVA TX INCENDIO,451.64
+setembro,1.1.2.2.01.0.4.003,M/J DIV ATIVA TX PROT ACIDENTES,1949.82
+setembro,1.1.2.2.01.0.4.004,M/J DIV ATIVA REMOÇÃO LIXO,20189.52
+setembro,1.1.2.2.01.0.2.001,M/J TX PREST SERVIÇOS,169.39
+setembro,1.1.2.2.01.0.4.005,M/J DA OUT. TAXAS PREST SERVIÇOS,0.0
+setembro,1.2.1.5.01.1.1.002,Contribuição do Servidor Civil Ativo - Prefeitura,0.0
+setembro,1.2.1.5.01.2.1.003,CONTRIB.SERVIDOR CIVIL INATIVO-INSTITUTO,12386.29
+setembro,1.2.1.5.01.3.1.003,CONTRIB.SERVIDOR CIVIL-PENSIONISTAS-INSTITUTO,1538.79
+setembro,1.2.4.1.50.0.1.000,Contribuição para o Custeio do Serviço de Iluminaç,531767.21
+setembro,1.2.4.1.50.0.2.000,Contribuição para o Custeio do Serviço de Iluminaç,697.55
+setembro,1.2.4.1.50.0.3.000,Contribuição para o Custeio do Serviço de Iluminaç,23758.77
+setembro,1.2.4.1.50.0.4.000,Contribuição para o Custeio do Serviço de Iluminaç,2838.68
+setembro,1.3.1.1.01.1.1.001,ALUGUEIS,540.1
+setembro,1.3.1.1.01.1.2.001,M/J ALUGUEIS,0.0
+setembro,1.3.1.1.01.1.3.001,DIV ATIVA ALUGUEIS,0.0
+setembro,1.3.1.1.01.1.4.001,M/J DIV ATIVA ALUGUEIS,0.0
+setembro,1.3.1.1.02.0.2.001,M/J CONCESSÃO DE ESPAÇO,0.0
+setembro,1.2.1.5.01.1.1.001,Contribuição do Servidor Civil Ativo - Câmara,17585.21
+setembro,1.3.1.1.02.0.3.001,D A CONCESSÃO DE ESPAÇO,0.0
+setembro,1.1.2.2.01.0.1.003,TAXA PROTEÇÃO DE ACIDENTES,53655.11
+setembro,1.1.2.2.01.0.1.001,TAXA DE LIMPEZA IMOVEL URBANO,6895.16
+setembro,1.6.9.9.99.0.3.001,DIV ATIVA PATRULHA AGRICOLA,0.0
+setembro,1.1.1.2.50.0.1.001,IMPOSTOS S/PREDIAL URBANO,814877.91
+setembro,1.1.1.2.50.0.1.002,IMP. S/PROP. TERRITORIAL URBANA,532778.91
+setembro,1.1.1.2.50.0.2.001,IPTU M/J,6900.36
+setembro,1.1.1.2.50.0.3.001,IPTU DIV ATIVA,460808.32
+setembro,1.1.1.2.50.0.4.001,M/J DIV ATIVA IPTU,54097.44
+setembro,1.1.1.3.03.1.1.001,Imposto sobre a Renda - Retido na Fonte - Trabalho,812125.99
+setembro,1.1.1.3.03.4.1.000,Imposto sobre a Renda - Retido na Fonte - Outros R,275770.1
+setembro,1.1.1.4.51.1.1.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,3896244.57
+setembro,1.1.1.4.51.1.2.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,24683.94
+setembro,1.1.1.4.51.1.3.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,159205.26
+setembro,1.1.1.4.51.1.4.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,16539.93
+setembro,1.1.2.2.01.0.1.002,REMOÇÃO LIXO DOMICILIAR,505670.39
+setembro,1.1.2.1.01.0.1.001,TX DE LIC FUNC E ESTAB COMERCIAL,37751.25
+setembro,1.1.2.1.01.0.1.003,TX DE FUNC DE ESTAB EM HOR ESPECIAL,2592.89
+setembro,1.1.2.1.01.0.1.004,TX AUTORIZAÇÃO,0.0
+setembro,1.1.2.1.01.0.1.005,TX DE LICENÇA PARA EXECUÇÃO DE OBRAS,46192.0
+setembro,1.1.2.1.01.0.1.006,TX DE UTIL AREA DOM PUBLICO,589.25
+setembro,1.1.2.1.01.0.2.000,M/J TX FISCALIZAÇÃO,1441.09
+setembro,1.1.2.1.01.0.3.000,DIV ATIVA TX FISCALIZAÇÃO,9794.91
+setembro,1.1.2.1.01.0.4.000,M/J DIV ATIVA TX DE FISCALIZAÇÃO,2168.01
+setembro,1.1.2.1.04.0.1.000,Taxa de Controle e Fiscalização Ambiental - Princi,5762.15
+setembro,1.1.2.1.50.0.1.000,Taxa de Fiscalização de Vigilância Sanitária - Pri,19664.08
+setembro,1.1.2.1.50.0.2.000,Taxa de Fiscalização de Vigilância Sanitária - Mu,355.76
+setembro,1.1.2.1.50.0.3.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,2580.36
+setembro,1.1.2.1.50.0.4.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,430.83
+setembro,1.1.2.1.01.0.1.002,TX DE PUBLICIDADE COMERCIAL,2818.58
+setembro,1.3.1.1.02.0.4.001,M/J D A CONCESSÃO DE ESPAÇO,0.0
+setembro,1.2.1.5.01.1.1.004,Contribuição do Servidor Civil Ativo - Instituto,1031.06
+setembro,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,4050.49
+setembro,1.6.1.1.01.0.1.023,CERTIDÃO NEGATIVA DE DEBITOS AMBIENTAIS,0.0
+setembro,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,116.45
+setembro,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,196.08
+setembro,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,0.0
+setembro,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,13815.06
+setembro,9.6.1.1.01.0.3.001,DESCONTOS SOCIAIS DIV ATIVA AGUA,0.0
+setembro,1.6.1.1.01.0.3.002,TARIFA AMPLIAÇÃO DIVIDA RECONHECIDA,5106.27
+setembro,9.6.1.1.01.0.3.002,DESCONTOS SOCIAIS DIV ATIVA ESGOTO,0.0
+setembro,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,0.0
+setembro,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,168.99
+setembro,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,1066401.0
+setembro,1.6.9.9.99.0.1.001,PRESTAÇÃO DE SERVIÇO PATRULHA AGRICOLA,866.38
+setembro,1.6.9.9.99.0.1.002,OUTROS SERVIÇOS,1671.5
+setembro,1.6.9.9.99.0.1.003,SERVIÇOS DE LIGAÇÃO DE AGUA,3.36
+setembro,1.6.9.9.99.0.1.004,SERVIÇOS DE LIGAÇÃO DE ESGOTOS,0.0
+setembro,1.6.9.9.99.0.1.005,SERVIÇOS DE RELIGAÇÃO DE AGUA,0.0
+setembro,1.6.9.9.99.0.1.007,MUDANÇA DE CAVALETE,37.92
+setembro,1.6.9.9.99.0.1.010,LIMPA FOSA,0.0
+setembro,1.6.9.9.99.0.1.011,AGUA POTAVEL PIPA,0.0
+setembro,1.6.9.9.99.0.1.012,LOCAÇÃO DE MAQUINAS E EQUIPAMENTOS,0.0
+setembro,1.6.9.9.99.0.1.013,AVISO CONTA VENCIDA,0.3
+setembro,1.6.9.9.99.0.1.015,POSTAGEM,0.0
+setembro,1.6.9.9.99.0.1.016,OUTROS SERVIÇOS,12.6
+setembro,1.6.9.9.99.0.1.017,OUTRAS RECEITAS,1254.67
+setembro,1.6.9.9.99.0.2.001,M/J PATRULHA AGRICOLA,0.0
+setembro,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,0.0
+setembro,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,170.68
+setembro,1.6.1.1.01.0.1.022,PARECER TECNICO AMBIENTAL,0.0
+setembro,1.6.1.1.01.0.1.021,AUTORIZAÇÃO DE CORTE DE ARVORE ISOLADA,740.4
+setembro,1.6.2.1.02.0.1.001,Serviços de Transporte de Passageiros ou Mercadori,52401.18
+setembro,1.6.1.1.01.0.1.020,CERTIFICADO DE DISPENSA DE LICENÇA CDL,259.14
+setembro,1.3.2.1.01.0.1.002,REC REM DEP BANC ROYALTIES,17.95
+setembro,1.3.2.1.01.0.1.004,REC REM DEP BANC MDE,629.22
+setembro,1.3.2.1.01.0.1.005,REC REM SERVIÇOS AÇÕES DE SAUDE,2244.7
+setembro,1.3.2.1.01.0.1.007,REC REM DEP BANC FNAS,12039.91
+setembro,1.3.2.1.01.0.1.008,REC REM OUT DEP REC VINCULADOS,1566.09
+setembro,1.3.2.1.01.0.1.010,REC REM DEP BANC CIDE,57.67
+setembro,1.3.2.1.01.0.1.014,REC REND DE BANC FUNDEB,39164.13
+setembro,1.3.2.1.01.0.1.019,REC REND SAUDE ESTADO,36762.62
+setembro,1.3.2.1.01.0.1.020,REC REND SAUDE FEDERAL,50056.0
+setembro,1.3.2.1.01.0.1.021,REC REND DUODECIMO CAMARA,0.0
+setembro,1.3.2.1.01.0.1.022,REC REM EDUCAÇÃO - ESTADUAL,4461.69
+setembro,1.3.2.1.01.0.1.023,REC REM EDUCAÇÃO - FEDERAL,41748.22
+setembro,1.3.2.1.01.0.1.018,RENDIMENTOS ESCOLA PROFISSIONAL,308.35
+setembro,1.3.2.1.01.0.1.025,REC REM ASS SOCIAL - FEDERAL,1551.73
+setembro,1.3.2.1.01.0.1.024,REC REM ASS SOCIAL - ESTADUAL,8025.22
+setembro,1.6.1.1.01.0.1.007,TARIFA ESGOTO REFERENTE POÇO,0.0
+setembro,9.6.1.1.01.0.1.006,DESCONTOS SOCIAIS ESGOTO,0.0
+setembro,1.6.1.1.01.0.1.006,TARIFS UTIL. ESGOTO SANITARIO,586.92
+setembro,1.6.1.1.01.0.1.018,TARIFAS DE DISPOSIÇÃO DE RESIDUOS CONSTR.CIVIL,20273.76
+setembro,1.6.1.1.01.0.1.005,TARIFAS DE CONSUMO DE AGUA,768.91
+setembro,9.6.1.1.01.0.1.005,DESCONTOS SOCIAIS - ÁGUA,0.0
+setembro,1.6.1.1.01.0.1.001,TARIFA DE MANIFESTAÇÃO DE ORGÃO AMBIENTAL,37.02
+setembro,1.3.3.9.99.0.1.002,OUTORGA VARIÁVEL,27968.62
+setembro,1.3.2.2.01.0.1.001,DIVIDENDOS,0.0
+setembro,1.3.2.1.04.0.1.000,Remuneração dos Recursos do Regime Próprio de Prev,24271.03
+setembro,1.6.1.1.01.0.1.004,VISTORIA DE SUPRESSÃO DE ARVORE EM CALÇADA,635.81
+outubro,9.6.1.1.01.0.1.005,DESCONTOS SOCIAIS - ÁGUA,0.0
+outubro,1.6.1.1.01.0.1.005,TARIFAS DE CONSUMO DE AGUA,507.38
+outubro,1.6.1.1.01.0.1.006,TARIFS UTIL. ESGOTO SANITARIO,395.56
+outubro,9.6.1.1.01.0.1.006,DESCONTOS SOCIAIS ESGOTO,0.0
+outubro,1.6.1.1.01.0.1.007,TARIFA ESGOTO REFERENTE POÇO,0.0
+outubro,1.6.1.1.01.0.1.018,TARIFAS DE DISPOSIÇÃO DE RESIDUOS CONSTR.CIVIL,27317.4
+outubro,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,618.09
+outubro,1.6.1.1.01.0.1.021,AUTORIZAÇÃO DE CORTE DE ARVORE ISOLADA,2258.22
+outubro,1.6.1.1.01.0.1.022,PARECER TECNICO AMBIENTAL,0.0
+outubro,1.6.1.1.01.0.1.023,CERTIDÃO NEGATIVA DE DEBITOS AMBIENTAIS,0.0
+outubro,1.6.1.1.01.0.1.004,VISTORIA DE SUPRESSÃO DE ARVORE EM CALÇADA,149.36
+outubro,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,110.0
+outubro,1.6.1.1.01.0.1.020,CERTIFICADO DE DISPENSA DE LICENÇA CDL,0.0
+outubro,1.6.1.1.01.0.1.001,TARIFA DE MANIFESTAÇÃO DE ORGÃO AMBIENTAL,0.0
+outubro,1.3.2.1.01.0.1.019,REC REND SAUDE ESTADO,37511.83
+outubro,1.3.6.1.01.1.1.001,Cessão do Direito de Operacionalização de Pagament,4564115.65
+outubro,1.3.3.9.99.0.1.002,OUTORGA VARIÁVEL,64966.86
+outubro,1.3.2.2.01.0.1.001,DIVIDENDOS,0.0
+outubro,1.3.2.1.04.0.1.000,Remuneração dos Recursos do Regime Próprio de Prev,32203.39
+outubro,1.3.2.1.01.0.1.025,REC REM ASS SOCIAL - FEDERAL,1471.31
+outubro,1.3.2.1.01.0.1.024,REC REM ASS SOCIAL - ESTADUAL,8696.93
+outubro,1.3.2.1.01.0.1.023,REC REM EDUCAÇÃO - FEDERAL,44944.18
+outubro,1.3.2.1.01.0.1.022,REC REM EDUCAÇÃO - ESTADUAL,3842.05
+outubro,1.3.2.1.01.0.1.021,REC REND DUODECIMO CAMARA,0.0
+outubro,1.3.2.1.01.0.1.020,REC REND SAUDE FEDERAL,51959.03
+outubro,1.3.2.1.01.0.1.018,RENDIMENTOS ESCOLA PROFISSIONAL,325.25
+outubro,1.3.2.1.01.0.1.014,REC REND DE BANC FUNDEB,42266.27
+outubro,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,0.0
+outubro,1.3.6.1.01.1.1.001,Cessão do Direito de Operacionalização de Pagament,1199384.35
+outubro,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,9197.66
+outubro,1.1.2.1.01.0.1.002,TX DE PUBLICIDADE COMERCIAL,1354.5
+outubro,1.6.1.1.01.0.3.002,TARIFA AMPLIAÇÃO DIVIDA RECONHECIDA,5106.27
+outubro,1.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,4271968.68
+outubro,1.3.2.1.01.0.1.010,REC REM DEP BANC CIDE,83.16
+outubro,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,688.78
+outubro,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,0.0
+outubro,1.6.9.9.99.0.4.001,M/J DIV ATIVA PATRULHA AGRICOLA,0.0
+outubro,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,3138.59
+outubro,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,0.0
+outubro,1.6.9.9.99.0.3.001,DIV ATIVA PATRULHA AGRICOLA,0.0
+outubro,1.1.1.2.50.0.1.001,IMPOSTOS S/PREDIAL URBANO,810404.6
+outubro,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,76.17
+outubro,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,0.0
+outubro,1.6.9.9.99.0.2.001,M/J PATRULHA AGRICOLA,0.0
+outubro,1.6.9.9.99.0.1.017,OUTRAS RECEITAS,1292.41
+outubro,1.6.9.9.99.0.1.016,OUTROS SERVIÇOS,12.4
+outubro,1.6.9.9.99.0.1.015,POSTAGEM,0.0
+outubro,1.6.9.9.99.0.1.013,AVISO CONTA VENCIDA,0.52
+outubro,1.6.9.9.99.0.1.012,LOCAÇÃO DE MAQUINAS E EQUIPAMENTOS,0.0
+outubro,1.6.9.9.99.0.1.011,AGUA POTAVEL PIPA,0.0
+outubro,1.6.9.9.99.0.1.010,LIMPA FOSA,0.0
+outubro,1.6.9.9.99.0.1.007,MUDANÇA DE CAVALETE,8.16
+outubro,1.6.9.9.99.0.1.005,SERVIÇOS DE RELIGAÇÃO DE AGUA,0.0
+outubro,1.6.9.9.99.0.1.004,SERVIÇOS DE LIGAÇÃO DE ESGOTOS,0.0
+outubro,1.6.9.9.99.0.1.003,SERVIÇOS DE LIGAÇÃO DE AGUA,3.36
+outubro,1.6.9.9.99.0.1.002,OUTROS SERVIÇOS,1163.12
+outubro,1.6.9.9.99.0.1.001,PRESTAÇÃO DE SERVIÇO PATRULHA AGRICOLA,1518.89
+outubro,1.6.2.1.02.0.1.001,Serviços de Transporte de Passageiros ou Mercadori,72528.53
+outubro,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,160.91
+outubro,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,0.0
+outubro,9.6.1.1.01.0.3.002,DESCONTOS SOCIAIS DIV ATIVA ESGOTO,0.0
+outubro,9.6.1.1.01.0.3.001,DESCONTOS SOCIAIS DIV ATIVA AGUA,0.0
+outubro,1.3.2.1.01.0.1.008,REC REM OUT DEP REC VINCULADOS,6345.86
+outubro,1.1.1.4.51.1.2.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,43688.45
+outubro,1.3.2.1.01.0.1.005,REC REM SERVIÇOS AÇÕES DE SAUDE,11675.84
+outubro,1.1.2.2.01.0.2.001,M/J TX PREST SERVIÇOS,332.3
+outubro,1.1.2.2.01.0.1.005,OUTRAS TAXAS PREST SERVIÇOS,0.0
+outubro,1.1.2.2.01.0.1.003,TAXA PROTEÇÃO DE ACIDENTES,53282.91
+outubro,1.1.2.2.01.0.1.002,REMOÇÃO LIXO DOMICILIAR,505834.6
+outubro,1.1.2.2.01.0.1.001,TAXA DE LIMPEZA IMOVEL URBANO,8477.83
+outubro,1.1.2.1.50.0.4.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,578.13
+outubro,1.1.2.1.50.0.3.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,34221.97
+outubro,1.1.2.1.50.0.2.000,Taxa de Fiscalização de Vigilância Sanitária - Mu,295.95
+outubro,1.1.2.1.50.0.1.000,Taxa de Fiscalização de Vigilância Sanitária - Pri,27247.95
+outubro,1.1.2.1.04.0.1.000,Taxa de Controle e Fiscalização Ambiental - Princi,4373.53
+outubro,1.1.2.1.01.0.4.000,M/J DIV ATIVA TX DE FISCALIZAÇÃO,2092.55
+outubro,1.1.2.1.01.0.3.000,DIV ATIVA TX FISCALIZAÇÃO,8843.62
+outubro,1.1.2.1.01.0.2.000,M/J TX FISCALIZAÇÃO,867.97
+outubro,1.1.2.2.01.0.2.003,M/J TX PROTEÇÃO DE ACIDENTES,281.74
+outubro,1.1.2.1.01.0.1.006,TX DE UTIL AREA DOM PUBLICO,607.06
+outubro,1.1.2.1.01.0.1.004,TX AUTORIZAÇÃO,0.0
+outubro,1.1.1.2.50.0.1.002,IMP. S/PROP. TERRITORIAL URBANA,513921.0
+outubro,1.1.1.2.50.0.2.001,IPTU M/J,7254.48
+outubro,1.1.1.2.50.0.3.001,IPTU DIV ATIVA,541724.76
+outubro,1.1.1.2.50.0.4.001,M/J DIV ATIVA IPTU,52646.76
+outubro,1.1.1.3.03.1.1.001,Imposto sobre a Renda - Retido na Fonte - Trabalho,864013.25
+outubro,1.1.1.3.03.4.1.000,Imposto sobre a Renda - Retido na Fonte - Outros R,352663.67
+outubro,1.1.2.1.01.0.1.003,TX DE FUNC DE ESTAB EM HOR ESPECIAL,1192.1
+outubro,1.1.1.4.51.1.1.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,4229690.02
+outubro,1.1.1.4.51.1.3.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,151789.85
+outubro,1.1.1.4.51.1.4.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,15892.08
+outubro,1.1.2.1.01.0.1.001,TX DE LIC FUNC E ESTAB COMERCIAL,27727.73
+outubro,9.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,-854393.71
+outubro,1.1.2.1.01.0.1.005,TX DE LICENÇA PARA EXECUÇÃO DE OBRAS,79900.66
+outubro,1.1.2.2.01.0.2.004,M/J REMOÇÃO LIXO,2963.63
+outubro,1.1.2.2.01.0.2.005,M/J OUT. TAXAS PREST SERVIÇOS,0.0
+outubro,1.1.2.2.01.0.3.001,DIV ATIVA TX PREST SERVIÇOS,2515.69
+outubro,1.3.2.1.01.0.1.004,REC REM DEP BANC MDE,667.69
+outubro,1.3.2.1.01.0.1.002,REC REM DEP BANC ROYALTIES,18.94
+outubro,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,1614.86
+outubro,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,1105795.65
+outubro,1.3.1.1.02.0.4.001,M/J D A CONCESSÃO DE ESPAÇO,0.0
+outubro,1.3.1.1.02.0.3.001,D A CONCESSÃO DE ESPAÇO,0.0
+outubro,1.3.1.1.02.0.2.001,M/J CONCESSÃO DE ESPAÇO,0.0
+outubro,1.3.1.1.01.1.4.001,M/J DIV ATIVA ALUGUEIS,0.0
+outubro,1.3.1.1.01.1.3.001,DIV ATIVA ALUGUEIS,0.0
+outubro,1.3.1.1.01.1.2.001,M/J ALUGUEIS,0.0
+outubro,1.3.1.1.01.1.1.001,ALUGUEIS,2181.42
+outubro,1.2.4.1.50.0.4.000,Contribuição para o Custeio do Serviço de Iluminaç,2202.88
+outubro,1.2.4.1.50.0.3.000,Contribuição para o Custeio do Serviço de Iluminaç,22400.64
+outubro,1.2.4.1.50.0.2.000,Contribuição para o Custeio do Serviço de Iluminaç,627.82
+outubro,1.2.4.1.50.0.1.000,Contribuição para o Custeio do Serviço de Iluminaç,483926.86
+outubro,1.2.1.5.01.3.1.003,CONTRIB.SERVIDOR CIVIL-PENSIONISTAS-INSTITUTO,1538.79
+outubro,1.2.1.5.01.2.1.003,CONTRIB.SERVIDOR CIVIL INATIVO-INSTITUTO,12386.29
+outubro,1.2.1.5.01.1.1.004,Contribuição do Servidor Civil Ativo - Instituto,1031.06
+outubro,1.2.1.5.01.1.1.002,Contribuição do Servidor Civil Ativo - Prefeitura,878328.77
+outubro,1.2.1.5.01.1.1.001,Contribuição do Servidor Civil Ativo - Câmara,16939.2
+outubro,1.1.2.2.01.0.4.005,M/J DA OUT. TAXAS PREST SERVIÇOS,0.0
+outubro,1.1.2.2.01.0.4.004,M/J DIV ATIVA REMOÇÃO LIXO,21091.88
+outubro,1.1.2.2.01.0.4.003,M/J DIV ATIVA TX PROT ACIDENTES,1541.84
+outubro,1.1.2.2.01.0.4.002,M/J DIV ATIVA TX INCENDIO,835.53
+outubro,1.1.2.2.01.0.4.001,M/J DIV ATIVA TX PREST SERVIÇOS,424.82
+outubro,1.1.2.2.01.0.3.005,DA OUT. TAXAS PREST SERVIÇOS,0.0
+outubro,1.1.2.2.01.0.3.004,DIV ATIVA REMOÇÃO LIXO,182233.46
+outubro,1.1.2.2.01.0.3.003,DIV ATIVA TX PROT ACIDENTES,18598.11
+outubro,1.1.2.2.01.0.3.002,DIV ATIVA TX INCENDIO,4302.48
+outubro,1.3.2.1.01.0.1.007,REC REM DEP BANC FNAS,13854.54
+outubro,1.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,2318824.71
+outubro,7.9.2.3.99.0.1.003,Outros Ressarcimentos - Câmara,6334.98
+outubro,1.7.1.2.51.0.1.000,Cota-parte da Compensação Financeira pela Exploraç,2535.52
+outubro,1.9.1.1.06.1.2.001,MULTAS ADMINISTRATIVAS POR DANOS AMBIENTAIS,0.0
+outubro,1.9.1.1.01.0.4.005,M/J DIV ATIVA VIOLAÇÃO DE LACRE,0.0
+outubro,1.9.1.1.01.0.4.001,M/J DIV ATIVA MULTAS,1286.0
+outubro,1.9.1.1.01.0.3.002,MULTA VIOLAÇÃO DE LACRE E OUTROS - DIVIDA ATIVA,0.0
+outubro,1.9.1.1.01.0.3.001,MULTAS DIV ATIVA INFRAÇÃO,45671.03
+outubro,1.9.1.1.01.0.2.004,MULTA/ JUROS VIOLAÇÃO DE LACRE,0.0
+outubro,1.9.1.1.01.0.2.003,MULTA POR VIOLAÇÃO DE LACRE E OUTROS,60.85
+outubro,1.9.1.1.01.0.2.002,M/J MULTAS,252.3
+outubro,1.9.1.1.01.0.2.001,MULTA POR ATO DE INFRAÇÃO,0.0
+outubro,1.9.1.1.01.0.1.002,SOM ALTO - MULTA AUTO DE INFRAÇÃO,0.0
+outubro,1.9.1.1.01.0.1.001,MULTA POR AUTO DE INFRAÇÃO,6926.7
+outubro,1.7.5.1.50.0.1.000,TRANSF FUNDO DE MANUTENÇÃO - FUNDEB,3649915.6
+outubro,1.7.4.1.99.0.1.002,DOAÇÕES FUNDO DO IDOSO,0.0
+outubro,1.9.1.1.09.0.1.001,MULTA PREVISTA EM CONTRATOS,0.0
+outubro,1.7.4.1.99.0.1.001,DOAÇÕES FUNDO CRIANÇA E ADOLESCENTE,0.0
+outubro,1.7.3.9.99.0.1.001,CASA ABRIGO ADOLESCENTE,15665.0
+outubro,1.7.2.9.99.0.1.005,OUTRAS TRANSFERENCIAS ESTADO - ASS SOCIAL,0.0
+outubro,1.7.2.9.99.0.1.001,OUTRAS TRANSF ESTADO EDUCAÇÃO,0.0
+outubro,1.7.2.9.51.0.1.023,SERV DE ACOLHIMENTO PARA IDOSOS,5000.0
+outubro,1.7.2.9.51.0.1.022,SERV ACOLHIMENTO CASA LAR,10000.0
+outubro,1.7.2.9.51.0.1.020,INSTITUTO O AMOR,9750.0
+outubro,1.7.2.9.51.0.1.019,CUST SERV VIG SOCIOASSIST,0.0
+outubro,1.7.2.9.51.0.1.018,VIG SOCIOASSISTENCIAL ESTADO,0.0
+outubro,1.7.2.9.51.0.1.016,PSE ALTA EXPANSÃO,0.0
+outubro,1.7.2.9.51.0.1.015,Serv. complementação alimentar à famílias em vul,0.0
+outubro,1.7.2.9.51.0.1.014,Serv. funerais destinados à famílias em vulnerabil,0.0
+outubro,9.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,-463764.93
+outubro,1.7.2.9.51.0.1.011,AÇÕES DE ENFRENTAMENTO À VIOLÊNCIA CONTRA MULHER,0.0
+outubro,1.7.3.9.99.0.1.002,CASA ABRIGO NOSSO LAR,15144.0
+outubro,1.9.1.1.09.0.2.001,MULTA PREVISTA EM CONTRATOS,0.0
+outubro,1.9.1.1.09.0.3.001,D A MULTA PREV. EM CONTRATOS,0.0
+outubro,1.9.1.1.09.0.4.001,Multas e Juros Previstos em Contratos - Dívida Ati,0.0
+outubro,7.9.2.3.99.0.1.002,Outros Ressarcimentos - Instituto,5164.89
+outubro,7.9.2.3.99.0.1.001,Outros Ressarcimentos - Daemo,0.0
+outubro,7.2.1.5.02.1.1.004,Contribuição Patronal-Serv. Civil Ativo-Instituto,1620.24
+outubro,7.2.1.5.02.1.1.002,Contribuição Patronal - Serv. Civil Ativo - Câmara,26618.75
+outubro,7.2.1.5.02.1.1.001,Contribuição Patronal-Serv. Civil Ativo-Prefeitura,1513120.12
+outubro,2.4.2.2.99.0.1.037,DADETUR - CENTRO CULTURAL,0.0
+outubro,2.4.2.2.99.0.1.034,AMPLIAÇÃO CRECHE DONA BENTA,0.0
+outubro,2.4.2.2.99.0.1.030,OUTRAS TRANSF. ESTADO - OBRAS,0.0
+outubro,2.4.2.2.99.0.1.017,Centro de Convivência,0.0
+outubro,2.4.2.2.99.0.1.009,CASA DA JUVENTUDE,395000.0
+outubro,2.4.2.2.50.0.1.003,UBS Qualivida,0.0
+outubro,7.9.9.9.01.0.1.002,AMORT. DEFICIT DIV ATIVA/MULTA JUROS INTRA,600.99
+outubro,7.9.9.9.01.0.1.001,APORTES PARA COBERTURA DE DEFICIT,40476.2
+outubro,2.4.1.9.99.0.1.012,OUTRAS TRANS. FEDERAL - OBRAS,0.0
+outubro,2.2.2.1.01.0.1.001,ALIENAÇÃO DE BENS IMOVEIS,1434679.3
+outubro,2.2.1.3.01.0.1.001,ALIENAÇÃO DE BENS MOVEIS,0.0
+outubro,1.9.9.9.12.2.1.001,Ônus de Sucumbência - Principal,1634.47
+outubro,1.9.9.9.03.0.1.000,Compensações Financeiras entre o Regime Geral e os,30618.49
+outubro,1.9.2.3.99.0.2.001,M/J CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,0.0
+outubro,1.9.2.3.99.0.1.001,CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,25836.05
+outubro,1.9.2.2.99.0.4.001,M/J DIV ATIVA OUTRAS RESTITUIÇÕES,0.0
+outubro,1.9.2.2.99.0.3.001,DIV ATIVA OUTRA RESTITUIÇÕES,0.0
+outubro,1.9.2.2.99.0.2.001,M/J OUTRAS RESTITUIÇÕES,0.0
+outubro,1.9.2.2.99.0.1.004,Restituições,0.0
+outubro,1.9.2.2.99.0.1.003,Restituições,0.0
+outubro,1.9.2.2.99.0.1.001,Outras Restituições - Principal,0.0
+outubro,1.9.2.2.99.0.1.001,Outras Restituições - Principal,763606.74
+outubro,1.9.2.1.99.0.1.001,Outras Indenizações - Principal,0.0
+outubro,1.9.1.1.14.0.1.001,OLIMPIA MULTAS DE TRANSITO,18931.9
+outubro,1.7.2.9.51.0.1.010,FRENTE FRIA,0.0
+outubro,1.7.2.9.51.0.1.009,Alta Complexidade - Abrigo São José,13750.0
+outubro,1.7.2.9.51.0.1.013,Serv. dest. nascimento/gestação de famílias em vul,0.0
+outubro,1.7.2.9.51.0.1.007,L.A. Serv Prot Social Adoles Liberdade Assist,8649.04
+outubro,1.7.2.9.51.0.1.008,Migrante,14640.33
+outubro,1.7.1.3.50.5.1.004,FMS PISO ENFERMAGEM,131702.5
+outubro,1.7.1.3.50.4.1.001,ASS FARMACEUTICA,24462.1
+outubro,1.7.1.3.50.3.1.004,FNS AIDS,9414.91
+outubro,1.7.1.3.50.3.1.003,AÇÕES DE VIGILANCIA SANITARIA,0.0
+outubro,1.7.1.3.50.3.1.002,COMBATE A ENDEMIAS,78936.0
+outubro,1.7.1.3.50.3.1.001,VIGILANCIA EM SAUDE,8939.48
+outubro,1.7.1.3.50.2.1.026,FAEC - NEFROLOGIA,349658.53
+outubro,1.7.1.3.50.2.1.025,FAEC - PRÉ-CIRÚRGICO EM CIRURGIAS PRIORITÁRIAS,622.16
+outubro,1.7.1.3.50.2.1.005,MAC SAMU,17062.5
+outubro,1.7.1.3.50.2.1.004,MAC MELHOR EM CASA,72800.0
+outubro,1.7.1.3.50.2.1.003,MAC MANUTENÇÃO,108105.82
+outubro,1.7.1.3.50.2.1.002,MAC SANTA CASA,416475.09
+outubro,1.7.1.4.50.0.1.000,SALARIO EDUCAÇÃO-QESE,274670.2
+outubro,1.7.1.3.50.2.1.001,MAC UPA,300000.0
+outubro,1.7.1.3.50.1.1.046,UBS -NOVO PAC SELEÇÕES,0.0
+outubro,1.7.1.3.50.1.1.045,PAB - IMPLEM. POLITICAS REDE ALYNE,0.0
+outubro,1.7.1.3.50.1.1.042,AGENTES COMUNITARIOS DE SAUDE,81972.0
+outubro,1.7.1.3.50.1.1.027,APS -INCENT FINANC COMP PER CAPITA BASE POPULACION,28114.25
+outubro,1.7.1.3.50.1.1.025,APS - INCENT. FINANC. EQUIPES MULTIPROFISSIONAIS,23500.0
+outubro,1.7.1.3.50.1.1.024,APS - INCENT. FINANC. MANUT PAG VALOR NOMINAL,0.0
+outubro,1.7.1.3.50.1.1.023,APS - INCENT. FINANC. ESF/EAP,240042.0
+outubro,1.7.1.3.50.1.1.022,APS -INCENTIVO COMPENSATORIO DE TRANSIÇÃO,27998.0
+outubro,1.7.1.3.50.1.1.014,IMPLEMENTAÇÃO DA SEG ALIMENTAR E NUTRICIONAL SAÚDE,20880.2
+outubro,1.7.1.3.50.1.1.009,MANUTENÇÃO ACADEMIA DA SAUDE,9000.0
+outubro,1.7.1.3.50.1.1.006,PAB SAUDE BUCAL,79373.49
+outubro,1.7.1.3.50.1.1.004,PAB AG COMUNITARIO SAUDE,0.0
+outubro,1.7.1.2.52.1.1.000,Cota-parte da Compensação Financeira pela Produção,270.48
+outubro,9.7.1.3.50.2.1.000,TRANSFERENCIAS MAC,-165301.74
+outubro,1.7.1.4.52.0.1.000,FNDE PNAE,0.0
+outubro,1.7.1.3.99.0.1.001,OUTRAS TRANSFERÊNCIAS UNIÃO - SAÚDE,0.0
+outubro,1.7.1.4.99.0.1.001,OUTRAS TRANSF UNIAO EDUCAÇÃO,0.0
+outubro,1.7.2.9.51.0.1.006,Centro Dia,12333.33
+outubro,1.7.2.9.51.0.1.005,PAEFI-Serv Prot Especializado a Fam e Individuo,6500.0
+outubro,1.7.2.9.51.0.1.004,Media Complexidade - APAE,8500.0
+outubro,1.7.2.9.51.0.1.003,SCFV-Serv Convivência e Fortalecimento de Vínculo,19665.99
+outubro,1.7.2.9.51.0.1.001,SADS Proteção Básica - Humanizar,3000.0
+outubro,1.7.2.4.99.0.1.014,OUTRAS TRANSFERENCIAS ESTADO - SAÚDE,0.0
+outubro,1.7.2.4.99.0.1.013,FMAS BENEFICIOS EVENTUAIS,0.0
+outubro,1.7.2.4.51.0.1.001,TRANSP ALUNOS ESTADUAL,339936.86
+outubro,1.7.2.4.50.0.1.022,SUS PAULISTA EXT DENGUE,0.0
+outubro,1.7.2.4.50.0.1.019,IGM - SUS,158109.45
+outubro,1.7.2.4.50.0.1.013,PAB TAB SUS PAULISTA,534824.07
+outubro,1.7.2.4.50.0.1.011,CIRURGIA ELETIVAS,0.0
+outubro,1.7.1.4.53.0.1.000,FNDE PNATE,0.0
+outubro,1.7.2.4.50.0.1.002,MEDICAMENTOS FURP,0.0
+outubro,1.7.2.4.50.0.1.001,GLICEMIA,7087.63
+outubro,1.7.1.7.52.0.1.021,PROCAD SUAS,0.0
+outubro,9.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,-10751.11
+outubro,1.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,53755.52
+outubro,9.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,-116747.66
+outubro,1.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,583738.13
+outubro,9.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,-1290136.19
+outubro,1.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,6450681.01
+outubro,1.7.1.7.99.0.1.001,OUTRAS TRASNF UNIAO ASS SOCIAL,0.0
+outubro,1.7.2.1.53.0.1.000,Cota-Parte da Contribuição de Intervenção no Domín,17102.2
+outubro,1.7.1.7.52.0.1.019,Bloco Proteção Social Especial,16831.5
+outubro,1.7.1.7.52.0.1.018,Bloco Proteção Social Básica,8951.88
+outubro,1.7.1.7.52.0.1.005,PROGRAMA PRIMEIRA INFANCIA NO SUAS- CRIANÇA FELIZ,0.0
+outubro,1.7.1.7.52.0.1.004,IGD-SUAS IND GEST DESC MUN SIST UNICO ASS SOCIAL,0.0
+outubro,1.7.1.7.52.0.1.003,IGD-BF IND GESTÃO DESC MUN PROG BOLSA FAMILIA,10324.81
+outubro,1.7.1.5.53.0.1.001,FUNDEB- Fomento a matrículas ETI,146979.98
+novembro,7.9.2.3.99.0.1.001,Outros Ressarcimentos - Daemo,0.0
+novembro,7.9.2.3.99.0.1.002,Outros Ressarcimentos - Instituto,5164.89
+novembro,7.2.1.5.02.1.1.004,Contribuição Patronal-Serv. Civil Ativo-Instituto,1782.14
+novembro,7.9.9.9.01.0.1.001,APORTES PARA COBERTURA DE DEFICIT,40476.2
+novembro,7.9.9.9.01.0.1.002,AMORT. DEFICIT DIV ATIVA/MULTA JUROS INTRA,441.55
+novembro,7.9.2.3.99.0.1.003,Outros Ressarcimentos - Câmara,6334.98
+novembro,7.2.1.5.02.1.1.002,Contribuição Patronal - Serv. Civil Ativo - Câmara,27261.96
+novembro,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,761.05
+novembro,2.4.2.2.99.0.1.037,DADETUR - CENTRO CULTURAL,0.0
+novembro,1.6.1.1.01.0.1.020,CERTIFICADO DE DISPENSA DE LICENÇA CDL,0.0
+novembro,1.6.1.1.01.0.1.018,TARIFAS DE DISPOSIÇÃO DE RESIDUOS CONSTR.CIVIL,21463.77
+novembro,1.6.1.1.01.0.1.007,TARIFA ESGOTO REFERENTE POÇO,0.0
+novembro,9.6.1.1.01.0.1.006,DESCONTOS SOCIAIS ESGOTO,0.0
+novembro,1.6.1.1.01.0.1.006,TARIFS UTIL. ESGOTO SANITARIO,446.71
+novembro,9.6.1.1.01.0.1.005,DESCONTOS SOCIAIS - ÁGUA,0.0
+novembro,1.6.1.1.01.0.1.005,TARIFAS DE CONSUMO DE AGUA,570.15
+novembro,1.6.1.1.01.0.1.004,VISTORIA DE SUPRESSÃO DE ARVORE EM CALÇADA,522.76
+novembro,1.6.1.1.01.0.1.001,TARIFA DE MANIFESTAÇÃO DE ORGÃO AMBIENTAL,0.0
+novembro,1.3.6.1.01.1.1.001,Cessão do Direito de Operacionalização de Pagament,0.0
+novembro,1.3.6.1.01.1.1.001,Cessão do Direito de Operacionalização de Pagament,0.0
+novembro,1.3.3.9.99.0.1.002,OUTORGA VARIÁVEL,35575.43
+novembro,1.3.2.2.01.0.1.001,DIVIDENDOS,0.0
+novembro,1.3.2.1.04.0.1.000,Remuneração dos Recursos do Regime Próprio de Prev,32587.55
+novembro,1.3.2.1.01.0.1.025,REC REM ASS SOCIAL - FEDERAL,909.1
+novembro,1.3.2.1.01.0.1.024,REC REM ASS SOCIAL - ESTADUAL,7305.42
+novembro,1.3.2.1.01.0.1.023,REC REM EDUCAÇÃO - FEDERAL,31535.17
+novembro,1.3.2.1.01.0.1.022,REC REM EDUCAÇÃO - ESTADUAL,3602.88
+novembro,1.3.2.1.01.0.1.021,REC REND DUODECIMO CAMARA,0.0
+novembro,1.3.2.1.01.0.1.020,REC REND SAUDE FEDERAL,24452.95
+novembro,1.3.2.1.01.0.1.019,REC REND SAUDE ESTADO,2024.16
+novembro,1.3.2.1.01.0.1.018,RENDIMENTOS ESCOLA PROFISSIONAL,271.42
+novembro,1.3.2.1.01.0.1.014,REC REND DE BANC FUNDEB,29331.27
+novembro,1.3.2.1.01.0.1.010,REC REM DEP BANC CIDE,51.5
+novembro,1.3.2.1.01.0.1.008,REC REM OUT DEP REC VINCULADOS,1791.79
+novembro,1.3.2.1.01.0.1.007,REC REM DEP BANC FNAS,11607.67
+novembro,1.3.2.1.01.0.1.005,REC REM SERVIÇOS AÇÕES DE SAUDE,4200.56
+novembro,1.6.1.1.01.0.1.021,AUTORIZAÇÃO DE CORTE DE ARVORE ISOLADA,740.4
+novembro,1.6.1.1.01.0.1.022,PARECER TECNICO AMBIENTAL,0.0
+novembro,1.6.1.1.01.0.1.023,CERTIDÃO NEGATIVA DE DEBITOS AMBIENTAIS,0.0
+novembro,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,318.84
+novembro,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,4882.33
+novembro,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,0.0
+novembro,1.6.9.9.99.0.3.001,DIV ATIVA PATRULHA AGRICOLA,0.0
+novembro,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,26.63
+novembro,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,0.0
+novembro,1.6.9.9.99.0.2.001,M/J PATRULHA AGRICOLA,2.87
+novembro,1.6.9.9.99.0.1.017,OUTRAS RECEITAS,2088.75
+novembro,1.6.9.9.99.0.1.016,OUTROS SERVIÇOS,6.48
+novembro,1.6.9.9.99.0.1.015,POSTAGEM,0.0
+novembro,1.6.9.9.99.0.1.013,AVISO CONTA VENCIDA,0.52
+novembro,1.6.9.9.99.0.1.012,LOCAÇÃO DE MAQUINAS E EQUIPAMENTOS,0.0
+novembro,1.6.9.9.99.0.1.011,AGUA POTAVEL PIPA,0.0
+novembro,1.6.9.9.99.0.1.010,LIMPA FOSA,0.0
+novembro,1.3.2.1.01.0.1.004,REC REM DEP BANC MDE,736.31
+novembro,1.6.9.9.99.0.1.007,MUDANÇA DE CAVALETE,0.0
+novembro,1.6.9.9.99.0.1.004,SERVIÇOS DE LIGAÇÃO DE ESGOTOS,0.0
+novembro,1.6.9.9.99.0.1.003,SERVIÇOS DE LIGAÇÃO DE AGUA,269.92
+novembro,1.6.9.9.99.0.1.002,OUTROS SERVIÇOS,1564.43
+novembro,1.6.9.9.99.0.1.001,PRESTAÇÃO DE SERVIÇO PATRULHA AGRICOLA,4440.48
+novembro,1.6.2.1.02.0.1.001,Serviços de Transporte de Passageiros ou Mercadori,69678.78
+novembro,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,77.1
+novembro,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,0.0
+novembro,9.6.1.1.01.0.3.002,DESCONTOS SOCIAIS DIV ATIVA ESGOTO,0.0
+novembro,1.6.1.1.01.0.3.002,TARIFA AMPLIAÇÃO DIVIDA RECONHECIDA,5106.27
+novembro,9.6.1.1.01.0.3.001,DESCONTOS SOCIAIS DIV ATIVA AGUA,0.0
+novembro,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,5457.79
+novembro,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,38.95
+novembro,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,30.35
+novembro,1.6.9.9.99.0.1.005,SERVIÇOS DE RELIGAÇÃO DE AGUA,0.0
+novembro,1.6.9.9.99.0.4.001,M/J DIV ATIVA PATRULHA AGRICOLA,0.0
+novembro,1.3.2.1.01.0.1.002,REC REM DEP BANC ROYALTIES,15.81
+novembro,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,900161.92
+novembro,1.1.2.2.01.0.1.001,TAXA DE LIMPEZA IMOVEL URBANO,1299.64
+novembro,1.1.2.1.50.0.4.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,600.97
+novembro,1.1.2.1.50.0.3.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,1934.16
+novembro,1.1.2.1.50.0.2.000,Taxa de Fiscalização de Vigilância Sanitária - Mu,173.4
+novembro,1.1.2.1.50.0.1.000,Taxa de Fiscalização de Vigilância Sanitária - Pri,16625.37
+novembro,1.1.2.1.04.0.1.000,Taxa de Controle e Fiscalização Ambiental - Princi,4137.71
+novembro,1.1.2.1.01.0.4.000,M/J DIV ATIVA TX DE FISCALIZAÇÃO,1326.47
+novembro,1.1.2.1.01.0.3.000,DIV ATIVA TX FISCALIZAÇÃO,10649.64
+novembro,1.1.2.1.01.0.2.000,M/J TX FISCALIZAÇÃO,1655.7
+novembro,1.1.2.1.01.0.1.006,TX DE UTIL AREA DOM PUBLICO,128.14
+novembro,1.1.2.1.01.0.1.005,TX DE LICENÇA PARA EXECUÇÃO DE OBRAS,81975.36
+novembro,1.1.2.1.01.0.1.004,TX AUTORIZAÇÃO,0.0
+novembro,1.1.2.1.01.0.1.003,TX DE FUNC DE ESTAB EM HOR ESPECIAL,-42.86
+novembro,1.1.2.1.01.0.1.002,TX DE PUBLICIDADE COMERCIAL,1813.36
+novembro,1.1.2.1.01.0.1.001,TX DE LIC FUNC E ESTAB COMERCIAL,57412.38
+novembro,1.1.1.4.51.1.4.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,9508.31
+novembro,1.1.1.4.51.1.3.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,61809.99
+novembro,1.1.1.4.51.1.2.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,26047.48
+novembro,1.1.1.4.51.1.1.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,4676530.16
+novembro,1.1.1.3.03.4.1.000,Imposto sobre a Renda - Retido na Fonte - Outros R,179959.9
+novembro,1.1.1.3.03.1.1.001,Imposto sobre a Renda - Retido na Fonte - Trabalho,849409.5
+novembro,1.1.1.2.50.0.4.001,M/J DIV ATIVA IPTU,113603.79
+novembro,1.1.1.2.50.0.3.001,IPTU DIV ATIVA,504383.95
+novembro,1.1.1.2.50.0.2.001,IPTU M/J,10531.06
+novembro,1.1.1.2.50.0.1.002,IMP. S/PROP. TERRITORIAL URBANA,538836.75
+novembro,1.1.1.2.50.0.1.001,IMPOSTOS S/PREDIAL URBANO,789077.99
+novembro,7.2.1.5.02.1.1.001,Contribuição Patronal-Serv. Civil Ativo-Prefeitura,1509259.97
+novembro,1.1.2.2.01.0.1.002,REMOÇÃO LIXO DOMICILIAR,492345.24
+novembro,1.1.2.2.01.0.1.003,TAXA PROTEÇÃO DE ACIDENTES,53098.97
+novembro,1.1.2.2.01.0.1.005,OUTRAS TAXAS PREST SERVIÇOS,0.0
+novembro,1.1.2.2.01.0.2.001,M/J TX PREST SERVIÇOS,113.61
+novembro,1.3.1.1.02.0.3.001,D A CONCESSÃO DE ESPAÇO,0.0
+novembro,1.3.1.1.02.0.2.001,M/J CONCESSÃO DE ESPAÇO,0.0
+novembro,1.3.1.1.01.1.4.001,M/J DIV ATIVA ALUGUEIS,0.0
+novembro,1.3.1.1.01.1.3.001,DIV ATIVA ALUGUEIS,0.0
+novembro,1.3.1.1.01.1.2.001,M/J ALUGUEIS,0.0
+novembro,1.3.1.1.01.1.1.001,ALUGUEIS,540.1
+novembro,1.2.4.1.50.0.4.000,Contribuição para o Custeio do Serviço de Iluminaç,3215.06
+novembro,1.2.4.1.50.0.3.000,Contribuição para o Custeio do Serviço de Iluminaç,23147.03
+novembro,1.2.4.1.50.0.2.000,Contribuição para o Custeio do Serviço de Iluminaç,718.57
+novembro,1.2.4.1.50.0.1.000,Contribuição para o Custeio do Serviço de Iluminaç,526060.0
+novembro,1.2.1.5.01.3.1.003,CONTRIB.SERVIDOR CIVIL-PENSIONISTAS-INSTITUTO,1538.79
+novembro,1.2.1.5.01.2.1.003,CONTRIB.SERVIDOR CIVIL INATIVO-INSTITUTO,12386.29
+novembro,1.2.1.5.01.1.1.004,Contribuição do Servidor Civil Ativo - Instituto,1134.09
+novembro,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,1989.48
+novembro,1.2.1.5.01.1.1.002,Contribuição do Servidor Civil Ativo - Prefeitura,875950.09
+novembro,1.1.2.2.01.0.4.005,M/J DA OUT. TAXAS PREST SERVIÇOS,0.0
+novembro,1.1.2.2.01.0.4.004,M/J DIV ATIVA REMOÇÃO LIXO,16361.46
+novembro,1.1.2.2.01.0.4.003,M/J DIV ATIVA TX PROT ACIDENTES,1786.3
+novembro,1.1.2.2.01.0.4.002,M/J DIV ATIVA TX INCENDIO,20933.34
+novembro,1.1.2.2.01.0.4.001,M/J DIV ATIVA TX PREST SERVIÇOS,218.5
+novembro,1.1.2.2.01.0.3.005,DA OUT. TAXAS PREST SERVIÇOS,0.0
+novembro,1.1.2.2.01.0.3.004,DIV ATIVA REMOÇÃO LIXO,135536.63
+novembro,1.1.2.2.01.0.3.003,DIV ATIVA TX PROT ACIDENTES,17956.06
+novembro,1.1.2.2.01.0.3.002,DIV ATIVA TX INCENDIO,23114.1
+novembro,1.1.2.2.01.0.3.001,DIV ATIVA TX PREST SERVIÇOS,1383.6
+novembro,1.1.2.2.01.0.2.005,M/J OUT. TAXAS PREST SERVIÇOS,0.0
+novembro,1.1.2.2.01.0.2.004,M/J REMOÇÃO LIXO,3856.52
+novembro,1.1.2.2.01.0.2.003,M/J TX PROTEÇÃO DE ACIDENTES,394.16
+novembro,1.2.1.5.01.1.1.001,Contribuição do Servidor Civil Ativo - Câmara,17348.52
+novembro,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,0.0
+novembro,1.3.1.1.02.0.4.001,M/J D A CONCESSÃO DE ESPAÇO,0.0
+novembro,9.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,-1161411.33
+novembro,1.9.1.1.01.0.2.003,MULTA POR VIOLAÇÃO DE LACRE E OUTROS,60.85
+novembro,1.9.1.1.01.0.2.002,M/J MULTAS,101.08
+novembro,1.9.1.1.01.0.2.001,MULTA POR ATO DE INFRAÇÃO,0.0
+novembro,1.9.1.1.01.0.1.002,SOM ALTO - MULTA AUTO DE INFRAÇÃO,0.0
+novembro,1.9.1.1.01.0.1.001,MULTA POR AUTO DE INFRAÇÃO,7482.33
+novembro,1.7.5.1.50.0.1.000,TRANSF FUNDO DE MANUTENÇÃO - FUNDEB,3471242.64
+novembro,1.7.4.1.99.0.1.002,DOAÇÕES FUNDO DO IDOSO,0.0
+novembro,1.7.4.1.99.0.1.001,DOAÇÕES FUNDO CRIANÇA E ADOLESCENTE,0.0
+novembro,1.7.3.9.99.0.1.002,CASA ABRIGO NOSSO LAR,3000.0
+novembro,1.7.3.9.99.0.1.001,CASA ABRIGO ADOLESCENTE,4333.0
+novembro,1.7.2.9.99.0.1.005,OUTRAS TRANSFERENCIAS ESTADO - ASS SOCIAL,0.0
+novembro,1.7.2.9.99.0.1.001,OUTRAS TRANSF ESTADO EDUCAÇÃO,0.0
+novembro,1.7.2.9.51.0.1.023,SERV DE ACOLHIMENTO PARA IDOSOS,5000.0
+novembro,1.7.2.9.51.0.1.022,SERV ACOLHIMENTO CASA LAR,10000.0
+novembro,1.7.2.9.51.0.1.020,INSTITUTO O AMOR,9750.0
+novembro,1.7.2.9.51.0.1.019,CUST SERV VIG SOCIOASSIST,0.0
+novembro,1.7.2.9.51.0.1.018,VIG SOCIOASSISTENCIAL ESTADO,8400.0
+novembro,1.7.2.9.51.0.1.016,PSE ALTA EXPANSÃO,0.0
+novembro,1.7.2.9.51.0.1.015,Serv. complementação alimentar à famílias em vul,0.0
+novembro,1.7.2.9.51.0.1.014,Serv. funerais destinados à famílias em vulnerabil,0.0
+novembro,1.7.2.9.51.0.1.013,Serv. dest. nascimento/gestação de famílias em vul,0.0
+novembro,1.7.2.9.51.0.1.011,AÇÕES DE ENFRENTAMENTO À VIOLÊNCIA CONTRA MULHER,0.0
+novembro,1.7.2.9.51.0.1.010,FRENTE FRIA,0.0
+novembro,1.7.2.9.51.0.1.009,Alta Complexidade - Abrigo São José,13750.0
+novembro,1.7.2.9.51.0.1.008,Migrante,14640.33
+novembro,1.7.2.9.51.0.1.007,L.A. Serv Prot Social Adoles Liberdade Assist,8649.04
+novembro,1.7.2.9.51.0.1.006,Centro Dia,12333.33
+novembro,1.9.1.1.01.0.2.004,MULTA/ JUROS VIOLAÇÃO DE LACRE,0.0
+novembro,1.9.1.1.01.0.3.001,MULTAS DIV ATIVA INFRAÇÃO,1676.22
+novembro,1.9.1.1.01.0.4.001,M/J DIV ATIVA MULTAS,390.8
+novembro,1.9.1.1.01.0.4.005,M/J DIV ATIVA VIOLAÇÃO DE LACRE,22.62
+novembro,2.4.2.2.99.0.1.034,AMPLIAÇÃO CRECHE DONA BENTA,0.0
+novembro,1.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,5807056.75
+novembro,2.4.2.2.99.0.1.030,OUTRAS TRANSF. ESTADO - OBRAS,0.0
+novembro,2.4.2.2.99.0.1.017,Centro de Convivência,0.0
+novembro,2.4.2.2.99.0.1.009,CASA DA JUVENTUDE,0.0
+novembro,2.4.2.2.50.0.1.003,UBS Qualivida,0.0
+novembro,2.4.1.9.99.0.1.012,OUTRAS TRANS. FEDERAL - OBRAS,0.0
+novembro,2.2.2.1.01.0.1.001,ALIENAÇÃO DE BENS IMOVEIS,1434679.3
+novembro,2.2.1.3.01.0.1.001,ALIENAÇÃO DE BENS MOVEIS,0.0
+novembro,1.9.9.9.99.2.1.001,Outras Receitas Não Arrecadadas e Não Projetadas p,41.68
+novembro,1.9.9.9.12.2.1.001,Ônus de Sucumbência - Principal,2401.89
+novembro,1.9.9.9.03.0.1.000,Compensações Financeiras entre o Regime Geral e os,44535.48
+novembro,1.9.2.3.99.0.2.001,M/J CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,0.0
+novembro,1.7.2.9.51.0.1.005,PAEFI-Serv Prot Especializado a Fam e Individuo,6500.0
+novembro,1.9.2.3.99.0.1.001,CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,0.0
+novembro,1.9.2.2.99.0.3.001,DIV ATIVA OUTRA RESTITUIÇÕES,0.0
+novembro,1.9.2.2.99.0.2.001,M/J OUTRAS RESTITUIÇÕES,0.0
+novembro,1.9.2.2.99.0.1.004,Restituições,0.0
+novembro,1.9.2.2.99.0.1.003,Restituições,0.0
+novembro,1.9.2.2.99.0.1.001,Outras Restituições - Principal,0.0
+novembro,1.9.2.2.99.0.1.001,Outras Restituições - Principal,1562.18
+novembro,1.9.2.1.99.0.1.001,Outras Indenizações - Principal,0.0
+novembro,1.9.1.1.14.0.1.001,OLIMPIA MULTAS DE TRANSITO,20010.18
+novembro,1.9.1.1.09.0.4.001,Multas e Juros Previstos em Contratos - Dívida Ati,0.0
+novembro,1.9.1.1.09.0.3.001,D A MULTA PREV. EM CONTRATOS,0.0
+novembro,1.9.1.1.09.0.2.001,MULTA PREVISTA EM CONTRATOS,0.0
+novembro,1.9.1.1.09.0.1.001,MULTA PREVISTA EM CONTRATOS,0.0
+novembro,1.9.1.1.06.1.2.001,MULTAS ADMINISTRATIVAS POR DANOS AMBIENTAIS,0.0
+novembro,1.9.2.2.99.0.4.001,M/J DIV ATIVA OUTRAS RESTITUIÇÕES,0.0
+novembro,1.7.2.9.51.0.1.004,Media Complexidade - APAE,8500.0
+novembro,1.9.1.1.01.0.3.002,MULTA VIOLAÇÃO DE LACRE E OUTROS - DIVIDA ATIVA,0.0
+novembro,1.7.2.9.51.0.1.001,SADS Proteção Básica - Humanizar,3000.0
+novembro,1.7.1.3.50.3.1.004,FNS AIDS,9414.91
+novembro,1.7.1.3.50.3.1.003,AÇÕES DE VIGILANCIA SANITARIA,2836.0
+novembro,1.7.1.3.50.3.1.002,COMBATE A ENDEMIAS,78936.0
+novembro,1.7.1.3.50.3.1.001,VIGILANCIA EM SAUDE,8939.48
+novembro,1.7.1.3.50.2.1.026,FAEC - NEFROLOGIA,167458.08
+novembro,1.7.1.3.50.2.1.025,FAEC - PRÉ-CIRÚRGICO EM CIRURGIAS PRIORITÁRIAS,113.12
+novembro,1.7.1.3.50.2.1.005,MAC SAMU,0.0
+novembro,1.7.1.3.50.2.1.004,MAC MELHOR EM CASA,72800.0
+novembro,1.7.1.3.50.2.1.003,MAC MANUTENÇÃO,108105.82
+novembro,1.7.1.3.50.2.1.002,MAC SANTA CASA,416475.09
+novembro,1.7.1.3.50.2.1.001,MAC UPA,300000.0
+novembro,1.7.1.3.50.1.1.046,UBS -NOVO PAC SELEÇÕES,0.0
+novembro,1.7.1.3.50.1.1.045,PAB - IMPLEM. POLITICAS REDE ALYNE,0.0
+novembro,1.7.1.3.50.4.1.001,ASS FARMACEUTICA,30462.1
+novembro,1.7.1.3.50.1.1.042,AGENTES COMUNITARIOS DE SAUDE,88044.0
+novembro,1.7.1.3.50.1.1.025,APS - INCENT. FINANC. EQUIPES MULTIPROFISSIONAIS,28500.0
+novembro,1.7.1.3.50.1.1.024,APS - INCENT. FINANC. MANUT PAG VALOR NOMINAL,0.0
+novembro,1.7.1.3.50.1.1.023,APS - INCENT. FINANC. ESF/EAP,236142.0
+novembro,1.7.1.3.50.1.1.022,APS -INCENTIVO COMPENSATORIO DE TRANSIÇÃO,27998.0
+novembro,1.7.1.3.50.1.1.014,IMPLEMENTAÇÃO DA SEG ALIMENTAR E NUTRICIONAL SAÚDE,0.0
+novembro,1.7.1.3.50.1.1.009,MANUTENÇÃO ACADEMIA DA SAUDE,9000.0
+novembro,1.7.1.3.50.1.1.006,PAB SAUDE BUCAL,79373.49
+novembro,1.7.1.3.50.1.1.004,PAB AG COMUNITARIO SAUDE,0.0
+novembro,1.7.1.2.52.1.1.000,Cota-parte da Compensação Financeira pela Produção,11015.45
+novembro,1.7.1.2.51.0.1.000,Cota-parte da Compensação Financeira pela Exploraç,11005.7
+novembro,1.7.2.9.51.0.1.003,SCFV-Serv Convivência e Fortalecimento de Vínculo,20492.03
+novembro,9.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,-29284.84
+novembro,1.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,146424.28
+novembro,1.7.1.3.50.1.1.027,APS -INCENT FINANC COMP PER CAPITA BASE POPULACION,28114.25
+novembro,1.7.1.3.50.5.1.004,FMS PISO ENFERMAGEM,132788.48
+novembro,9.7.1.3.50.2.1.000,TRANSFERENCIAS MAC,-165301.74
+novembro,1.7.1.3.99.0.1.001,OUTRAS TRANSFERÊNCIAS UNIÃO - SAÚDE,0.0
+novembro,1.7.2.4.99.0.1.014,OUTRAS TRANSFERENCIAS ESTADO - SAÚDE,0.0
+novembro,1.7.2.4.99.0.1.013,FMAS BENEFICIOS EVENTUAIS,0.0
+novembro,1.7.2.4.51.0.1.001,TRANSP ALUNOS ESTADUAL,339936.86
+novembro,1.7.2.4.50.0.1.022,SUS PAULISTA EXT DENGUE,0.0
+novembro,1.7.2.4.50.0.1.019,IGM - SUS,0.0
+novembro,1.7.2.4.50.0.1.013,PAB TAB SUS PAULISTA,534824.07
+novembro,1.7.2.4.50.0.1.011,CIRURGIA ELETIVAS,0.0
+novembro,1.7.2.4.50.0.1.002,MEDICAMENTOS FURP,0.0
+novembro,1.7.2.1.53.0.1.000,Cota-Parte da Contribuição de Intervenção no Domín,0.0
+novembro,9.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,-9894.49
+novembro,1.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,49472.46
+novembro,9.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,-97249.48
+novembro,1.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,486247.48
+novembro,9.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,-1188622.7
+novembro,1.7.2.4.50.0.1.001,GLICEMIA,0.0
+novembro,1.7.1.5.53.0.1.001,FUNDEB- Fomento a matrículas ETI,73489.99
+novembro,1.7.1.7.99.0.1.001,OUTRAS TRASNF UNIAO ASS SOCIAL,0.0
+novembro,1.7.1.7.52.0.1.021,PROCAD SUAS,0.0
+novembro,1.7.1.7.52.0.1.019,Bloco Proteção Social Especial,16831.5
+novembro,1.7.1.7.52.0.1.018,Bloco Proteção Social Básica,8412.0
+novembro,1.7.1.4.50.0.1.000,SALARIO EDUCAÇÃO-QESE,260381.86
+novembro,1.7.1.7.52.0.1.005,PROGRAMA PRIMEIRA INFANCIA NO SUAS- CRIANÇA FELIZ,2622.0
+novembro,1.7.1.7.52.0.1.004,IGD-SUAS IND GEST DESC MUN SIST UNICO ASS SOCIAL,0.0
+novembro,1.7.1.7.52.0.1.003,IGD-BF IND GESTÃO DESC MUN PROG BOLSA FAMILIA,9780.63
+novembro,1.7.1.4.99.0.1.001,OUTRAS TRANSF UNIAO EDUCAÇÃO,0.0
+novembro,1.7.1.4.53.0.1.000,FNDE PNATE,0.0
+novembro,1.7.1.4.52.0.1.000,FNDE PNAE,0.0
+novembro,1.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,5943113.55
+dezembro,1.7.2.4.50.0.1.001,GLICEMIA,0.0
+dezembro,1.7.1.7.52.0.1.021,PROCAD SUAS,0.0
+dezembro,1.7.2.1.53.0.1.000,Cota-Parte da Contribuição de Intervenção no Domín,0.0
+dezembro,1.7.2.4.50.0.1.011,CIRURGIA ELETIVAS,0.0
+dezembro,1.7.2.4.50.0.1.002,MEDICAMENTOS FURP,0.0
+dezembro,9.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,-11365.65
+dezembro,1.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,9316936.27
+dezembro,9.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,-156122.82
+dezembro,1.7.2.1.51.0.1.000,Cota-Parte do IPVA - Principal,780685.71
+dezembro,9.7.2.1.50.0.1.000,Cota-Parte do ICMS - Principal,-1863387.23
+dezembro,1.7.1.7.99.0.1.001,OUTRAS TRASNF UNIAO ASS SOCIAL,0.0
+dezembro,1.7.2.4.50.0.1.013,PAB TAB SUS PAULISTA,511638.32
+dezembro,1.7.2.1.52.0.1.000,Cota-Parte do IPI - Municípios - Principal,56828.25
+dezembro,1.7.2.4.50.0.1.019,IGM - SUS,160744.61
+dezembro,1.7.2.9.51.0.1.009,Alta Complexidade - Abrigo São José,13750.0
+dezembro,1.7.2.4.51.0.1.001,TRANSP ALUNOS ESTADUAL,339936.86
+dezembro,1.7.2.4.99.0.1.013,FMAS BENEFICIOS EVENTUAIS,0.0
+dezembro,1.7.2.4.99.0.1.014,OUTRAS TRANSFERENCIAS ESTADO - SAÚDE,0.0
+dezembro,1.7.2.9.51.0.1.001,SADS Proteção Básica - Humanizar,3000.0
+dezembro,1.7.2.9.51.0.1.003,SCFV-Serv Convivência e Fortalecimento de Vínculo,43143.19
+dezembro,1.7.2.9.51.0.1.004,Media Complexidade - APAE,8500.0
+dezembro,1.7.2.9.51.0.1.013,Serv. dest. nascimento/gestação de famílias em vul,0.0
+dezembro,1.7.2.9.51.0.1.005,PAEFI-Serv Prot Especializado a Fam e Individuo,6500.0
+dezembro,1.7.2.9.51.0.1.006,Centro Dia,12333.33
+dezembro,1.7.2.9.51.0.1.007,L.A. Serv Prot Social Adoles Liberdade Assist,8649.06
+dezembro,1.7.2.9.51.0.1.008,Migrante,14640.33
+dezembro,1.7.2.9.51.0.1.011,AÇÕES DE ENFRENTAMENTO À VIOLÊNCIA CONTRA MULHER,0.0
+dezembro,1.7.2.9.51.0.1.010,FRENTE FRIA,0.0
+dezembro,1.7.1.7.52.0.1.019,Bloco Proteção Social Especial,49523.49
+dezembro,1.7.2.4.50.0.1.022,SUS PAULISTA EXT DENGUE,138692.5
+dezembro,1.7.1.7.52.0.1.018,Bloco Proteção Social Básica,26363.0
+dezembro,1.7.1.3.50.1.1.024,APS - INCENT. FINANC. MANUT PAG VALOR NOMINAL,0.0
+dezembro,1.7.1.7.52.0.1.004,IGD-SUAS IND GEST DESC MUN SIST UNICO ASS SOCIAL,0.0
+dezembro,1.7.1.3.50.1.1.014,IMPLEMENTAÇÃO DA SEG ALIMENTAR E NUTRICIONAL SAÚDE,10920.34
+dezembro,1.7.2.9.51.0.1.014,Serv. funerais destinados à famílias em vulnerabil,0.0
+dezembro,1.7.1.3.50.1.1.022,APS -INCENTIVO COMPENSATORIO DE TRANSIÇÃO,27998.0
+dezembro,1.7.1.3.50.1.1.023,APS - INCENT. FINANC. ESF/EAP,254100.0
+dezembro,1.7.1.3.50.1.1.025,APS - INCENT. FINANC. EQUIPES MULTIPROFISSIONAIS,28500.0
+dezembro,1.7.1.3.50.1.1.027,APS -INCENT FINANC COMP PER CAPITA BASE POPULACION,28114.25
+dezembro,1.7.1.3.50.1.1.042,AGENTES COMUNITARIOS DE SAUDE,170016.0
+dezembro,1.7.1.3.50.1.1.045,PAB - IMPLEM. POLITICAS REDE ALYNE,0.0
+dezembro,1.7.1.3.50.1.1.046,UBS -NOVO PAC SELEÇÕES,0.0
+dezembro,9.7.1.3.50.2.1.000,TRANSFERENCIAS MAC,-190198.23
+dezembro,1.7.1.3.50.2.1.001,MAC UPA,300000.0
+dezembro,1.7.1.3.50.2.1.002,MAC SANTA CASA,416475.09
+dezembro,1.7.1.3.50.2.1.003,MAC MANUTENÇÃO,100305.82
+dezembro,1.7.1.3.50.2.1.004,MAC MELHOR EM CASA,72800.0
+dezembro,1.7.1.7.52.0.1.005,PROGRAMA PRIMEIRA INFANCIA NO SUAS- CRIANÇA FELIZ,47004.0
+dezembro,1.7.1.3.50.2.1.005,MAC SAMU,34125.0
+dezembro,1.7.1.3.50.2.1.026,FAEC - NEFROLOGIA,173804.68
+dezembro,1.7.1.3.50.3.1.001,VIGILANCIA EM SAUDE,30394.25
+dezembro,1.7.1.3.50.3.1.002,COMBATE A ENDEMIAS,176088.0
+dezembro,1.7.1.3.50.3.1.003,AÇÕES DE VIGILANCIA SANITARIA,2836.0
+dezembro,1.7.1.3.50.3.1.004,FNS AIDS,18829.82
+dezembro,1.7.1.3.50.4.1.001,ASS FARMACEUTICA,24462.1
+dezembro,1.7.1.3.50.5.1.004,FMS PISO ENFERMAGEM,393477.04
+dezembro,1.7.1.3.99.0.1.001,OUTRAS TRANSFERÊNCIAS UNIÃO - SAÚDE,0.0
+dezembro,1.7.1.4.50.0.1.000,SALARIO EDUCAÇÃO-QESE,257756.99
+dezembro,1.7.1.4.52.0.1.000,FNDE PNAE,51409.25
+dezembro,1.7.1.4.53.0.1.000,FNDE PNATE,0.0
+dezembro,1.7.1.4.99.0.1.001,OUTRAS TRANSF UNIAO EDUCAÇÃO,0.0
+dezembro,1.7.1.5.53.0.1.001,FUNDEB- Fomento a matrículas ETI,73489.99
+dezembro,1.7.1.7.52.0.1.003,IGD-BF IND GESTÃO DESC MUN PROG BOLSA FAMILIA,12005.97
+dezembro,1.7.1.3.50.2.1.025,FAEC - PRÉ-CIRÚRGICO EM CIRURGIAS PRIORITÁRIAS,169.68
+dezembro,1.7.2.9.51.0.1.015,Serv. complementação alimentar à famílias em vul,0.0
+dezembro,7.2.1.5.02.1.1.010,Cont. Patr. Suplementar- Ativos RPPS,5806.46
+dezembro,1.7.2.9.51.0.1.018,VIG SOCIOASSISTENCIAL ESTADO,0.0
+dezembro,1.9.2.2.99.0.2.001,M/J OUTRAS RESTITUIÇÕES,0.0
+dezembro,1.9.2.2.99.0.3.001,DIV ATIVA OUTRA RESTITUIÇÕES,0.0
+dezembro,1.9.2.2.99.0.4.001,M/J DIV ATIVA OUTRAS RESTITUIÇÕES,0.0
+dezembro,1.9.2.3.99.0.1.001,CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,51672.1
+dezembro,1.9.2.3.99.0.2.001,M/J CONTRIBUIÇÃO SOCIAL LOTEAMENTOS,0.0
+dezembro,1.9.9.9.03.0.1.000,Compensações Financeiras entre o Regime Geral e os,116300.44
+dezembro,1.9.9.9.12.2.1.001,Ônus de Sucumbência - Principal,3619.23
+dezembro,1.9.9.9.99.2.1.001,Outras Receitas Não Arrecadadas e Não Projetadas p,0.0
+dezembro,2.2.1.3.01.0.1.001,ALIENAÇÃO DE BENS MOVEIS,0.0
+dezembro,2.2.2.1.01.0.1.001,ALIENAÇÃO DE BENS IMOVEIS,1435096.39
+dezembro,2.4.1.9.99.0.1.012,OUTRAS TRANS. FEDERAL - OBRAS,0.0
+dezembro,2.4.2.2.50.0.1.003,UBS Qualivida,0.0
+dezembro,2.4.2.2.99.0.1.009,CASA DA JUVENTUDE,0.0
+dezembro,2.4.2.2.99.0.1.017,Centro de Convivência,0.0
+dezembro,2.4.2.2.99.0.1.030,OUTRAS TRANSF. ESTADO - OBRAS,0.0
+dezembro,2.4.2.2.99.0.1.034,AMPLIAÇÃO CRECHE DONA BENTA,0.0
+dezembro,2.4.2.2.99.0.1.037,DADETUR - CENTRO CULTURAL,0.0
+dezembro,2.4.2.9.51.0.1.001,PAINSP INVEST ALFABETIZA JUNTOS,148420.0
+dezembro,7.2.1.5.02.1.1.001,Contribuição Patronal-Serv. Civil Ativo-Prefeitura,-3068436.57
+dezembro,7.2.1.5.02.1.1.002,Contribuição Patronal - Serv. Civil Ativo - Câmara,-43899.83
+dezembro,7.2.1.5.02.1.1.004,Contribuição Patronal-Serv. Civil Ativo-Instituto,-2560.62
+dezembro,7.2.1.5.02.1.1.007,Cont. Patronal Suplementar - Ativos PMO,4480561.66
+dezembro,7.2.1.5.02.1.1.008,Cont. Patr. Especial - Ativos Magisterio PMO,1579370.15
+dezembro,7.2.1.5.02.1.1.009,Cont. Patr. Suplementar- Ativos Câmara,95630.59
+dezembro,7.9.2.3.99.0.1.001,Outros Ressarcimentos - Daemo,0.0
+dezembro,7.9.2.3.99.0.1.002,Outros Ressarcimentos - Instituto,5164.89
+dezembro,7.9.2.3.99.0.1.003,Outros Ressarcimentos - Câmara,6334.98
+dezembro,7.9.9.9.01.0.1.001,APORTES PARA COBERTURA DE DEFICIT,40476.2
+dezembro,1.7.1.3.50.1.1.009,MANUTENÇÃO ACADEMIA DA SAUDE,18000.0
+dezembro,1.9.2.2.99.0.1.004,Restituições,0.0
+dezembro,1.9.2.2.99.0.1.003,Restituições,0.0
+dezembro,1.9.2.2.99.0.1.001,Outras Restituições - Principal,0.0
+dezembro,1.9.2.2.99.0.1.001,Outras Restituições - Principal,1816891.17
+dezembro,1.7.2.9.51.0.1.019,CUST SERV VIG SOCIOASSIST,0.0
+dezembro,1.7.2.9.51.0.1.020,INSTITUTO O AMOR,9750.0
+dezembro,1.7.2.9.51.0.1.022,SERV ACOLHIMENTO CASA LAR,10000.0
+dezembro,1.7.2.9.51.0.1.023,SERV DE ACOLHIMENTO PARA IDOSOS,5000.0
+dezembro,1.7.2.9.52.0.1.001,PAINSP CUSTEIO ALFABETIZA JUNTOS,46480.0
+dezembro,1.7.2.9.99.0.1.001,OUTRAS TRANSF ESTADO EDUCAÇÃO,0.0
+dezembro,1.7.2.9.99.0.1.005,OUTRAS TRANSFERENCIAS ESTADO - ASS SOCIAL,0.0
+dezembro,1.7.3.9.99.0.1.001,CASA ABRIGO ADOLESCENTE,6999.0
+dezembro,1.7.3.9.99.0.1.002,CASA ABRIGO NOSSO LAR,12216.0
+dezembro,1.7.4.1.99.0.1.001,DOAÇÕES FUNDO CRIANÇA E ADOLESCENTE,62535.0
+dezembro,1.7.4.1.99.0.1.002,DOAÇÕES FUNDO DO IDOSO,72585.0
+dezembro,1.7.4.1.99.0.1.006,DOAÇÃO SOC BRAS DE DERMATOLOGIA,1000.0
+dezembro,1.7.5.1.50.0.1.000,TRANSF FUNDO DE MANUTENÇÃO - FUNDEB,5658434.63
+dezembro,1.9.1.1.01.0.1.001,MULTA POR AUTO DE INFRAÇÃO,9280.85
+dezembro,1.7.2.9.51.0.1.016,PSE ALTA EXPANSÃO,0.0
+dezembro,1.9.1.1.01.0.1.002,SOM ALTO - MULTA AUTO DE INFRAÇÃO,0.0
+dezembro,1.9.1.1.01.0.2.002,M/J MULTAS,221.09
+dezembro,1.9.1.1.01.0.2.003,MULTA POR VIOLAÇÃO DE LACRE E OUTROS,60.85
+dezembro,1.9.1.1.01.0.2.004,MULTA/ JUROS VIOLAÇÃO DE LACRE,0.0
+dezembro,1.9.1.1.01.0.3.001,MULTAS DIV ATIVA INFRAÇÃO,14559.41
+dezembro,1.9.1.1.01.0.3.002,MULTA VIOLAÇÃO DE LACRE E OUTROS - DIVIDA ATIVA,0.0
+dezembro,1.9.1.1.01.0.4.001,M/J DIV ATIVA MULTAS,2154.17
+dezembro,1.9.1.1.01.0.4.005,M/J DIV ATIVA VIOLAÇÃO DE LACRE,0.0
+dezembro,1.9.1.1.06.1.2.001,MULTAS ADMINISTRATIVAS POR DANOS AMBIENTAIS,0.0
+dezembro,1.9.1.1.09.0.1.001,MULTA PREVISTA EM CONTRATOS,0.0
+dezembro,1.9.1.1.09.0.2.001,MULTA PREVISTA EM CONTRATOS,0.0
+dezembro,1.9.1.1.09.0.3.001,D A MULTA PREV. EM CONTRATOS,0.0
+dezembro,1.9.1.1.09.0.4.001,Multas e Juros Previstos em Contratos - Dívida Ati,0.0
+dezembro,1.9.1.1.14.0.1.001,OLIMPIA MULTAS DE TRANSITO,21119.75
+dezembro,1.9.2.1.99.0.1.001,Outras Indenizações - Principal,0.0
+dezembro,1.9.1.1.01.0.2.001,MULTA POR ATO DE INFRAÇÃO,0.0
+dezembro,1.7.1.3.50.1.1.006,PAB SAUDE BUCAL,93081.99
+dezembro,1.1.1.4.51.1.2.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,30531.21
+dezembro,1.7.1.2.52.1.1.000,Cota-parte da Compensação Financeira pela Produção,20528.45
+dezembro,1.1.2.2.01.0.3.003,DIV ATIVA TX PROT ACIDENTES,16718.04
+dezembro,1.1.2.2.01.0.3.004,DIV ATIVA REMOÇÃO LIXO,177762.72
+dezembro,1.1.2.2.01.0.3.005,DA OUT. TAXAS PREST SERVIÇOS,0.0
+dezembro,1.1.2.2.01.0.4.001,M/J DIV ATIVA TX PREST SERVIÇOS,344.16
+dezembro,1.1.2.2.01.0.4.002,M/J DIV ATIVA TX INCENDIO,1240.18
+dezembro,1.1.2.2.01.0.4.003,M/J DIV ATIVA TX PROT ACIDENTES,2404.21
+dezembro,1.1.2.2.01.0.4.004,M/J DIV ATIVA REMOÇÃO LIXO,31065.05
+dezembro,1.1.2.2.01.0.4.005,M/J DA OUT. TAXAS PREST SERVIÇOS,0.0
+dezembro,1.2.1.5.01.1.1.001,Contribuição do Servidor Civil Ativo - Câmara,32919.56
+dezembro,1.2.1.5.01.1.1.002,Contribuição do Servidor Civil Ativo - Prefeitura,1735579.45
+dezembro,1.2.1.5.01.1.1.004,Contribuição do Servidor Civil Ativo - Instituto,2065.53
+dezembro,1.2.1.5.01.2.1.003,CONTRIB.SERVIDOR CIVIL INATIVO-INSTITUTO,24512.66
+dezembro,1.2.1.5.01.3.1.003,CONTRIB.SERVIDOR CIVIL-PENSIONISTAS-INSTITUTO,3077.58
+dezembro,1.2.4.1.50.0.1.000,Contribuição para o Custeio do Serviço de Iluminaç,496417.24
+dezembro,1.2.4.1.50.0.2.000,Contribuição para o Custeio do Serviço de Iluminaç,1128.46
+dezembro,1.2.4.1.50.0.3.000,Contribuição para o Custeio do Serviço de Iluminaç,23154.83
+dezembro,1.2.4.1.50.0.4.000,Contribuição para o Custeio do Serviço de Iluminaç,2521.28
+dezembro,1.3.1.1.01.1.1.001,ALUGUEIS,0.0
+dezembro,1.3.1.1.01.1.2.001,M/J ALUGUEIS,0.0
+dezembro,1.3.1.1.01.1.3.001,DIV ATIVA ALUGUEIS,0.0
+dezembro,1.3.1.1.01.1.4.001,M/J DIV ATIVA ALUGUEIS,0.0
+dezembro,1.3.1.1.02.0.2.001,M/J CONCESSÃO DE ESPAÇO,0.0
+dezembro,1.3.1.1.02.0.3.001,D A CONCESSÃO DE ESPAÇO,0.0
+dezembro,1.3.1.1.02.0.4.001,M/J D A CONCESSÃO DE ESPAÇO,0.0
+dezembro,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,965489.64
+dezembro,1.3.2.1.01.0.1.001,REC REM OUTR DEP DE REC NÃO VINCULADA,1578.53
+dezembro,1.3.2.1.01.0.1.002,REC REM DEP BANC ROYALTIES,172.05
+dezembro,1.3.2.1.01.0.1.004,REC REM DEP BANC MDE,1245.38
+dezembro,1.3.2.1.01.0.1.005,REC REM SERVIÇOS AÇÕES DE SAUDE,7684.31
+dezembro,1.1.2.2.01.0.3.002,DIV ATIVA TX INCENDIO,4181.02
+dezembro,1.1.2.2.01.0.3.001,DIV ATIVA TX PREST SERVIÇOS,3826.84
+dezembro,1.1.2.2.01.0.2.005,M/J OUT. TAXAS PREST SERVIÇOS,0.0
+dezembro,1.1.2.2.01.0.2.004,M/J REMOÇÃO LIXO,7056.07
+dezembro,1.1.1.2.50.0.1.001,IMPOSTOS S/PREDIAL URBANO,809105.95
+dezembro,1.1.1.2.50.0.1.002,IMP. S/PROP. TERRITORIAL URBANA,573009.36
+dezembro,1.1.1.2.50.0.2.001,IPTU M/J,18438.85
+dezembro,1.1.1.2.50.0.3.001,IPTU DIV ATIVA,589830.42
+dezembro,1.1.1.2.50.0.4.001,M/J DIV ATIVA IPTU,78874.32
+dezembro,1.1.1.3.03.1.1.001,Imposto sobre a Renda - Retido na Fonte - Trabalho,1584833.28
+dezembro,1.1.1.3.03.4.1.000,Imposto sobre a Renda - Retido na Fonte - Outros R,331511.2
+dezembro,1.1.1.4.51.1.1.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,4135634.42
+dezembro,1.1.1.4.51.1.3.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,130660.93
+dezembro,1.1.1.4.51.1.4.000,Imposto sobre Serviços de Qualquer Natureza - ISSQ,19657.46
+dezembro,1.1.2.1.01.0.1.001,TX DE LIC FUNC E ESTAB COMERCIAL,22206.5
+dezembro,1.1.2.1.01.0.1.002,TX DE PUBLICIDADE COMERCIAL,2546.02
+dezembro,1.1.2.1.01.0.1.003,TX DE FUNC DE ESTAB EM HOR ESPECIAL,1267.63
+dezembro,1.1.2.1.01.0.1.004,TX AUTORIZAÇÃO,0.0
+dezembro,1.3.2.1.01.0.1.007,REC REM DEP BANC FNAS,12068.75
+dezembro,1.1.2.1.01.0.1.005,TX DE LICENÇA PARA EXECUÇÃO DE OBRAS,90022.99
+dezembro,1.1.2.1.01.0.2.000,M/J TX FISCALIZAÇÃO,1484.71
+dezembro,1.1.2.1.01.0.3.000,DIV ATIVA TX FISCALIZAÇÃO,29125.78
+dezembro,1.1.2.1.01.0.4.000,M/J DIV ATIVA TX DE FISCALIZAÇÃO,3050.66
+dezembro,1.1.2.1.04.0.1.000,Taxa de Controle e Fiscalização Ambiental - Princi,0.0
+dezembro,1.1.2.1.50.0.1.000,Taxa de Fiscalização de Vigilância Sanitária - Pri,22297.75
+dezembro,1.1.2.1.50.0.2.000,Taxa de Fiscalização de Vigilância Sanitária - Mu,452.92
+dezembro,1.1.2.1.50.0.3.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,2593.19
+dezembro,1.1.2.1.50.0.4.000,Taxa de Fiscalização de Vigilância Sanitária - Dív,651.41
+dezembro,1.1.2.2.01.0.1.001,TAXA DE LIMPEZA IMOVEL URBANO,2657.09
+dezembro,1.1.2.2.01.0.1.002,REMOÇÃO LIXO DOMICILIAR,525988.5
+dezembro,1.1.2.2.01.0.1.003,TAXA PROTEÇÃO DE ACIDENTES,55350.3
+dezembro,1.1.2.2.01.0.1.005,OUTRAS TAXAS PREST SERVIÇOS,0.0
+dezembro,1.1.2.2.01.0.2.001,M/J TX PREST SERVIÇOS,83.88
+dezembro,1.1.2.2.01.0.2.003,M/J TX PROTEÇÃO DE ACIDENTES,701.3
+dezembro,1.1.2.1.01.0.1.006,TX DE UTIL AREA DOM PUBLICO,180.66
+dezembro,1.7.1.3.50.1.1.004,PAB AG COMUNITARIO SAUDE,0.0
+dezembro,1.3.2.1.01.0.1.008,REC REM OUT DEP REC VINCULADOS,5085.62
+dezembro,1.3.2.1.01.0.1.014,REC REND DE BANC FUNDEB,14239.58
+dezembro,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,86.49
+dezembro,1.6.2.1.02.0.1.001,Serviços de Transporte de Passageiros ou Mercadori,63203.13
+dezembro,1.6.9.9.99.0.1.001,PRESTAÇÃO DE SERVIÇO PATRULHA AGRICOLA,723.55
+dezembro,1.6.9.9.99.0.1.002,OUTROS SERVIÇOS,1509.17
+dezembro,1.6.9.9.99.0.1.003,SERVIÇOS DE LIGAÇÃO DE AGUA,3.36
+dezembro,1.6.9.9.99.0.1.004,SERVIÇOS DE LIGAÇÃO DE ESGOTOS,0.0
+dezembro,1.6.9.9.99.0.1.005,SERVIÇOS DE RELIGAÇÃO DE AGUA,0.0
+dezembro,1.6.9.9.99.0.1.007,MUDANÇA DE CAVALETE,8.16
+dezembro,1.6.9.9.99.0.1.010,LIMPA FOSA,0.0
+dezembro,1.6.9.9.99.0.1.011,AGUA POTAVEL PIPA,0.0
+dezembro,1.6.9.9.99.0.1.012,LOCAÇÃO DE MAQUINAS E EQUIPAMENTOS,0.0
+dezembro,1.6.9.9.99.0.1.013,AVISO CONTA VENCIDA,0.49
+dezembro,1.6.9.9.99.0.1.015,POSTAGEM,0.0
+dezembro,1.6.9.9.99.0.1.016,OUTROS SERVIÇOS,13.14
+dezembro,1.6.9.9.99.0.1.017,OUTRAS RECEITAS,2174.19
+dezembro,1.6.9.9.99.0.2.001,M/J PATRULHA AGRICOLA,0.0
+dezembro,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,0.0
+dezembro,1.6.9.9.99.0.2.002,Outros Serviços - Multas e Juros,56.58
+dezembro,1.6.9.9.99.0.3.001,DIV ATIVA PATRULHA AGRICOLA,0.0
+dezembro,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,0.0
+dezembro,1.6.9.9.99.0.3.002,Outros Serviços - Dívida Ativa,4500.0
+dezembro,1.6.9.9.99.0.4.001,M/J DIV ATIVA PATRULHA AGRICOLA,0.0
+dezembro,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,0.0
+dezembro,1.6.9.9.99.0.4.002,Outros Serviços - Dívida Ativa - Multas e Juros,646.64
+dezembro,1.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,6554551.29
+dezembro,9.7.1.1.51.1.1.000,Cota-Parte do Fundo de Participação dos Municípios,-1310910.22
+dezembro,1.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,114161.78
+dezembro,9.7.1.1.52.0.1.000,Cota-Parte do Imposto Sobre a Propriedade Territor,-22832.34
+dezembro,1.7.1.2.51.0.1.000,Cota-parte da Compensação Financeira pela Exploraç,4979.6
+dezembro,1.6.1.1.01.0.4.001,TARIFAS MULTA/JUROS DIV ATIVA,0.0
+dezembro,9.6.1.1.01.0.3.002,DESCONTOS SOCIAIS DIV ATIVA ESGOTO,0.0
+dezembro,1.6.1.1.01.0.3.002,TARIFA AMPLIAÇÃO DIVIDA RECONHECIDA,5106.27
+dezembro,9.6.1.1.01.0.3.001,DESCONTOS SOCIAIS DIV ATIVA AGUA,0.0
+dezembro,1.3.2.1.01.0.1.018,RENDIMENTOS ESCOLA PROFISSIONAL,316.17
+dezembro,1.3.2.1.01.0.1.019,REC REND SAUDE ESTADO,2333.96
+dezembro,1.3.2.1.01.0.1.020,REC REND SAUDE FEDERAL,27857.43
+dezembro,1.3.2.1.01.0.1.021,REC REND DUODECIMO CAMARA,37421.14
+dezembro,1.3.2.1.01.0.1.022,REC REM EDUCAÇÃO - ESTADUAL,2889.85
+dezembro,1.3.2.1.01.0.1.023,REC REM EDUCAÇÃO - FEDERAL,37649.56
+dezembro,1.3.2.1.01.0.1.024,REC REM ASS SOCIAL - ESTADUAL,7125.2
+dezembro,1.3.2.1.01.0.1.025,REC REM ASS SOCIAL - FEDERAL,669.74
+dezembro,1.3.2.1.01.0.1.029,REC REND FUNDEB ETI,4537.47
+dezembro,1.3.2.1.04.0.1.000,Remuneração dos Recursos do Regime Próprio de Prev,29544.06
+dezembro,1.3.2.2.01.0.1.001,DIVIDENDOS,17.51
+dezembro,1.3.3.9.99.0.1.002,OUTORGA VARIÁVEL,5966.9
+dezembro,1.3.6.1.01.1.1.001,Cessão do Direito de Operacionalização de Pagament,0.0
+dezembro,1.3.6.1.01.1.1.001,Cessão do Direito de Operacionalização de Pagament,0.0
+dezembro,1.3.2.1.01.0.1.010,REC REM DEP BANC CIDE,60.0
+dezembro,1.6.1.1.01.0.1.001,TARIFA DE MANIFESTAÇÃO DE ORGÃO AMBIENTAL,0.0
+dezembro,1.6.1.1.01.0.1.005,TARIFAS DE CONSUMO DE AGUA,513.74
+dezembro,9.6.1.1.01.0.1.005,DESCONTOS SOCIAIS - ÁGUA,0.0
+dezembro,1.6.1.1.01.0.1.006,TARIFS UTIL. ESGOTO SANITARIO,400.7
+dezembro,9.6.1.1.01.0.1.006,DESCONTOS SOCIAIS ESGOTO,0.0
+dezembro,1.6.1.1.01.0.1.007,TARIFA ESGOTO REFERENTE POÇO,0.0
+dezembro,1.6.1.1.01.0.1.018,TARIFAS DE DISPOSIÇÃO DE RESIDUOS CONSTR.CIVIL,23462.38
+dezembro,1.6.1.1.01.0.1.020,CERTIFICADO DE DISPENSA DE LICENÇA CDL,259.14
+dezembro,1.6.1.1.01.0.1.021,AUTORIZAÇÃO DE CORTE DE ARVORE ISOLADA,0.0
+dezembro,1.6.1.1.01.0.1.022,PARECER TECNICO AMBIENTAL,0.0
+dezembro,1.6.1.1.01.0.1.023,CERTIDÃO NEGATIVA DE DEBITOS AMBIENTAIS,0.0
+dezembro,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,74.65
+dezembro,1.6.1.1.01.0.2.001,TARIFAS MULTAS/JUROS,16.99
+dezembro,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,0.0
+dezembro,1.6.1.1.01.0.3.001,DIV ATIVA TARIFAS,5864.09
+dezembro,1.6.1.1.01.0.1.004,VISTORIA DE SUPRESSÃO DE ARVORE EM CALÇADA,37.34
+dezembro,7.9.9.9.01.0.1.002,AMORT. DEFICIT DIV ATIVA/MULTA JUROS INTRA,479.25
