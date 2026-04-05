@@ -58,7 +58,7 @@ https://www.olimpia.sp.gov.br/portal/contas_publicas/1/30/139/0/0/0/
 * Identificada variação significativa ao longo do ano
 * Maior arrecadação em dezembro
 * Menor arrecadação em junho
-* 
+
 ![Crescimento](images/image.png)
 
 ### 📉 Crescimento Mensal (%)
@@ -67,10 +67,10 @@ https://www.olimpia.sp.gov.br/portal/contas_publicas/1/30/139/0/0/0/
 * Maior crescimento: **dezembro (+38,77%)**
 * Maior queda: **setembro (-23,31%)**
 
-![Crescimento](images\image2.png)
+![Crescimento](images/image2.png)
 
 ### 📉 Grafico de Crescimento Mensal (%)
-![Crescimento](images\imageGraph.png)
+![Crescimento](images/imageGraph.png)
 
 ### 💰 Principais Fontes de Receita
 
@@ -81,7 +81,7 @@ Top 4 receitas:
 3. Fundo de Participação dos Municípios (FPM)
 4. O FUNDEB aparece como uma das receitas relevantes, indicando forte participação de transferências vinculadas à educação no orçamento municipal.
 
-![Crescimento](images\image3.png)
+![Crescimento](images/image3.png)
 
 ---
 
